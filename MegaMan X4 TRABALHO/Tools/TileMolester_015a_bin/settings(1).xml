@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE settings SYSTEM "settings.dtd">
+<settings>
+  <property key="locale" value="en_US"/>
+  <property key="viewStatusBar" value="true"/>
+  <property key="viewToolBar" value="true"/>
+  <property key="maxRecentFiles" value="10"/>
+  <property key="recentFile" value="I:\programas\games\[PSX] Castlevania Symphony of the Night\PSP\ISO EXTRAIDA\USRDIR\res\psp\en\title.res"/>
+  <property key="recentFile" value="I:\programas\games\[PSX] Castlevania Symphony of the Night\PSP\ISO EXTRAIDA\USRDIR\res\ps\save00.tm2"/>
+  <property key="recentFile" value="I:\programas\games\[PSX] Castlevania Symphony of the Night\PSP\ISO EXTRAIDA\USRDIR\res\ps\WARNING.TIM"/>
+  <property key="recentFile" value="I:\programas\games\[PSX] Castlevania Symphony of the Night\PSP\ISO EXTRAIDA\USRDIR\res\psp\title2.res"/>
+  <property key="recentFile" value="I:\programas\games\[PSX] Castlevania Symphony of the Night\PSP\ISO EXTRAIDA\USRDIR\res\pce\arc\14font_16color.tm2"/>
+  <property key="recentFile" value="I:\programas\games\[PSX] Castlevania Symphony of the Night\ISO EXTRAIDA\ST\SEL\F_SEL.BIN"/>
+</settings>

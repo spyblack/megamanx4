@@ -1,0 +1,6 @@
+[00]STINGRAY[ENDLINE]
+[10]Eca! Ele ainda está[ENDLINE]
+atrás de mim![ENDBOX]
+[00]STINGRAY[ENDLINE]
+[10]Já chega. Vamos[ENDLINE]
+resolver isso agora![ENDTEXT]

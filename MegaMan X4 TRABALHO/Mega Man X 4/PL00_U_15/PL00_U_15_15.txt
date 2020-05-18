@@ -1,0 +1,6 @@
+[00]OWL[ENDLINE]
+[10]How dare you[ENDLINE]
+destroy my unit![ENDBOX]
+[00]OWL[ENDLINE]
+[10]You'll pay for this[ENDLINE]
+with your life![ENDTEXT]

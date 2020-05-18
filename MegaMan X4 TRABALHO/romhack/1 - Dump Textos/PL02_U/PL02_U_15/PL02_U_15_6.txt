@@ -1,0 +1,6 @@
+[00]MILITARY TRAIN[ENDLINE]
+[10]A military train is[ENDLINE]
+moving supplies.[ENDBOX]
+[00]MILITARY TRAIN[ENDLINE]
+[10]Cut off Repliforce's[ENDLINE]
+supply route.[ENDTEXT]

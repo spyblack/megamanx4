@@ -1,0 +1,6 @@
+[08]VULCÃO[ENDLINE2]
+[18]Dragoon da unidade[ENDLINE2]
+14 é um traidor.[ENDBOX2]
+[08]VULCÃO[ENDLINE2]
+[18]Localize e traga-o[ENDLINE2]
+de volta a base hunter.[ENDTEXT2]

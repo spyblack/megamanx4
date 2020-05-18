@@ -1,0 +1,6 @@
+[00]STINGRAY[ENDLINE]
+[10]Argh! He's still[ENDLINE]
+after me![ENDBOX]
+[00]STINGRAY[ENDLINE]
+[10]Enough already.[ENDLINE]
+We settle this now![ENDTEXT]

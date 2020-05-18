@@ -1,0 +1,7 @@
+[00]LIGHTNING WEB[ENDLINE]
+[10]Fires a spider net[ENDLINE]
+charged with[ENDBOX]
+electricity. Can be[ENDLINE]
+used to attack,[ENDLINE]
+wall jump or double[ENDBOX]
+jump.[ENDTEXT]

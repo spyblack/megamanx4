@@ -1,0 +1,6 @@
+[00]TREM MILITAR[ENDLINE]
+[10]Um trem militar está[ENDLINE]
+levando suprimentos.[ENDBOX]
+[00]TREM MILITAR[ENDLINE]
+[10]Elimine a rota de[ENDLINE]
+abastecimento deles.[ENDTEXT]

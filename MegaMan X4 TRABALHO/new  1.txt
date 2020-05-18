@@ -1,0 +1,324 @@
+[color=#ff0000][b][size=3][font=verdana, geneva, sans-serif]Edit 25/04/2014: o Ox me pediu esse tópico para uma ajuda, dai achei um monte de erros de português e acabei dando um up nesse quesito, acho que ainda tem erros mas vai ficar assim, uma pena que o fórum não aceita mais tantas imagens por post, se algum ADMIN. entrar aqui arruma isso nesse post.[/font][/size][/b][/color]
+ 
+[b]   G[/b]ente, abaixo vou descrever algo que a maioria nunca viu ou quando se deparou falou "ISSO AE EH COMPRESSAUM"...
+Então, vou descrever o que é e como editar Gráficos Interleaved.
+
+[font=Verdana][b]!! AVISO, NÃO IREI EXPLICAR BASES HEXA E TAMPOUCO ROMHACKING BÁSICO !![/b][/font]
+
+[i][b]Primeiramente, o que são:[/b][/i]
+[b]  G[/b]eralmente os gráficos de um game de NES utilizam algum tipo de sistema para armazenamento dos TILES na memória ram, visto que a mesma tem espaço para poucos gráficos, dai surgiu os famigerados MAPPERS, existem muitos tipos e geralmente eles se comportam da mesma maneira na rom, e assim fazem swap gráfico para exibir corretamente o que o programador quer, não vou falar a respeito disso, se quiserem saber mais procurem no RH.NET, lá tem livros em TXT que descrevem todos os formatos MMC do NES.
+  [b]A[/b]ssim, o mapper arruma os tiles em posição na tela, mas algumas vezes eles funcionam de forma diferente do convencional, por exemplo, para mostrar de forma convencional um texto, a ROM teria armazenado exatamente a ordem correta de mostra na tela, assim com uma busca relativa (que nada mais é do que buscar pelas sequencias de caracteres ordenados sempre por a-z sendo a diferença entre os 25 caracteres, a=1 e z=25) você deverá encontrar os resultados independentize de qual for a tabela, isso é o modo comum utilizado nas roms.
+  [b]M[/b]as, imagine que o programador falhou na noite passada, ou perdeu o seu NDS no ônibus, e ao invés de usar um método comum utilizasse um mapeamento completamente diferente, embaralhando o texto e só arrumando via MMC, que não usa um encoding facilmente interpretável?
+É exatamente isso que se trata os Gráficos Interleaved, o texto em questão não é arrumado corretamente, mas sim de forma completamente absurda, impossibilitando a edição comum e a busca relativa.
+  *** [b]A[/b]viso, se o seu game pode ter esse tipo de codificação, eu não tenho a mínima ideia, mas o método é abrangente apenas para NES, mas acredito eu que você poderá usar para outras plataformas adequando as coisas. ***
+
+[i][b]Mão na Massa:[/b][/i]
+[b]F[/b]erramentas:
+
+[code=auto:0]ROM            : Mega Man 3 (U) [!].nes / CRC32: 452D8089
+EMULADOR       : FCEUXD SP
+GERADOR TABELAS: Table Maneger
+OUTRA          : BLOCO DE NOTAS OU EDITOR DE TEXTO SIMPLES
+[/code]
+[b]P[/b]rocedimentos:
+[b]   P[/b]rimeiramente, localize onde está localizado o texto que você não localiza por vias normais, no caso do tutorial esse está na Title Screen, como a imagem abaixo mostra:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/_ANTES.jpg]
+
+   [b]N[/b]o caso, chegar até ai é rápido, mas se for algo demorado para chegar no game (como por exemplo os créditos finais), você pode fazer um save state, mas vai um alerta NUNCA FAÇA O SAVE STATE NO LUGAR DO TEXTO, faz antes um pouco, vou explicar o porque mais a frente.
+[b]   A[/b]pós localizar o texto, clique em:
+[b]TOOLS / PPU VIEWER[/b]
+   [b]V[/b]ocê chegará na imagem abaixo, bem conhecida dos romhackers de nes por conter todos os tiles utilizados na imagem que está sendo mostrada no emulador no exato momento:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/PPU_VIEWER.jpg]
+
+   [b]V[/b]eja abaixo para exemplificar o endereçamento da PPU em hexa:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/PPU_VIEWER_tabela_explicado.jpg]
+
+   [b]S[/b]abendo essas informações, anote os valores HEXA, e clique em:
+[b]TOOLS / HEX EDITOR[/b]
+
+   [b]N[/b]a imagem abaixo você vê o editor hexa integrado ao emulador, e diretamente mostra a MEM RAM do console em ação, você pode ver também a PPU do console e também a ROM, no caso vamos ver a PPU, para isso clique em:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/Hex_Editor_PPU.jpg]
+
+   [b]N[/b]esse passo, uma tabela dos valores dos caracteres encontrados na PPU ajudam bastante, com ela completa, clique em [b]FILE/LOAD *.TBL FILE[/b] e encontre a tabela que você criou. Agora encontre a [b]PRIMEIRA OCORRÊNCIA DO TEXTO[/b] que iremos editar, no caso o [b]GAME START[/b], veja as imagens abaixo que mostram os passos:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/Hex_Editor_PPU_tabela.jpg]
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/Hex_Editor_PPU_game_start.jpg]
+
+   [b]A[/b]gora vem a parte mais complexa, clique com o botão direito sobre a letra "G" que tem o valor 0x10, e clique como abaixo é mostrado:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/Hex_Editor_PPU_white_break_point.jpg]
+
+   [b]D[/b]epois disso você encontra a tela abaixo, que é o Debugger do emulador:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger.jpg]
+
+   [b]O[/b]bservando no canto superior direito, encontramos o nosso endereço da PPU selecionado, o que estava escrito o G que vamos buscar. Clique no botão [b]EDIT[/b], irá aparecer um janela para editar o breakpoint, escreva [b]A==#10[/b] na linha [b]CONDITION[/b].
+&nbsp; [b]P[/b]or que foi feito isso? Para que o emulador tivesse uma condição tal para executar alguma coisa alem nesse espaço de memória do PPU, já que a opção PPU MEM está acionada, visto que esse endereço que nós localizamos é da PPU, assim, no caso o "[b]A==[/b]" é uma condição para o emulador dar um break na emulação assim saltar a janela do Debugger mostrando no topo dela a instrução onde foi utilizado aquela condição, no caso o [b]#10[/b], que equivale a letra [b]G[/b] no PPU do emulador. Editando a condição, clique em [b]OK[/b] e faça um [b]RESET[/b], ou aperte [b]F10[/b] na janela do emulador.
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger_2267.jpg]
+
+   [b]D[/b]epois do game iniciado, quando a instrução do endereço fornecido for o emulador vai "pular" para frente o Debugger, mostrando no topo a instrução, depois disso clique algumas vezes para cima nessa janela até aparecer as instruções de forma completa, como está abaixo:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger_2267_resultado.jpg]
+
+   [b]A[/b] instrução LDA faz referência sempre a STA, assim quando STA tem valor 2006/2007 que é o registrador da especial da PPU, o LDA mostra o endereçamento incrementado por X que a PPU está mostrando, no caso o valor incrementado é [b]079B[/b]. Nós anteriormente clicamos para cima nessa janela para voltar algumas linhas e ver a instrução que resultou na referencia ao registrador, no caso [b]STA $2007 = #$00[/b], que vai ser incrementado pelo valor que foi apontado por 0783+X, que resulta em 079B que é igual a #$10, que foi o valor que nós buscamos.
+[b]  C[/b]om esse valor anotado (079B), vamos editar o Breakpoint para buscar a referencia anterior desse valor, como feito na imagem abaixo, notem que foi modificado a busca para CPU:
+
+[url=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger_079B_breakpoint.jpg][img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger_079B_breakpoint.jpg][/url]
+
+   [b]A[/b] busca foi mudada para CPU visto que agora nós temos o endereço a ultima instrução do CPU antes de incrementar na PPU (2007), assim vamos buscar a referencia anterior a esse endereço de memória, para tanto RESET mais uma vez o emulador, vai resultar na imagem abaixo:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger_079B_resultado.jpg]
+
+   [b]N[/b]ote que o endereço que fizemos a busca e o break está agora na instrução STA, note que clicando alguma vezes para cima temos a instrução LDA que resulta no valor que estamos buscando.
+   [b]A[/b] próxima busca está na instrução LDA que depois de incrementada po X resultou em 079B, assim vamos encontrar mais um valor, vamos editar novamente o breakpoint, depois clicando em Ok e fazendo RESET no emulador:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger_06CF_breakpoint.jpg]  [img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/6502_debugger_06CF_resultado.jpg]
+
+   [b]O[/b]lha só, alguma coisa mudou, agora não está sendo incrementado por X o endereço, mas por Y, não sei explicar ainda (claro que tem uma lógica nisso tudo) mas geralmente quando se incrementa por Y a instrução faz alguma referencia a um endereço na RAM que tem relação direta com a ROM, no caso o que estamos buscando, porque se continuarmos fazendo esse processo invertido vamos ir para lugares que não fazem mais break na emulação, então encontramos a primeira instrução depois de carregado o setor da ROM na RAM.
+
+   [b]A[/b]gora, vamos encontrar qual o OFFSET da ROM para editar os caracteres interleaved. Para isso anote o resultado mostrado na ultima figura (o resultado da busca por 079B), abra o editor hexa do emulador (como mostrado antes), e encontre esse endereço, sobre o endereço clique com o botão direito e clique em [b]GO HERE IN ROM FILE[/b], como a figura abaixo mostra:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/Hex_Editor_RAM_GO_ROM.jpg]
+
+   [b]V[/b]ocê vai ser jogado diretamente no lugar onde sua busca resultou na ROM, como mostra a figura abaixo:
+
+[img=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/Hex_Editor_ROM_encontrado.jpg]
+
+   [b]V[/b]eja que já localizei todos os outros valores, alguns por dedução, outros por buscas semelhantes a feita com a letra G, fiz troca de valores colocando números e letras ordenadas para melhor entendimento da sequencia. O resultado de tudo é ver que as letras estão simplesmente espalhadas em um pedaço de código misturado ao mapper da title screen, mesmo ficando confuso para editar, fica claro que o mapper apenas "upa" esses hexas em um ponteiro, e esse é colocado com um code simples no mapper (aparentemente ele aparece logo abaixo ou acima do OFFSET estudado).
+
+   [b]A[/b]baixo um code de tudo que foi feito para a edição desses caracteres, ajuda para o estudo:
+
+[code=auto:0]Dados da frase via PPU:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GAME START
+
+||||||||||-> T = $1D
+
+|||||||||--> R = $1B
+
+||||||||---> A = $0A
+
+|||||||----> T = $1D
+
+||||||-----> S = $1C
+
+|||||------> _ = $24
+
+||||-------> E = $0E
+
+|||--------> M = $16
+
+||---------> A = $0A
+
+|----------> G = $10
+
+
+
+Debug da letra G
+
+ENDEREÇO NA PPU + passos no debug:
+
+Address / MEM / Condition
+
+
+
+- 2267 / PPU / A==#10
+
+- Encontrado:
+
+$C50D:BD 83 07  LDA $0783,X @ $079B = #$10
+
+$C510:8D 07 20  STA $2007 = #$00
+
+
+
+- 079B / CPU / A==#10
+
+- Encontrado:
+
+$EF41:BD CC 06  LDA $06CC,X @ $06CF = #$10
+
+$EF44:9D 98 07  STA $0798,X @ $079B = #$24
+
+
+
+- 06CF / CPU / A==#10
+
+- Encontrado:
+
+$E816:B9 00 BE  LDA $BE00,Y @ $BEBB = #$10
+
+$E819:9D C5 06  STA $06C5,X @ $06CF = #$24
+
+
+
+BEBB apontou para o endereço 027ECB na ROM
+
+OFFSET mostra Carregamento de utilizados, não é o mapper:
+
+Feito teste e descoberto que não são todas as letras:
+
+8A2E3S4A5T6 -> GAME START
+
+7ASS WORD   -> PASS WORD (manter igual)
+
+(02 03 04 24 24 24 24 05 06 07 08)
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Debug da letra A
+
+ENDEREÇO NA PPU + passos no debug:
+
+Address / MEM / Condition
+
+
+
+- 2268 / PPU / A==#0A
+
+- Encontrado:
+
+$C50D:BD 83 07  LDA $0783,X @ $0798 = #$0A
+
+$C510:8D 07 20  STA $2007 = #$00
+
+
+
+- 0798 / CPU / A==#0A
+
+- Encontrado:
+
+$EF41:BD CC 06  LDA $06CC,X @ $06CC = #$0A
+
+$EF44:9D 98 07  STA $0798,X @ $0798 = #$24
+
+
+
+- 0798 / CPU / A==#0A
+
+- Encontrado:
+
+$E810:B9 00 BD  LDA $BD00,Y @ $BDB1 = #$0A
+
+$E813:9D C4 06  STA $06C4,X @ $06CC = #$24
+
+BDB1 apontou para o endereço 027DC1 na ROM
+
+Hexa Original do trexo 27DC0-27DCF
+
+(24 0A 0E 1C 24 24 24 24 0A 1D 24 24 00 00 00 00)
+
+na linha de baixo contem mais dois caracteres (W R)
+
+
+
+GAME_START_
+
+Descostruindo para entendimento
+
+LETRAS  -> abcdefghijkl (27dc0-27dcb)
+
+numeros -> 123456789xy  (27ec1-27ecb)
+
+
+
+E4F5G6H7     -> abaixo do logotipo do numero III
+
+LYB1C2D3I8J9 -> referente a GAME_START_
+
+KXASS WORD   -> referente a PASS WORD
+
+
+
+Processo de substituição do game start para iniciar
+
+L -> j
+
+Y -> o
+
+B -> g
+
+1 -> a
+
+C -> r
+
+2 ->&nbsp;
+
+D -> a
+
+I -> g
+
+8 -> o
+
+J -> r
+
+9 -> a
+
+
+
+Ajustando o Pass Word para uma espaço antes:
+
+_ -> 27DCA -> P
+
+P -> 27ECA -> A
+
+A -> 27D8D -> S
+
+S -> 27E8E -> S
+
+S -> 27DE5 -> _
+
+_ -> 27EE5 -> W
+
+W -> 27DD7 -> O
+
+O -> 27ED7 -> R
+
+R -> 27DDF -> D
+
+D -> 27EDF -> _
+
+[/code]
+   [b]E[/b]nfim resultando na imagem abaixo no game:
+
+[url=http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/_DEPOIS.jpg]http://img.photobucket.com/albums/v482/spyblack/tutorial%20NES%20Interleaved/_DEPOIS.jpg[/url]
+
+
+   [b]É[/b] isso ai, esse tutorial foi resultado de algumas leituras básicas, abaixo irei colocar as referencias:
+[url=http://www.romhacking.net/docs/325/]Text Routines: Locating them with FCEUXD, por RedComet[/url]
+[url=http://www.brgames.org/tutoriais/nesasmbyOdin.pdf]Aulas de Assembly para NES (Motorola 6502), por Odin[/url]
+[url=http://www.obelisk.demon.co.uk/6502/reference.html]Instruction Reference[/url]
+[url=http://www.romhacking.net/docs/nestech.txt]NES TECH[/url]
+ 
+[quote]
+Muito bom mesmo, spyblack! Muito bem explicado... Gostei bastante!
+Agora só pra efeito de coerência, faça a seguinte correção:
+
+Aqui ficou faltado o [b]3[/b] dos valores correspondentes: (D[b]3[/b]I8J[color=#FF0000]9[/color])
+[color=#FFA500]81[/color] D -> a
+[color=#FFA500]82[/color] I -> g
+[color=#FFA500]83[/color] 8 -> o
+[color=#FFA500]84[/color] J -> r
+[color=#FFA500]85[/color] 9 -> a
+[color=#FFA500]86[/color]
+
+Então ficará assim:
+[color=#FFA500]81[/color] D -> a
+[color=#FFA500]82[/color] 3 -> g
+[color=#FFA500]83[/color] I -> o
+[color=#FFA500]84[/color] 8 -> r [i][b]--->não altera o original[/b][/i]
+[color=#FFA500]85[/color] J -> a
+[color=#FFA500]86[/color]
+[/quote]
+
+[]´

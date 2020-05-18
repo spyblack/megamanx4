@@ -1,0 +1,6 @@
+[00]SNOW BASE[ENDLINE]
+[10]We've discovered a[ENDLINE]
+hidden snow base.[ENDBOX]
+[00]SNOW BASE[ENDLINE]
+[10]Halt production of[ENDLINE]
+their new weapon.[ENDTEXT]

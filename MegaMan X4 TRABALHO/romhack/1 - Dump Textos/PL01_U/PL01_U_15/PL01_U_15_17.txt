@@ -1,0 +1,6 @@
+[00]RAIJINGEKI[ENDLINE]
+[10]S.M. button on[ENDLINE]
+the ground.[ENDBOX]
+Lightning attack.[ENDLINE]
+Effective against[ENDLINE]
+distant enemies.[ENDTEXT]

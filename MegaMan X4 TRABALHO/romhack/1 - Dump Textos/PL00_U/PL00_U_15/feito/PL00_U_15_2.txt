@@ -1,0 +1,6 @@
+[08]FORÇA AÉREA[ENDLINE2]
+[18]A nave da Repliforce[ENDLINE2]
+acaba de decolar.[ENDBOX2]
+[08]FORÇA AÉREA[ENDLINE2]
+[18]Persiga e destrua a[ENDLINE2]
+a nave em pleno ar.[ENDTEXT2]

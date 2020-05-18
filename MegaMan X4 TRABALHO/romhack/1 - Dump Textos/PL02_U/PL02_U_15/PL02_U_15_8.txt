@@ -1,0 +1,6 @@
+[00]SPIDER[ENDLINE]
+[10]You've labeled us[ENDLINE]
+all as Mavericks![ENDBOX]
+[00]SPIDER[ENDLINE]
+[10]I won't let you[ENDLINE]
+pass. Turn back now![ENDTEXT]

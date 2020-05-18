@@ -1,0 +1,8 @@
+[00]SIGMA[ENDLINE]
+[10]Hee hee hee. You[ENDLINE]
+are very good, X![ENDBOX]
+[00]SIGMA[ENDLINE]
+[10]But not for long.[ENDLINE]
+You won't be able to[ENDBOX]
+[00]SIGMA[ENDLINE]
+[10]evade this attack![ENDTEXT]

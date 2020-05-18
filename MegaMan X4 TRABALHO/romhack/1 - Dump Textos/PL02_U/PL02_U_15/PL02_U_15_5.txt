@@ -1,0 +1,6 @@
+[00]BIO LAB.[ENDLINE]
+[10]The abandoned lab is[ENDLINE]
+now operational.[ENDBOX]
+[00]BIO LAB.[ENDLINE]
+[10]Investigate and[ENDLINE]
+destroy the lab.[ENDTEXT]

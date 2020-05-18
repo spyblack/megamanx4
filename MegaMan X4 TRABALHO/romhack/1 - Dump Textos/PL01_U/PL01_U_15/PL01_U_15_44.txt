@@ -1,0 +1,6 @@
+[00]SIGMA[ENDLINE]
+[10]I've been waiting[ENDLINE]
+for you Zero![ENDBOX]
+[00]SIGMA[ENDLINE]
+[10]It's time for us[ENDLINE]
+to settle this![ENDTEXT]

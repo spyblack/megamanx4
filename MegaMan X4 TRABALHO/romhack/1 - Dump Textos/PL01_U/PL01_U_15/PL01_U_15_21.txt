@@ -1,0 +1,4 @@
+[00]HIENKYAKU[ENDLINE]
+[10]Dash button while[ENDLINE]
+jumping. May be[ENDBOX]
+executed in the air.[ENDTEXT]

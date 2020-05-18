@@ -1,0 +1,6 @@
+[00]FROST TOWER[ENDLINE]
+[10]Generates a huge ice[ENDLINE]
+block that acts as a[ENDBOX]
+shield. May also be[ENDLINE]
+used to trap enemies[ENDLINE]
+before dissipating.[ENDTEXT]

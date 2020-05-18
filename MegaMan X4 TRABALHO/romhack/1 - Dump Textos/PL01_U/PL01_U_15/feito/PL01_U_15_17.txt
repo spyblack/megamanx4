@@ -1,0 +1,6 @@
+[00]RAIJINGEKI[ENDLINE]
+[10]Botão S.M.[ENDLINE]
+no chão.[ENDBOX]
+Ataque Elétrico.[ENDLINE]
+Efetivo contra[ENDLINE]
+inimigos distantes.[ENDTEXT]

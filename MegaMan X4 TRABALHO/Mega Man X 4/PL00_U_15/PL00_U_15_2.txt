@@ -1,0 +1,6 @@
+[08]AIR FORCE[ENDLINE2]
+[18]The Repliforce ship[ENDLINE2]
+has taken off.[ENDBOX2]
+[08]AIR FORCE[ENDLINE2]
+[18]Pursue and blast[ENDLINE2]
+it out of the air.[ENDTEXT2]

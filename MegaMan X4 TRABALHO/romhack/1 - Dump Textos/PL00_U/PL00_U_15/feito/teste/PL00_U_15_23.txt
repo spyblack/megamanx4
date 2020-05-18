@@ -1,0 +1,8 @@
+[00]DOUBLE CYCLONE[ENDLINE]
+[10]Atire ciclones de[ENDLINE]
+ar pela esquerda e[ENDBOX]
+pela direita.[ENDLINE]
+Mais efetivo contra[ENDLINE]
+inimigos que te secaram[ENDLINE]
+e contra inimigos[ENDLINE]
+aéreos.[ENDTEXT]

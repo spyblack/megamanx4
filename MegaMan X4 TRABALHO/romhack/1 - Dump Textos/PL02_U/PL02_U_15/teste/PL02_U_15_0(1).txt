@@ -1,0 +1,6 @@
+[08]FLORESTA[ENDLINE2]
+[18]Infiltre-se na selva[ENDLINE2]
+ocupada pelos[ENDBOX2]
+[08]FLORESTA[ENDLINE2]
+[18]inimigos e destrua a[ENDLINE2]
+arma em construção.[ENDTEXT2]

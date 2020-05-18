@@ -1,0 +1,8 @@
+[00]TWIN SLASHER[ENDLINE]
+[10]Atira duas laminas[ENDLINE]
+em direções diferente.[ENDBOX]
+Esta arma tem grande[ENDLINE]
+alcance de fogo e[ENDLINE]
+por conta desse[ENDBOX]
+alcance ficará fácil[ENDLINE]
+atingir os inimigos.[ENDTEXT]

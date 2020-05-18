@@ -1,0 +1,6 @@
+[00]OWL[ENDLINE]
+[10]Como ousa destruir[ENDLINE]
+minha unidade![ENDBOX]
+[00]OWL[ENDLINE]
+[10]Irá pagar por isso[ENDLINE]
+com sua vida![ENDTEXT]

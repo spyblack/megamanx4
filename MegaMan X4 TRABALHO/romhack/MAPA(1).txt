@@ -1,0 +1,118 @@
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+        MAPA DE EDIÇÃO Mega Man X4
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+Com a ajuda do Nero, temos a ferramenta de
+desempacotamento dos arquivos, abaixo.
+Abaixo temos um mapa da edição para melhor
+organização do romhack envolvido.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         Arquivos para fazer UNDUB
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PL00.ARC contains X's voices
+PL02.ARC contains Zero's voices
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+              Edição Gráfica
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Se você desempacotar o arquivo LOAD_U.ARC,
+as   fontes   estarão  dentro  do  arquivo
+LOAD_U_1.BIN.
+ 
+Eu  uso o Tile Molester  pra visualizar as
+imagens.
+Elas são Modo: 2 Dimensões
+Formato: 4bpp linear, reverse-order.
+
+Dei uma mapeada rápida dos gráficos,
+o que eu achei:
+ 
+ST0E_U0.ARC - Tela de título
+ 
+ST0E_U1.ARC - Player select
+
+ST0F_U1.ARC- Créditos
+
+ST0F_UX.ARC e ST0F_UZ.ARC - Nome das habilidades
+
+ST0D_0X.ARC e ST0D_0Z.ARC - Seleção de missões
+
+STD_1_1U.ARC até STD_1_8U.ARC
+Texto mostrado no inicio das missões,
+ex: "He protects the secret weapon of the jungle".
+ 
+PL00_U.ARC, PL01_U.ARC e PL02_U.ARC
+estão as telas de pausa, por algum motivo a do
+X se repete. Nos arquivos desempacotados
+eles estão nos _5.
+
+Lista de arquivos para editar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ARQUIVO  | % | P | OBS                        
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LOAD_U   |099|100| *falta Press Start
+PL00_U   |000|000| Tela de pausa
+PL01_U   |000|000| Tela de pausa (igual a anterior)
+PL02_U   |000|000| Tela de pausa (igual a anterior)
+ST0D_0X  |000|080| *Feito algumas paletas
+ST0D_0Z  |000|080| Igual ao ST0D_0X com zero
+ST0E_U0  |100|100| TUDO OK
+ST0E_U1  |100|100| Player select
+ST0F_U1  |000|000| Creditos (usa tilemap)
+ST0F_UX  |000|000| YOU GOT / LEARNED do X
+ST0F_UZ  |000|000| YOU GOT / LEARNED do Zero
+STD_1_1U |000|100| He protects the secret weapon of the jungle
+STD_1_2U |000|000| He protects the secret weapon which lies inside the snow base
+STD_1_3U |000|000| 
+STD_1_4U |000|000| 
+STD_1_5U |000|000| 
+STD_1_6U |000|000| 
+STD_1_7U |000|000| 
+STD_1_8U |000|000| 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             Edição de Texto
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Os arquivos que contém os textos são os:
+
+PL00_U.ARC -> Texto do X
+(100 TRADUZIDO | 000 REVISADO | 000 IN GAME)
+PL01_U.ARC -> Texto do Zero
+(100 TRADUZIDO | 000 REVISADO | 000 IN GAME)
+PL02_U.ARC ->
+(100 TRADUZIDO | 000 REVISADO | 000 IN GAME)
+
+Primeiro texto para testes:
+X PL00_U 15_30, ZERO PL01_U_15_25
+
+Quando  desempacotados,  os  arquivos  que
+contém os textos são os PL00_U_15_30.BIN
+para a rota do X.
+ 
+De acordo com os meus testes, o limite  de
+texto  em  cada linha  é de  exatamente 20
+caracteres. Sem contar, claro, com as tags
+entre colchetes.
+
+Termos comuns
+----------------------------------------
+CYBER SPACE      | CIBERESPAÇO
+JUNGLE           | FLORESTA
+AIR FORCE        | FORÇA AÉREA
+VOLCANO          | VULCÃO
+hunter H.Q       | BASE HUNTER
+MARINE BASE      | BASE MARINHA
+Land Chaser      | Land Chaser
+BIO LAB.         | BIO LABORATÓRIO
+MILITARY TRAIN   | TREM MILITAR
+SNOW BASE        | BASE DE GELO
+H. Q.            | BASE
+Sky Lagoon       | Colônia Celeste
+Repliforce       | Repliforça
+Plasma Shot      | Tiros de Plasma
+Memorial Hall    | Museu Memorial
+space port       | porto espacial
+Lightning attack | Ataque Elétrico
+Z Saber          | Sabre Z
+Final Weapon     | Arma Final

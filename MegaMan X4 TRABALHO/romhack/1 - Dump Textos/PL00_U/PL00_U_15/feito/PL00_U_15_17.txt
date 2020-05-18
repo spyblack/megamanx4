@@ -1,0 +1,7 @@
+[00]LIGHTNING WEB[ENDLINE]
+[10]Atira uma teia[ENDLINE]
+carregada de[ENDBOX]
+eletricidade. Pode[ENDLINE]
+usada para atacar,[ENDLINE]
+plataforma ou apoio[ENDBOX]
+para um salto alto.[ENDTEXT]

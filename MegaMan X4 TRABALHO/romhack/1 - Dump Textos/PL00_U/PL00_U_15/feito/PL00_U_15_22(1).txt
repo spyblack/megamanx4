@@ -1,0 +1,6 @@
+[00]AIMING LASER[ENDLINE]
+[10]Mova o cursos até[ENDLINE]
+travar em um inimigo.[ENDBOX]
+Ataque o inimigo[ENDLINE]
+com um feixe laser[ENDLINE]
+direcionado.[ENDTEXT]

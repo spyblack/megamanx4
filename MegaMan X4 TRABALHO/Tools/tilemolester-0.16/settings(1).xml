@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE settings SYSTEM "settings.dtd">
+<settings>
+  <property key="locale" value="pt_BR"/>
+  <property key="viewStatusBar" value="true"/>
+  <property key="viewToolBar" value="true"/>
+  <property key="maxRecentFiles" value="10"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\Tools\tilemolester-0.16\LOAD_U.ARC"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\2 - Edição Gráfica\LOAD_U.ARC"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\2 - Edição Gráfica\edicao fonte\LOAD_U\LOAD_U_1.BIN"/>
+</settings>

@@ -1,0 +1,6 @@
+[00]WALRUS[ENDLINE]
+[10]Mandaram um garoto[ENDLINE]
+para me pegar?[ENDBOX]
+[00]WALRUS[ENDLINE]
+[10]Prometo acabar com[ENDLINE]
+isso bem rápido...[ENDTEXT]

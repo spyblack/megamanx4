@@ -1,0 +1,6 @@
+[00]PEACOCK[ENDLINE]
+[10]I'm impressed you[ENDLINE]
+made it this far![ENDBOX]
+[00]PEACOCK[ENDLINE]
+[10]But you can't beat[ENDLINE]
+me! Get ready![ENDTEXT]

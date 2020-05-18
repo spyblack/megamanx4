@@ -1,0 +1,6 @@
+[00]SIGMA[ENDLINE]
+[10]Ha ha ha ha ha! Feel[ENDLINE]
+my incredible power![ENDBOX]
+[00]SIGMA[ENDLINE]
+[10]Drown in the empty[ENDLINE]
+vastness of space![ENDTEXT]

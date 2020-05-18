@@ -1,0 +1,6 @@
+[00]AIMING LASER[ENDLINE]
+[10]Move the cursor to[ENDLINE]
+lock onto enemies.[ENDBOX]
+Attacks the enemy[ENDLINE]
+with the aiming[ENDLINE]
+laser.[ENDTEXT]

@@ -1,0 +1,6 @@
+[00]SIGMA[ENDLINE]
+[10]Ha ha ha ha! Sinta[ENDLINE]
+meu incrível poder![ENDBOX]
+[00]SIGMA[ENDLINE]
+[10]Suma na imensidão[ENDLINE]
+vazia do espaço![ENDTEXT]

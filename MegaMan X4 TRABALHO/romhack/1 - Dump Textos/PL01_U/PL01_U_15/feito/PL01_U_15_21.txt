@@ -1,0 +1,4 @@
+[00]HIENKYAKU[ENDLINE]
+[10]Botão de corrida[ENDLINE]
+durante o pulo. Pode[ENDBOX]
+ser executado no ar.[ENDTEXT]

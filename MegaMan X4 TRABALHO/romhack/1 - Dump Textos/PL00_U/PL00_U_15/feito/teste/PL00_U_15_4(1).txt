@@ -1,0 +1,6 @@
+[00]BASE MARINHA[ENDLINE]
+[10]A Repliforce dizimou[ENDLINE]
+e abandonou a cidade.[ENDBOX]
+[00]BASE MARINHA[ENDLINE]
+[10]Persiga-os a bordo[ENDLINE]
+do Land Chaser.[ENDTEXT]

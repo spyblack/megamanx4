@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE settings SYSTEM "settings.dtd">
+<settings>
+  <property key="locale" value="en_US"/>
+  <property key="viewStatusBar" value="true"/>
+  <property key="viewToolBar" value="true"/>
+  <property key="maxRecentFiles" value="10"/>
+  <property key="recentFile" value="E:\DROPBOX_SPY\Dropbox\Romhacking\Mega Man ZX\mmzx_graficos\g_back_usa.bin"/>
+  <property key="recentFile" value="E:\DROPBOX_SPY\Dropbox\Romhacking\Mega Man ZX\mmzx_graficos\obj_fnt.bin"/>
+  <property key="recentFile" value="E:\DROPBOX_SPY\Dropbox\Romhacking\Mega Man ZX\mmzx_graficos\g_over_usa.bin"/>
+  <property key="recentFile" value="E:\DROPBOX_SPY\Dropbox\Romhacking\Mega Man ZX\mmzx_graficos\g_back_usa EDIT.bin"/>
+  <property key="recentFile" value="E:\DROPBOX_SPY\Dropbox\Romhacking\Mega Man ZX\mmzx_graficos\elf_usa.bin"/>
+  <property key="recentFile" value="E:\DROPBOX_SPY\Dropbox\Romhacking\Mega Man ZX\mmzx_graficos\dm23_usa.bin"/>
+  <property key="recentFile" value="E:\DROPBOX_SPY\Dropbox\Romhacking\Mega Man ZX\mmzx_graficos\face EDIT.bin"/>
+  <property key="recentFile" value="F:\Google Drive\romhacking\[PSX] MegaMan X4 [SLUS-00561]\romhack\2 - Edição Gráfica\LOAD_U\LOAD_U_EDIT\LOAD_U_0.BIN"/>
+</settings>

@@ -1,0 +1,6 @@
+[00]MARINE BASE[ENDLINE]
+[10]Repliforce decimated[ENDLINE]
+the city and left.[ENDBOX]
+[00]MARINE BASE[ENDLINE]
+[10]Pursue them aboard[ENDLINE]
+a Land Chaser.[ENDTEXT]

@@ -1,0 +1,8 @@
+[00]SIPPUUGA[ENDLINE]
+[10]Botão S.M. durante[ENDLINE]
+a corrida. Poderá[ENDBOX]
+fazer um poderoso[ENDLINE]
+ataque com lâmina.[ENDLINE]
+Aproxime-se do[ENDBOX]
+inimigo com Sippuuga[ENDLINE]
+faça um combo![ENDTEXT]

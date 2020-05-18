@@ -1,0 +1,8 @@
+[00]TWIN SLASHER[ENDLINE]
+[10]Shoots Twin Slashers[ENDLINE]
+forward in two[ENDBOX]
+directions.[ENDLINE]
+This weapon has wide[ENDLINE]
+range capabilities[ENDBOX]
+making it easier to[ENDLINE]
+hit enemies.[ENDTEXT]

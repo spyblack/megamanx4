@@ -1,0 +1,5 @@
+[00]TENKUUHA[ENDLINE]
+[10]Melhore o Sabre![ENDLINE]
+Poderá cortar os[ENDBOX]
+tiros dos inimigos[ENDLINE]
+com seu sabre.[ENDTEXT]

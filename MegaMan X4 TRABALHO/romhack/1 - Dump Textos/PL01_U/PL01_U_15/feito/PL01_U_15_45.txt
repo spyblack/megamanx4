@@ -1,0 +1,6 @@
+[00]SIGMA[ENDLINE]
+[10]Ha ha ha! Você está[ENDLINE]
+acabado, Zero![ENDBOX]
+[00]SIGMA[ENDLINE]
+[10]A Iris está[ENDLINE]
+esperando por você![ENDTEXT]

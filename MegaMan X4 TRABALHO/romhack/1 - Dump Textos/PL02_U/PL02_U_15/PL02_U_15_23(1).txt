@@ -1,0 +1,8 @@
+[00]DOUBLE CYCLONE[ENDLINE]
+[10]Fires vacuum[ENDLINE]
+cyclones left and[ENDBOX]
+right.[ENDLINE]
+Most effective when[ENDLINE]
+surrounded by the enemies and[ENDLINE]
+against skyborne[ENDLINE]
+enemies.[ENDTEXT]

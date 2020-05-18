@@ -1,0 +1,6 @@
+[00]STINGRAY[ENDLINE]
+[10]I'm impressed that[ENDLINE]
+you found me...[ENDBOX]
+[00]STINGRAY[ENDLINE]
+[10]But your search is[ENDLINE]
+over. Get ready X![ENDTEXT]

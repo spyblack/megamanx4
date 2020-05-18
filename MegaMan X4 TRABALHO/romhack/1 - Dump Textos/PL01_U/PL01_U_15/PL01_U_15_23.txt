@@ -1,0 +1,5 @@
+[00]TENKUUHA[ENDLINE]
+[10]Enhanced Z Saber![ENDLINE]
+You can cut enemy[ENDBOX]
+energy shots with[ENDLINE]
+your saber.[ENDTEXT]

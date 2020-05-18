@@ -1,0 +1,6 @@
+[00]HYOURETSUZAN[ENDLINE]
+[10]Down + S.M. button[ENDLINE]
+while jumping.[ENDBOX]
+A dive attack.[ENDLINE]
+Effective against[ENDLINE]
+surface enemies.[ENDTEXT]

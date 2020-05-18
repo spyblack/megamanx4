@@ -1,0 +1,8 @@
+[00]BEAST[ENDLINE]
+[10]Como se atreve a[ENDLINE]
+atacar minha[ENDBOX]
+[00]BEAST[ENDLINE]
+[10]unidade?![ENDBOX]
+[00]BEAST[ENDLINE]
+[10]Vou amar lutar[ENDLINE]
+contra você![ENDTEXT]

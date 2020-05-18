@@ -1,0 +1,6 @@
+[08]JUNGLE[ENDLINE2]
+[18]Infiltrate enemy-[ENDLINE2]
+occupied jungle and[ENDBOX2]
+[08]JUNGLE[ENDLINE2]
+[18]destroy the weapon[ENDLINE2]
+under construction.[ENDTEXT2]

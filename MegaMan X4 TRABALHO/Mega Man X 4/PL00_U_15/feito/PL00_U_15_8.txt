@@ -1,0 +1,6 @@
+[00]SPIDER[ENDLINE]
+[10]Está nos chamando[ENDLINE]
+de Mavericks![ENDBOX]
+[00]SPIDER[ENDLINE]
+[10]Não vou te deixar[ENDLINE]
+passar. Vá embora![ENDTEXT]

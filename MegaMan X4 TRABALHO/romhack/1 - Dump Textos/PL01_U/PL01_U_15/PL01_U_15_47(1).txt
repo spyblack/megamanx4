@@ -1,0 +1,6 @@
+[08]ZERO[ENDLINE2]
+[18]The carnage...[ENDLINE2]
+It's... horrible...[ENDBOX2]
+[08]ZERO[ENDLINE2]
+[18]Those Mavericks[ENDLINE2]
+will pay for this![ENDTEXT2]

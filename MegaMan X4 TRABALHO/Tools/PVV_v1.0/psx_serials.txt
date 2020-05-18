@@ -1,0 +1,2711 @@
+SLUS_012.72	NTSC-US	0001	603		007 - The World Is Not Enough	
+SLUS_009.75	NTSC-US	0002	476		007 - Tomorrow Never Dies	
+SLUS_013.00	NTSC-US	0003	469		007 Racing	
+SLPS_017.06	NTSC-JP	1505	300		1-on-1 - Single Basketball	
+SLPS_010.54	NTSC-JP	1506	347		10101 - Will the Starship	
+SLUS_011.52	NTSC-US	2100	146		102 Dalmatians - Puppies To The Rescue	
+SLPS_018.65	NTSC-JP	1785	400		19 - 03 Agano Hatsu Yakou Ressha	
+SCUS_945.03	NTSC-US	0384	451		1Xtreme	
+SLPS_023.48	NTSC-JP	0430	471		20 Seiki Striker Retsuden - The 20th Century's Strikers	
+SCPS_190.04	NTSC-JP	2394	361		2999 Game Kids	[PlayStation Comic]
+SCUS_945.08	NTSC-US	0671	398		2Xtreme	
+SLES_020.89	PAL-EU	0990	457		360 - Three-Sixty	
+SLUS_000.66	NTSC-US	1104	375		3D Baseball	
+SLPS_004.61	NTSC-JP	2110	351		3D Mission Shooting Finalist	
+SCUS_942.31	NTSC-US	0672	305		3Xtreme	
+SLUS_008.74	NTSC-US	0718	449		40 Winks	
+SLPS_019.95	NTSC-JP	0833	588	DISC1	70's Robot Anime - Geppy-X - The Super Boosted Armor	
+SLPS_019.96	NTSC-JP	0833b	624	DISC2	70's Robot Anime - Geppy-X - The Super Boosted Armor	
+SLPS_019.97	NTSC-JP	0833c	617	DISC3	70's Robot Anime - Geppy-X - The Super Boosted Armor	
+SLPS_019.98	NTSC-JP	0833d	546	DISC4	70's Robot Anime - Geppy-X - The Super Boosted Armor	
+SLPS_012.04	NTSC-JP	2078	484		'98 Koshien	
+SLUS_000.03	NTSC-US	2437	080		A-Train	
+SLPS_011.20	NTSC-JP	2165	440		A5 - A Ressha de Gyoukou 5	
+SLPS_012.80	NTSC-JP	0013	618		Abalaburn	
+SLPS_000.61	NTSC-JP	1580	506		Ace Combat	
+SLPS_008.30	NTSC-JP	0920	481		Ace Combat 2	
+SLUS_004.04	NTSC-US	0007	482		Ace Combat 2	
+SLPS_020.20	NTSC-JP	0541	594	DISC1	Ace Combat 3 - Electrosphere	
+SLPS_020.21	NTSC-JP	0541b	601	DISC2	Ace Combat 3 - Electrosphere	
+SLUS_009.72	NTSC-US	0538	535		Ace Combat 3 - Electrosphere	
+SCES_020.66	PAL-EU	0019	391		Ace Combat 3 - Electrosphere	
+SLUS_014.70	NTSC-US	0724	555		Aces of The Air	
+SLPS_021.19	NTSC-JP	0645	622		Acid	
+SCPS_101.31	NTSC-JP	0169	552	DISC1	Aconcagua	
+SCPS_101.32	NTSC-JP	0169b	602	DISC2	Aconcagua	
+SLUS_012.48	NTSC-US	1933	142		Action Bass	
+SLES_017.61	PAL-EU	0660	458		Action Man - Operation Extreme	PAL patched NTSC; black & white color
+SLUS_008.87	NTSC-US	1482	459		Action Man - Operation Extreme	
+SLUS_007.77	NTSC-US	1790	096		Activision Classics	
+SLES_000.44	PAL-EU	1333	375		Actua Golf 2	
+SLES_012.10	PAL-EU	2152	365		Actua Soccer 3	
+SLPS_035.10	NTSC-JP	2213	066		Ad Lib Ouji - Prince & Unpleasant Friends	
+SCUS_945.02	NTSC-US	0609	525		Adidas Power Soccer	
+SLUS_005.47	NTSC-US	1569	608		Adidas Power Soccer '98	
+SLES_008.57	PAL-EU	0899	510		Adidas Power Soccer 2	
+SLPS_016.89	NTSC-JP	0618	497		Advan Racing	
+SLPS_002.08	NTSC-JP	0620	325		Advanced Variable Geo	
+SLPS_013.18	NTSC-JP	0621	520		Advanced Variable Geo 2	
+SLUS_015.23	NTSC-US	1512	526		Adventure of Phix	
+SCUS_949.06	NTSC-US	0733	556		Adventures of Lomax	
+SLPS_023.67	NTSC-JP	2158	442		Aero Dive	
+SLPS_009.95	NTSC-JP	2166	560		Afraid Gear	
+SLPS_033.07	NTSC-JP	2443	161		Afro Inu - The Puzzle	[Simple Characters 2000 Series #02]
+SLES_004.74	PAL-EU	0947	552		Agent Armstrong	
+SLUS_000.23	NTSC-US	1557	503		Agile Warrior F-111X	
+SLUS_000.01	NTSC-US	0339	506		Air Combat	
+SLPS_018.79	NTSC-JP	0704	485		Air Race Championship	
+SLPS_005.59	NTSC-JP	0418	594		AirGrave	
+SLES_021.37	PAL-EU	0951	584		Aironauts	
+SLPM_862.09	NTSC-JP	1893	301		Aizouban Houshinengi	
+SLUS_007.15	NTSC-US	0016	259		Akuji The Heartless	
+SLPM_860.23	NTSC-JP	0378	489		Akumajo Dracula X - Gekka no Yasoukyoku	
+SLUS_008.72	NTSC-US	1841	084		Alexi Lalas International Soccer	
+SCES_038.17	PAL-EU	1372	342		Alfred Chicken	
+SLPS_006.36	NTSC-JP	1381	496		Alice in Cyberland	
+SLPS_010.03	NTSC-JP	1939	567	DISC1	Alice on Borderlines	
+SLPS_010.04	NTSC-JP	1939b	580	DISC2	Alice on Borderlines	
+SLPS_010.05	NTSC-JP	1939c	519	DISC3	Alice on Borderlines	
+SLUS_006.33	NTSC-US	0309	279		Alien Ressurection	
+SLUS_000.07	NTSC-US	0521	441		Alien Trilogy	
+SLUS_003.92	NTSC-US	1787	173		All-Star Baseball '97 Featuring Frank Thomas	
+SLUS_014.60	NTSC-US	1788	355		All-Star Racing	
+SLES_039.33	PAL-EU	0004	378		All-Star Racing 2	
+SLUS_014.31	NTSC-US	0014	178		All-Star Slammin' D-Ball	
+SLES_014.33	PAL-EU	0369	256		All-Star Tennis '99	PAL patched NTSC
+SLES_027.64	PAL-EU	1351	131		All-Star Tennis 2000	
+SLUS_003.03	NTSC-US	0854	467		Allied General	
+SLPS_001.73	NTSC-JP	1746	378		Alnam no Kiba - Fang of Alnam	
+SLES_000.37	PAL-EU	1154	593		Alone In The Dark - Jack is Back	
+SLUS_002.39	NTSC-US	2414	594		Alone in the Dark - One Eyed Jack's Revenge	
+SLUS_012.01	NTSC-US	0575	535	DISC1	Alone In The Dark - The New Nightmare	
+SLUS_013.77	NTSC-US	0575b	563	DISC2	Alone In The Dark - The New Nightmare	
+SCPS_100.35	NTSC-JP	1480	409		Alundra	
+SLUS_005.53	NTSC-US	0008	498		Alundra	
+SCPS_101.15	NTSC-JP	1171	528		Alundra 2	
+SLUS_010.17	NTSC-US	0017	504		Alundra 2	
+SLUS_014.75	NTSC-US	1789	527		Amazing Virtual Sea Monkeys	
+SLPS_011.08	NTSC-JP	2014	414	DISC1	Ancient Roman - Power of Dark Side	
+SLPS_011.09	NTSC-JP	2014b	504	DISC2	Ancient Roman - Power of Dark Side	
+SLUS_002.64	NTSC-US	0805	588		Andretti Racing	
+SLPS_003.20	NTSC-JP	2455	560		Angelique Special	
+SLPM_861.65	NTSC-JP	2400	599		Angelique Tenkuu no Requiem	
+SLPS_008.94	NTSC-JP	1973	270		Angel Blade - Neo Tokyo Guardians	
+SLUS_007.84	NTSC-US	0881	170		Animaniacs - Ten Pin Alley	
+SLUS_010.10	NTSC-US	1018	277		Animorphs - Shattered Reality	
+SCES_018.33	PAL-EU	1561	315		Anna Kournikova's Smash Court Tennis	
+SLPS_016.55	NTSC-JP	0423	527		Another Mind	
+SCUS_944.23	NTSC-US	0020	358		Ape Escape	
+SLUS_003.73	NTSC-US	0015	408		Apocalypse	
+SCUS_946.03	NTSC-US	1839	178		Aquanaut's Holiday	
+SLPS_027.31	NTSC-JP	1159	281		Aquarian Eiji - Tokyo Wars	
+SLUS_012.56	NTSC-US	1130	517		Arc the Lad Collection	Making-Of disc
+SCPS_100.08	NTSC-JP	2263	524		Arc the Lad	
+SLUS_012.24	NTSC-US	1201	521		Arc the Lad	
+SCPS_100.26	NTSC-JP	2264	613		Arc the Lad II	
+SLUS_012.52	NTSC-US	0021	615		Arc the Lad II	
+SCPS_101.06	NTSC-JP	2265	530	DISC1	Arc the Lad III	modchip-protected
+SCPS_101.07	NTSC-JP	2265b	577	DISC2	Arc the Lad III	modchip-protected
+SLUS_012.53	NTSC-US	1596	531	DISC1	Arc the Lad III	
+SLUS_012.54	NTSC-US	1596b	607	DISC2	Arc the Lad III	
+SCPS_100.40	NTSC-JP	2361	149	DISC1	Arc the Lad Monster Game with Casino Game	
+SCPS_100.41	NTSC-JP	2361b	371	DISC2	Arc the Lad Monster Game with Casino Game	
+SLUS_003.99	NTSC-US	0736	502		Arcade's Greatest Hits - The Atari Collection 1	
+SLUS_004.49	NTSC-US	0737	400		Arcade's Greatest Hits - The Atari Collection 2	
+SLUS_004.50	NTSC-US	1689	512		Arcade's Greatest Hits - The Midway Collection 2	
+SLUS_002.01	NTSC-US	1680	314		Arcade's Greatest Hits - Williams	
+SLUS_009.52	NTSC-US	0011	491		Arcade Party Pak	
+SLUS_001.64	NTSC-US	0482	515		Area 51	
+SLES_007.48	PAL-EU	1264	569		Ark of Time	
+SLPM_862.62	NTSC-JP	0465	139		Arkanoid 2000	
+SLPS_015.98	NTSC-JP	1747	350		Armed Fighter	
+SCUS_941.82	NTSC-US	0012	435		Armored Core	
+SLPS_009.00	NTSC-JP	0396	437		Armored Core	
+SLUS_010.30	NTSC-US	0361	581	DISC1	Armored Core - Master of Arena	
+SLUS_010.81	NTSC-US	0361b	581	DISC2	Armored Core - Master of Arena	
+SLPS_011.30	NTSC-JP	2167	368		Armored Core - Project Phantasma	
+SLUS_006.70	NTSC-US	0023	377		Armored Core - Project Phantasma	
+SLPS_019.61	NTSC-JP	2156	138		Armored Trooper Votoms - Lightning Slash	
+SLPS_013.31	NTSC-JP	2157	261		Armored Trooper Votoms - Woodo Kummen	
+SLUS_010.22	NTSC-US	0561	487		Armorines - Project Swarm	
+SLUS_004.91	NTSC-US	0006	597		Army Men 3D	
+SLUS_009.13	NTSC-US	0009	435		Army Men - Air Attack	
+SLUS_011.32	NTSC-US	0010	617		Army Men - Air Attack 2	
+SLUS_013.30	NTSC-US	1642	410		Army Men - Green Rogue	
+SLES_034.31	PAL-EU	0930	371		Army Men - Omega Soldier	
+SLUS_009.14	NTSC-US	0941	581		Army Men - Sarge's Heroes	
+SLUS_012.02	NTSC-US	0942	588		Army Men - Sarge's Heroes 2	
+SLUS_010.79	NTSC-US	0865	427		Army Men - World War	
+SLUS_013.27	NTSC-US	0845	373		Army Men - World War - Final Front	
+SLUS_012.03	NTSC-US	0866	230		Army Men - World War - Land, Sea & Air	
+SLUS_014.35	NTSC-US	1840	307		Army Men - World War - Team Assault	
+SLPS_024.05	NTSC-JP	2159	599		Art Camion Geijutsuden	
+SLUS_010.90	NTSC-US	1818	248		Arthur! Ready to Race	
+SLPS_015.78	NTSC-JP	2353	615		Arubarea no Otome	
+SLUS_007.13	NTSC-US	0022	134		Assault Retribution	
+SCUS_944.05	NTSC-US	0647	539		Assault Rigs	
+SLPS_008.54	NTSC-JP	1490	346		Assault Suits Valken 2	
+SLES_014.16	PAL-EU	1181	561		Asterix	
+SLUS_007.73	NTSC-US	0826	141		Asteroids	
+SLPM_860.88	NTSC-JP	2175	242	DISC1	Astronoka	
+SLPM_860.89	NTSC-JP	2175b	042	DISC2	Astronoka	
+SLPS_008.49	NTSC-JP	1134	330		Asuka 120% - Burning Fest Excellent	
+SLPS_020.74	NTSC-JP	1387	241		Asuka 120% - Burning Fest Final	
+SLPS_002.31	NTSC-JP	1388	490		Asuka 120% - Burning Fest Special	
+SLPS_010.97	NTSC-JP	0379	496		Asuncia - Strategic Fantasy Role Playing Game	
+SLUS_014.27	NTSC-US	0665	528		Atari 30th Aniversary Edition Redux	
+SLPS_017.51	NTSC-JP	1074	559		Atelier Elie	
+SLPS_014.18	NTSC-JP	1050	314		Atelier Marie Plus	
+SLPM_861.85	NTSC-JP	1158	378	DISC1	Athena - Awakening from the Ordinary Life	
+SLPM_861.86	NTSC-JP	1158b	530	DISC2	Athena - Awakening from the Ordinary Life	
+SLPM_861.87	NTSC-JP	1158c	571	DISC3	Athena - Awakening from the Ordinary Life	
+SLES_016.05	PAL-EU	1234	518	DISC1	Atlantis - The Lost Tales	
+SLES_116.05	PAL-EU	1234b	520	DISC2	Atlantis - The Lost Tales	
+SLES_216.05	PAL-EU	1234c	587	DISC3	Atlantis - The Lost Tales	
+SLUS_017.18	NTSC-US	0779	620		Attack of the Saucerman	
+SLUS_011.37	NTSC-US	1191	272		ATV - Quad Power Racing	
+SLUS_015.45	NTSC-US	1426	266		ATV Mania	
+SLUS_015.72	NTSC-US	1842	143		ATV Racers	
+SLPS_005.33	NTSC-JP	1863	201		Aubirdforce	
+SLPS_016.06	NTSC-JP	2168	513		Aubirdforce After	
+SLPS_023.90	NTSC-JP	0709	540		Aura Battler Dunbine	
+SLUS_014.56	NTSC-US	2217	242		Austin Powers Pinball	
+SLUS_005.22	NTSC-US	0444	186		Auto Destruct	
+SLPS_003.80	NTSC-JP	1410	283		Ayrton Senna - Kart Duel	
+SLES_010.24	PAL-EU	1352	203		Ayrton Senna - Kart Duel 2	
+SLPS_010.72	NTSC-JP	2160	199		Ayrton Senna - Kart Duel 2	
+SLPS_006.83	NTSC-JP	1771	298		Azito	
+SLPS_015.26	NTSC-JP	1772	510		Azito 2	
+SLPS_024.96	NTSC-JP	1773	500		Azito 3	
+SLUS_006.14	NTSC-US	1800	247		Azure Dreams	
+SLES_012.60	PAL-EU	0809	376		B-Movie	
+SCES_009.82	PAL-EU	0952	328		Baby Universe - 3D-Kaleidoscope	
+SLPS_014.46	NTSC-JP	2026	612	DISC1	Back Gain Act-2	
+SLPS_014.47	NTSC-JP	2026b	586	DISC2	Back Gain Act-2	
+SLPS_014.48	NTSC-JP	2026c	467	DISC3	Back Gain Act-2	
+SLUS_006.59	NTSC-US	0026	379		Backstreet Billiards	
+SLUS_010.94	NTSC-US	1734	619		Backyard Soccer	
+SLPM_861.18	NTSC-JP	0797	559		Bakumatsu Roman - Gekka no Kenshi (The Last Blade)	
+SLPS_007.18	NTSC-JP	1274	618		Bakuretsu Hunter - Sorezore no Omoi - Nowaan Chatte	
+SLUS_015.67	NTSC-US	2274	347		Baldies	
+SLUS_012.49	NTSC-US	1704	419		Ball Breakers	
+SLUS_000.68	NTSC-US	1247	371		BallBlazer Champions	
+SLUS_015.68	NTSC-US	1993	559		Ballerburg - Castle Chaos	
+SLUS_009.66	NTSC-US	2199	251		Ballistic	
+SLUS_015.69	NTSC-US	2144	125		Barbie - Gotta Have Games	
+SLUS_009.81	NTSC-US	1242	560		Barbie - Race & Ride	NTSC patched PAL
+SLUS_009.46	NTSC-US	1220	276		Barbie - Super Sports	
+SLUS_012.21	NTSC-US	1221	513		Barbie Detective - The Mystery Cruise	
+SLPM_863.41	NTSC-JP	1735	565		Baroque - Yuganda Mousou	
+SLPM_865.40	NTSC-JP	1025	462		Baroque Syndrome	
+SLUS_000.86	NTSC-US	2226	134		Bases Loaded '96 - Double Header	
+SLPS_005.42	NTSC-JP	0374	470		Bastard!! Utsuro Naru Kamigami no Utsuwa	
+SLUS_011.41	NTSC-US	0417	474		Batman - Gotham City Racer	
+SLUS_003.93	NTSC-US	0774	463		Batman & Robin	
+SLUS_012.07	NTSC-US	0775	468		Batman Beyond - Return of the Joker	
+SLUS_003.87	NTSC-US	2015	057		Batman Forever - The Arcade Game	
+SLPS_004.85	NTSC-JP	0848	522		Battle Arena Nitoshinden	
+SLPS_000.25	NTSC-JP	2017	365		Battle Arena Toshinden	
+SCUS_942.00	NTSC-US	1359	356		Battle Arena Toshinden	
+SLPS_002.00	NTSC-JP	1947	589		Battle Arena Toshinden 2	
+SLUS_002.20	NTSC-US	1080	591		Battle Arena Toshinden 2	
+SLPS_910.06	NTSC-JP	0758	591		Battle Arena Toshinden 2 Plus	
+SLPS_006.50	NTSC-JP	2224	557		Battle Arena Toshinden 3	
+SLUS_004.83	NTSC-US	0035	536		Battle Arena Toshinden 3	
+SLPS_011.33	NTSC-JP	1276	599		Battle Athletess - Daiundoukai Alternative	
+SLPS_015.48	NTSC-JP	1277	384		Battle Athletess - Daiundoukai GTO	
+SLPS_009.68	NTSC-JP	2367	319		Battle Formation	
+SLUS_003.89	NTSC-US	2275	504		Battlesport	
+SLUS_004.56	NTSC-US	0391	423		Battlestations	
+SLUS_010.44	NTSC-US	0804	505		BattleTanx - Global Assault	
+SLES_008.46	PAL-EU	1044	423		Beach Volley Heroes	
+SLES_028.08	PAL-EU	0852	338		Beach Volleyball	PAL patched NTSC
+SCPS_101.38	NTSC-JP	0820	586		Bealphareth	
+SLUS_015.24	NTSC-US	2362	389		Bear in the Big Blue House	
+SLUS_005.08	NTSC-US	0032	389		Beast Wars - Transformers	
+SCPS_180.13	NTSC-JP	2318	287		Beat Planet Music	
+SLPM_861.84	NTSC-JP	2132	189		Beatmania - Append 3rd Mix	
+SLPM_861.26	NTSC-JP	2133	172	DISC1	Beatmania - Arcade 2nd Mix	
+SLPM_861.27	NTSC-JP	2133b	102	DISC2	Beatmania - Arcade 2nd Mix	Append Yebisu Mix
+SLPM_865.96	NTSC-JP	2134	305		Beatmania - Best Hits	
+SLPM_867.69	NTSC-JP	2135	201		Beatmania - The Sound of Tokyo	
+SLPM_870.12	NTSC-JP	2131	435		Beatmania 6th Mix - Core Remix	
+SLPM_862.29	NTSC-JP	1843	208		Beatmania Append Gottamix	
+SLPS_012.19	NTSC-JP	1024	376		Beavis & Butthead - Virtual Aho Shoukougun	
+SLPS_005.82	NTSC-JP	0706	528		Beltlogger 9	
+SLUS_014.89	NTSC-US	2005	186		Beyblade	
+SCUS_947.02	NTSC-US	2286	120		Beyond the Beyond	
+SLUS_006.45	NTSC-US	2276	350		Big Air	
+SLUS_014.78	NTSC-US	1115	174		Big Strike Bowling	
+SLUS_012.89	NTSC-US	1558	132		Billiards	
+SLPS_002.22	NTSC-JP	0885	611		BioHazard	
+SLPS_009.98	NTSC-JP	0174	597	DISC1	BioHazard - Director's Cut	
+SLPS_009.99	-------	0174b	---	DISC2	BioHazard - Director's Cut	BioHazard 2 Demo
+SLPS_015.12	NTSC-JP	1428	615	DISC1	BioHazard - Director's Cut - Dual Shock	
+SLPS_015.13	NTSC-JP	1428b	271	DISC2	BioHazard - Director's Cut - Dual Shock	bonus disc
+SLPS_012.22	NTSC-JP	0173	544	DISC1	BioHazard 2	
+SLPS_012.23	NTSC-JP	0173b	551	DISC2	BioHazard 2	
+________.__	NTSC-JP	0031	226		BioHazard 2 Beta 2	works in emu only?
+SLPS_023.00	NTSC-JP	0886	598		BioHazard 3 - Last Escape	modchip-protected
+SLPM_861.23	NTSC-JP	0580	231		Bishi Bashi Special	
+SLPM_862.67	NTSC-JP	0496	200		Bishi Bashi Special 2	
+SLPM_865.39	NTSC-JP	0497	088		Bishi Bashi Special 3	
+SLPS_002.60	NTSC-JP	1000	521		Bishoujo Senshi Sailor Moon Super S	
+SLUS_003.21	NTSC-US	0648	569		Black Dawn	
+SLPS_035.71	NTSC-JP	1405	525	DISC1	Black Matrix 00	[Limited Edition]
+SLPS_035.72	NTSC-JP	1405b	509	DISC2	Black Matrix 00	
+SLPS_029.62	NTSC-JP	1404	425	DISC1	Black Matrix Cross	
+SLPS_029.63	NTSC-JP	1404b	570	DISC2	Black Matrix Cross	
+SLUS_012.15	NTSC-US	0024	519		Blade	
+SLPM_866.02	NTSC-JP	0373	590		Blade Arts	
+SLPS_007.98	NTSC-JP	2328	578		Blam! Machinehead	
+SLUS_002.19	NTSC-US	0791	441		Blast Chamber	
+SLUS_013.80	NTSC-US	0033	190		Blast Lacrosse	
+SLUS_006.42	NTSC-US	1218	566		Blast Radius	
+SLUS_010.31	NTSC-US	0562	550		Blaster Master - Blasting Again	
+SCUS_944.12	NTSC-US	0475	306		Blasto	
+SLES_008.45	PAL-EU	0936	611		Blaze & Blade - Eternal Quest	
+SLPS_012.09	NTSC-JP	1897	543		Blaze & Blade - Eternal Quest	
+SLPS_015.76	NTSC-JP	1124	382		Blaze & Blade Busters	
+SLUS_001.00	NTSC-US	1106	244		Blazing Dragons	
+SLPS_025.78	NTSC-JP	1913	112		Block Kuzushi 2	
+SLUS_014.96	NTSC-US	2277	597		Blockids	
+SLUS_000.27	NTSC-US	0571	585		Blood Omen - Legacy of Kain	
+SCES_014.43	PAL-EU	0943	401		Bloodlines	
+SCUS_941.99	NTSC-US	1245	495		Bloody Roar	
+SLPS_010.70	NTSC-JP	1816	503		Bloody Roar - Hyper Beast Duel	
+SCUS_944.24	NTSC-US	0986	458		Bloody Roar 2	
+SLPS_018.42	NTSC-JP	0027	432		Bloody Roar 2 - Bringer of The New Age	
+SLUS_011.98	NTSC-US	1650	623		Blue's Clues - Blue's Big Musical	
+SLPS_014.59	NTSC-JP	1184	374		Blue - Legend of Water	
+SLPS_014.69	NTSC-JP	1653	425		Blue Breaker Burst - Bishou o Anata To	[Limited Edition]
+SLPS_015.80	NTSC-JP	0831	580		Blue Breaker Burst - Egao no Asuni	
+SLPS_005.66	NTSC-JP	2177	357		Blue Forest Story - Kaze no Fuuin	
+SLPS_009.82	NTSC-JP	1125	384		Blue Knight Bersaga Story - Soukou Kihei Votoms Gaiden	
+SLPS_008.65	NTSC-JP	1768	418		Body Hazard	
+SCUS_943.07	NTSC-US	0593	285		Bogey - Dead 6	
+SLPS_006.09	NTSC-JP	0876	406		Bokan to Ippatsu! Doronbo - Time Bokan Shirizu	
+SCPS_100.88	NTSC-JP	1255	547		Boku no Natsuyasumi - Summer Holiday 20th Century	
+SLPS_017.17	NTSC-JP	2456	516		Bomberman	
+SLPS_015.25	NTSC-JP	1781	211		Bomberman Fantasy Race	
+SLPS_030.02	NTSC-JP	1026	222		Bomberman Land	
+SLUS_011.89	NTSC-US	0526	548		Bomberman Party Edition	
+SLPS_013.47	NTSC-JP	2368	161		Bomberman Wars	
+SLPS_011.55	NTSC-JP	1782	525		Bomberman World	
+SLUS_006.80	NTSC-US	0682	546		Bomberman World	
+SLUS_009.68	NTSC-US	0034	283		Boombots	
+SLUS_000.49	NTSC-US	1953	222		Bottom of the 9th	
+SLUS_002.96	NTSC-US	2171	377		Bottom of the 9th '97	
+SLPS_009.07	NTSC-JP	1075	421		Boundary Gate	
+SLPM_867.35	NTSC-JP	2257	376		Bounty Hunter Sarah - Hori Mountain no Teiou	
+SLPS_007.57	NTSC-JP	2222	563		Bounty Sword First	
+SLUS_012.88	NTSC-US	2193	105		Bowling	
+SLPS_000.33	NTSC-JP	0861	543		Boxer's Road	
+SLPS_007.79	NTSC-JP	1039	396		Boys Be… Kono Koi no Yukue	
+SLUS_004.44	NTSC-US	0641	512		Brahma Force - The Assault On Beltlogger 9	
+SLUS_000.83	NTSC-US	1526	617	DISC1	Brain Dead 13	
+SLUS_001.71	NTSC-US	1526b	486	DISC2	Brain Dead 13	
+SLUS_015.08	NTSC-US	2052	259		Bratz	
+SLUS_007.26	NTSC-US	1132	345		Brave Fencer Musashi	
+SLPS_014.90	NTSC-JP	1259	365	DISC1	Brave Fencer Musashiden	
+SLPS_014.91	NTSC-JP	1259b	284	DISC2	Brave Fencer Musashiden	Square's Preview 3
+SLPS_025.80	NTSC-US	0897	621	DISC1	Brave Saga 2	
+SLPS_025.81	NTSC-US	0897b	623	DISC2	Brave Saga 2	
+SLUS_004.88	NTSC-US	1637	592		Bravo Air Race	
+SLUS_011.70	NTSC-US	1733	602		Breakout	
+SLPS_023.75	NTSC-JP	1178	207		Break Volley	
+SLPS_009.90	NTSC-JP	1150	398		Breath of Fire III	
+SLUS_004.22	NTSC-US	0030	398		Breath of Fire III	
+SLPS_027.28	NTSC-JP	1844	579		Breath of Fire IV	
+SLUS_013.24	NTSC-US	1175	571		Breath of Fire IV	
+SLPM_860.12	NTSC-JP	2338	433		Breeding Stud	
+SLPS_026.61	NTSC-JP	0832	624	DISC1	Brigandine - Grand Edition	
+SLPS_026.62	NTSC-JP	0832b	624	DISC2	Brigandine - Grand Edition	
+SLUS_006.87	NTSC-US	1058	449		Brigandine - Legend of Forsena	
+SLUS_002.89	NTSC-US	0790	605		Broken Helix	
+SCES_003.46	PAL-EU	1155	454		Broken Sword - The Shadow of The Templars	
+SLUS_004.84	NTSC-US	1481	445		Broken Sword - The Shadow of The Templars	
+SLUS_008.12	NTSC-US	2280	559		Broken Sword 2 - The Smoking Mirror	
+SLUS_005.71	NTSC-US	2253	509		Brunswick Circuit Pro Bowling	
+SLUS_008.56	NTSC-US	2254	595		Brunswick Circuit Pro Bowling 2	
+SLUS_003.70	NTSC-US	2038	079		Bubble Bobble also featuring Rainbow Islands	
+SLUS_001.10	NTSC-US	1053	616		Bubsy 3D	
+SLES_001.74	PAL-EU	2062	468		Buggy	
+SLUS_003.54	NTSC-US	0772	610		Bugriders - The Race of Kings	
+SLUS_011.44	NTSC-US	0720	563		Bugs Bunny & Taz - Time Busters	
+SLUS_010.86	NTSC-US	1431	489		Builder's Block	
+SLUS_003.24	NTSC-US	0445	414		Burning Road	
+SLES_033.38	PAL-EU	1334	311		Burstrick Wake Boarding!!	
+SLPS_027.92	NTSC-JP	2475	307		Burstrick Wake Boarding!!	
+SCUS_941.80	NTSC-US	1001	483		Bushido Blade	
+SLUS_006.63	NTSC-US	0036	582		Bushido Blade 2	
+SCUS_942.63	NTSC-US	0524	431		Bust-a-Groove	
+SLUS_011.59	NTSC-US	1452	508		Bust-a-Groove 2	
+SLUS_007.25	NTSC-US	1295	339		Bust-a-Move '99	
+SLUS_002.33	NTSC-US	1323	287		Bust-a-Move 2 - Arcade Edition	
+SLES_009.91	PAL-EU	1253	339		Bust-a-Move 3DX	
+SLUS_007.54	NTSC-US	0589	377		Bust-a-Move 4	
+SLUS_002.08	NTSC-US	0646	429		Buster Bros. Collection	
+SLES_041.04	PAL-EU	2459	529		Buttsubushi	
+SLPS_031.62	NTSC-JP	2233	529		Buttsubushi	
+SLUS_004.99	NTSC-US	1398	301		C - The Contra Adventure	
+SCUS_946.66	NTSC-US	0460	403		C-12 - The Final Resistance	
+SCES_033.64	PAL-EU	0051	403		C-12 - The Final Resistance	PAL/NTSC selector
+SLPS_002.79	NTSC-JP	1720	343		C1-Circuit	
+SLES_013.63	PAL-EU	0403	449		C3 Racing - Car Constructors Championship	
+SLUS_013.91	NTSC-US	1495	349		Cabela's Big Game Hunter - Ultimate Challenge	
+SLUS_014.74	NTSC-US	1586	341		Cabela's Ultimate Deer Hunt	
+SLUS_002.85	NTSC-US	2112	292		Caesar's Palace	
+SLUS_010.89	NTSC-US	1941	215		Caesar's Palace 2000	
+SLUS_007.80	NTSC-US	1710	292		Caesar's Palace II	
+SLPS_010.71	NTSC-JP	2104	079		Calcolo!	
+SLES_039.21	PAL-EU	0940	236		California Surfing	
+SLPS_015.35	NTSC-JP	0594	369		Capcom Generation Vol.1	
+SLPS_015.85	NTSC-JP	0443	438		Capcom Generation Vol.2	
+SLPS_016.49	NTSC-JP	0587	449		Capcom Generation Vol.3	
+SLPS_017.01	NTSC-JP	0043	305		Capcom Generation Vol.4	
+SLPS_017.25	NTSC-JP	0053	411		Capcom Generation Vol.5	
+SLPM_870.53	NTSC-JP	0059	532		Capcom vs. SNK - Millennium Fight 2000 Pro	
+SLUS_014.76	NTSC-US	0356	512		Capcom vs. SNK - Millennium Fight 2000 Pro	
+SLPS_015.67	NTSC-JP	0056	546		Captain Commando	
+SLPM_862.16	NTSC-JP	1974	515		Captain Rave!!	
+SLPM_870.60	NTSC-JP	1029	284		Captain Tsubasa - Aratanaru Densetsu Joshou (New Legend)	modchip-protected
+SLPS_003.10	NTSC-JP	1687	533		Captain Tsubasa J - Get in the Tomorrow	
+SLPS_025.61	NTSC-JP	1894	513		Card Captor Sakura - Crow Card Magic	
+SLUS_013.79	NTSC-US	2113	073		Card Games	
+SCUS_941.56	NTSC-US	1318	518		Cardinal Syn	
+SLES_019.60	PAL-EU	0419	387		Carmageddon	PAL patched NTSC
+SCUS_946.04	NTSC-US	2114	108	DISC1	Carnage Heart	
+SCUS_949.64	NTSC-US	2114b	516	DISC2	Carnage Heart	
+SCUS_944.16	NTSC-US	0746	510		Cart World Series	
+SLUS_001.62	NTSC-US	1369	212		Casper	
+SLES_031.13	PAL-EU	1442	567		Casper - Friends Around The World	
+SLUS_012.45	NTSC-US	0978	265		Casper - Friends Around The World	
+SLUS_013.84	NTSC-US	0038	438		Castlevania Chronicles	
+SLPM_867.54	NTSC-JP	0921	329		Castlevania Chronicles - Akumajo Dracula	
+SLUS_000.67	NTSC-US	0046	484		Castlevania - Symphony of the Night	
+SLUS_008.82	NTSC-US	1942	260		Castrol Honda Superbike Racing	
+SLUS_008.07	NTSC-US	0872	406		Centipede	
+SLPS_002.37	NTSC-JP	1417	263		Champion Wrestler - Jikkyou Raibu	
+SLUS_010.84	NTSC-US	1943	306		Championship Bass	
+SLUS_007.90	NTSC-US	0828	607		Championship Motocross featuring Ricky Carmichael	
+SLUS_012.30	NTSC-US	1931	337		Championship Motocross 2001 featuring  Ricky Carmichael	
+SLUS_012.16	NTSC-US	1574	273		Championship Surfer	
+SLPM_863.63	NTSC-US	0650	590		Chaos Break	
+SLPS_001.68	NTSC-JP	0802	612		Chaos Control	
+SCPS_101.09	NTSC-JP	1999	543	DISC1	Chase the Express	modchip-protected
+SCPS_101.10	NTSC-JP	1999b	561	DISC2	Chase the Express	modchip-protected
+SLPS_008.93	NTSC-JP	0684	516		Cheesy	
+SLUS_014.00	NTSC-US	1921	341		Chess	
+SLUS_000.52	NTSC-US	2115	118		Chessmaster 3D	
+SLUS_008.86	NTSC-US	1030	288		Chessmaster II	
+SLUS_013.04	NTSC-US	1446	464		Chicken Run	
+SLPS_019.26	NTSC-JP	0537	504		Chiisana Kyojin Microman	
+SLPS_027.88	NTSC-JP	0862	620		Chinmoku no Kanita - The Silent Service	
+SLPS_018.53	NTSC-JP	1688	082		Chippoke Ralph no Daibouken (Adventure of Little Ralph)	
+SLPS_001.83	NTSC-JP	0055	610		Choaniki - Kyuukyoku Muteki Ginga Saikyou Otoko	
+SLUS_008.44	NTSC-US	0057	303		Chocobo Racing	
+SLUS_008.14	NTSC-US	1202	369		Chocobo's Magical Dungeon 2	
+SLPS_012.34	NTSC-JP	1759	589	DISC1	Chocobo no Fushigi Dungeon	
+SLPS_012.35	NTSC-JP	1759b	214	DISC2	Chocobo no Fushigi Dungeon	
+SLPS_034.00	NTSC-JP	1136	453		Chocolate Kiss	
+SLPS_002.42	NTSC-JP	2376	450		Choro-Q	
+SLPS_910.15	NTSC-JP	1732	450		Choro-Q - Version 1.02	[Playstation The Best]
+SLPS_007.10	NTSC-JP	0887	457		Choro-Q 2	
+SLPS_012.44	NTSC-JP	0888	567		Choro-Q 3	
+SLPS_011.40	NTSC-JP	2302	609		Choro-Q Jet - Rainbow Wings	
+SLPS_014.36	NTSC-JP	1457	371		Choro-Q Marine - Q-Boat	
+SLPS_022.05	NTSC-JP	1135	067		Choro-Q Wonderful!	
+SLPS_009.35	NTSC-JP	1648	463		Chou-Kousoku Gran Doll	
+SLPS_013.68	NTSC-JP	1851	403		Chou-Mahsin Eiyuuden Wataru - Another Step	
+SLPS_005.27	NTSC-JP	1850	229		Choujin Gakuen Gowcaizer	
+SCUS_947.00	NTSC-US	1793	610	DISC1	Chronicles of the Sword	
+SCUS_947.01	NTSC-US	1793b	474	DISC2	Chronicles of the Sword	
+SLUS_010.41	NTSC-US	0045	611	DISC1	Chrono Cross	
+SLUS_010.80	NTSC-US	0045b	615	DISC2	Chrono Cross	
+SLPS_024.30	NTSC-JP	1684	506		Chrono Trigger	
+SLUS_006.97	NTSC-US	0683	274		Circuit Breakers	
+SLPS_003.61	NTSC-JP	2365	400		City Bravo!	
+SLUS_007.92	NTSC-US	1496	420		Civilization II	
+SLPS_006.18	NTSC-JP	1032	317		Civizard - Majutsu no Keifu	
+SLPS_020.39	NTSC-JP	2000	143		Classic Road 2	
+SLUS_014.91	NTSC-US	0062	158		Cleopatra's Fortune	
+SLPS_018.38	NTSC-JP	2316	357		Click Medic	
+SLPS_009.17	NTSC-JP	2300	098		Clock Tower - The First Fear	
+SLUS_005.39	NTSC-US	2116	525		Clock Tower	
+SLPS_012.90	NTSC-JP	1852	355		Clock Tower - Ghost Head	
+SLPS_006.57	NTSC-JP	2301	491		Clock Tower 2	
+SLUS_006.95	NTSC-US	0058	356		Clock Tower 2 - The Struggle Within	
+SCUS_944.09	NTSC-US	0441	561		Codename - Tenka	
+SCUS_944.74	NTSC-US	1337	293		Colin McRae Rally	
+SLUS_012.22	NTSC-US	0044	405		Colin McRae Rally 2.0	
+SLES_026.05	PAL-EU	0076	519		Colin McRae Rally 2.0	
+SLUS_001.96	NTSC-US	0988	391		College Slam	
+SLUS_005.43	NTSC-US	0834	464	DISC1	Colony Wars	
+SLUS_005.54	NTSC-US	0834b	561	DISC2	Colony Wars	
+SLUS_008.66	NTSC-US	0703	579		Colony Wars 3 - Red Sun	
+SLUS_007.22	NTSC-US	2117	505		Colony Wars - Vengeance	
+SLPS_019.04	NTSC-JP	1078	421		Combat Choro-Q	
+SLUS_003.79	NTSC-US	2125	611	DISC1	Command & Conquer	GDI disc
+SLUS_004.10	NTSC-US	2125b	578	DISC2	Command & Conquer	NOD disc
+SLUS_004.31	NTSC-US	2126	610	DISC1	Command & Conquer - Red Alert	Allies disc
+SLUS_004.85	NTSC-US	2126b	615	DISC2	Command & Conquer - Red Alert	Soviets disc
+SLUS_006.65	NTSC-US	1198	515	DISC1	Command & Conquer - Red Alert Retaliation	Allies disc
+SLUS_006.67	NTSC-US	1198b	519	DISC2	Command & Conquer - Red Alert Retaliation	Soviets disc
+SLPS_008.17	NTSC-JP	2293	154		Community Pom	
+SLPS_021.16	NTSC-JP	2294	154		Community Pom - Omoide o Dakishmete	
+SCUS_942.94	NTSC-US	0346	329		Contender	
+SLUS_013.05	NTSC-US	0037	166		Contender 2	
+SLUS_002.88	NTSC-US	0049	389		Contra - Legacy of War	
+SLPS_013.82	NTSC-JP	0382	349		Cooking Fighter	
+SLPS_004.56	NTSC-JP	2121	264		Cool Boarders - Exciting Snowboard Game	
+SCUS_943.58	NTSC-US	2119	602		Cool Boarders 2	
+SLPS_009.67	NTSC-JP	0447	611		Cool Boarders 2 - Killing Session	
+SLPS_016.98	NTSC-JP	2122	318		Cool Boarders 3	
+SCUS_942.51	NTSC-US	1131	318		Cool Boarders 3	
+SCUS_945.59	NTSC-US	1170	189		Cool Boarders 4	
+SCUS_945.97	NTSC-US	2120	194		Cool Boarders 2001	
+SLPM_864.84	NTSC-JP	1313	481		Cosmowarrior Rei	
+SLUS_008.98	NTSC-US	0039	477	DISC1	Countdown Vampires	
+SLUS_011.99	NTSC-US	0039b	487	DISC2	Countdown Vampires	
+SLUS_004.42	NTSC-US	0065	313		Courier Crisis	
+SLUS_011.51	NTSC-US	0040	546	DISC1	Covert Ops - Nuclear Dawn	
+SLUS_011.57	NTSC-US	0040b	565	DISC2	Covert Ops - Nuclear Dawn	
+SLPS_011.26	NTSC-JP	0066	602		Cowboy Bebop	
+SCPS_100.31	NTSC-JP	2296	567		Crash Bandicoot	
+SCUS_949.00	NTSC-US	0533	524		Crash Bandicoot	
+SCPS_100.47	NTSC-JP	2297	271		Crash Bandicoot 2 - Cortex Strikes Back	
+SCUS_941.54	NTSC-US	1144	160		Crash Bandicoot 2 - Cortex Strikes Back	
+SCPS_100.73	NTSC-JP	1555	387		Crash Bandicoot 3	
+SCUS_942.44	NTSC-US	0064	236		Crash Bandicoot 3 - Warped	
+SCPS_101.40	NTSC-JP	2418	447		Crash Bandicoot Carnival	
+SCPS_101.18	NTSC-JP	2298	587		Crash Bandicoot Racing	modchip-protected
+SCUS_945.70	NTSC-US	0063	147		Crash Bash	modchip-protected
+SCUS_944.26	NTSC-US	0061	502		Crash Team Racing	
+SLPS_025.82	NTSC-JP	1721	167		Crazy Climber 2000	
+SLUS_014.38	NTSC-US	1614	402		Creatures	
+SLUS_015.53	NTSC-US	1451	367		Creatures - Raised in Space	
+SCPS_100.03	NTSC-JP	0357	375		Crime Crackers	
+SCPS_100.37	NTSC-JP	0358	595		Crime Crackers 2	
+SLUS_005.76	NTSC-US	0678	588		Crime Killer	
+SLPS_014.30	NTSC-JP	0458	561		Crisis Beat	
+SLES_027.93	PAL-EU	1327	593		Crisis Beat	
+SLPS_012.69	NTSC-JP	2317	526		Crisis City	
+SLPS_010.44	NTSC-JP	0785	562		Critical Blow	
+SLUS_004.28	NTSC-US	0644	614		Critical Depth	
+SLUS_000.46	NTSC-US	0638	460		Criticom	
+SLUS_005.30	NTSC-US	1367	580		Croc - Legend of the Gobbos	
+SLUS_006.34	NTSC-US	1081	615		Croc 2	
+SLPM_866.39	NTSC-JP	1137	531		Cross Detective Story - Cross Tantei Monogatari 1 - Kouhen	
+SLUS_002.68	NTSC-US	0796	582		Crusader No Remorse	
+SLPS_034.53	NTSC-JP	2439	225		Crush Gear Turbo	
+SLPS_002.20	NTSC-JP	1740	297		CRW - Counter Revolution War	
+SLUS_003.35	NTSC-US	0474	376		Crypt Killer	
+SLES_039.86	PAL-EU	1371	607		CT Special Forces	
+SLES_041.23	PAL-EU	0873	426		CT Special Forces 2 - Back to Hell	
+SLES_041.55	PAL-EU	0042	165		CT Special Forces 3 - Bioterror	
+SLUS_014.22	NTSC-US	0851	318		Cubix Robots for Everyone - Race'n Robots	
+SLPM_866.58	NTSC-JP	1054	339		Culdcept Expansion Plus	
+SLPS_017.11	NTSC-JP	1094	554		Curiosity Kills The Cat?	
+SLPS_010.11	NTSC-JP	0052	460		Cyberbots - Full Metal Madness	
+SLPS_019.10	NTSC-US	0041	613		Cyber Org	
+SLUS_000.53	NTSC-US	0850	440		Cyberia	
+SLPS_019.12	NTSC-JP	0328	488	DISC1	Cybernetic Empire	
+SLPS_019.13	NTSC-US	0328b	591	DISC2	Cybernetic Empire	
+SLPS_000.23	NTSC-JP	1676	433		CyberSled	
+SLUS_000.08	NTSC-US	0388	433		CyberSled	
+SLUS_001.16	NTSC-US	0751	552		CyberSpeed	
+SLUS_010.04	NTSC-US	0054	251		CyberTiger Golf	
+SLUS_001.28	NTSC-US	0323	611	DISC1	D	
+SLUS_001.73	NTSC-US	0323b	620	DISC2	D	
+SLUS_001.74	NTSC-US	0323c	412	DISC3	D	
+SLPS_016.99	NTSC-JP	1744	187		Daisenryaku - Master Combat	
+SLPS_011.35	NTSC-JP	0431	494		DamDam Stompland	
+SLPM_861.50	NTSC-JP	1753	390		Dance! Dance! Dance!	
+SLPM_862.52	NTSC-JP	2404	531		Dance Dance Revolution - 2nd Remix	modchip-protected
+SLPM_865.03	NTSC-JP	0555	517		Dance Dance Revolution - 3rd Mix	
+SLPM_867.52	NTSC-JP	0556	403		Dance Dance Revolution - 4th Mix	modchip-protected
+SLUS_014.46	NTSC-US	0454	375		Dance Dance Revolution - Konamix	
+SLPM_866.03	NTSC-JP	0455	307		Dance Dance Revolution - Oha-Star	
+SLUS_012.80	NTSC-US	1890	278		Dance Dance Revolution - USA Mix	
+SLPS_026.09	NTSC-JP	2416	262		Dangan	
+SLUS_008.81	NTSC-US	0086	566		Danger Girl	
+SLUS_003.00	NTSC-US	2249	483		Dare Devil Derby 3D	
+SLPS_005.74	NTSC-JP	0752	471		Darius Gaiden	
+SLPS_001.08	NTSC-JP	2396	056		Darkseed	
+SLPS_009.38	NTSC-JP	2397	412		Darkseed II	
+SLPS_007.89	NTSC-JP	2340	356		Dark Hunter - Shita Youma no Mori	
+SLPS_014.22	NTSC-US	0338	602		Dark Messiah	
+SLPS_023.16	NTSC-JP	0377	584		Dark Tales From The Lost Soul	
+SLUS_004.57	NTSC-US	0691	450		Darklight Conflict	
+SLUS_000.36	NTSC-US	0769	451		Darkstalkers - The Night Warriors	
+SLUS_007.45	NTSC-US	0079	622		Darkstalkers 3	
+SLPS_017.00	NTSC-JP	1479	623		Darkstalkers 3 - Vampire Savior EX Edition	
+SLUS_011.82	NTSC-US	0365	602		Darkstone - Evil Reigns	
+SLUS_010.26	NTSC-US	1109	102		Dave Mirra Freestyle BMX	
+SLUS_013.47	NTSC-US	1435	275		Dave Mirra Freestyle BMX - Maximum Remix	
+SLES_034.88	PAL-EU	1589	220		David Beckham Soccer	NTSC patched PAL
+SLUS_014.55	NTSC-US	1967	220		David Beckham Soccer	
+SLES_000.96	PAL-EU	1224	253		Davis Cup Complete Tennis	
+SLUS_006.58	NTSC-US	1944	309		Dead Ball Zone	
+SLUS_006.93	NTSC-US	0643	439		Dead in the Water	
+SLPS_012.89	NTSC-JP	0976	490		Dead or Alive	
+SLUS_006.06	NTSC-US	0068	490		Dead or Alive	
+SLPS_002.67	NTSC-JP	1409	246		Deadheat Road	
+SLPS_002.25	NTSC-JP	1835	517	DISC1	Death Mask	
+SLPS_002.26	NTSC-JP	1835b	603	DISC2	Death Mask	
+SLPS_002.27	NTSC-JP	1835c	587	DISC3	Death Mask	
+SLPS_004.89	NTSC-JP	2046	394		Death Wing	
+SLUS_005.66	NTSC-US	0340	347		Deathtrap Dungeon	
+SLUS_010.67	NTSC-US	0077	571		Deception III - Dark Delusion	
+SLPS_024.79	NTSC-JP	1948	583		Deception III - Soumatou	
+SLPS_018.17	NTSC-JP	0640	411		Deep Freeze	
+SLUS_000.09	NTSC-US	0870	440		Defcon 5 - Peace has a Price	
+SLUS_014.29	NTSC-US	0502	227		Delta Force - Urban Warfare	
+SLUS_009.69	NTSC-US	0842	270		Demolition Racer	
+SLPS_013.17	NTSC-JP	0048	127		Denryuu Iraira Bou Returns	
+SLPM_861.42	NTSC-JP	1458	553		Densha de Go! 2 (Let's Go By Train! 2)	
+SLPM_864.24	NTSC-JP	0830	508		Densha de Go! Nagoya Railroad (Let's Go By Train)	
+SLPM_863.78	NTSC-JP	1516	621		Densha de Go! Professional	
+SLPS_011.50	NTSC-JP	2150	619		Densha de Go! Yamanote Line	
+SLPS_002.12	NTSC-JP	1923	377		Descent	
+SLUS_000.37	NTSC-US	0516	451		Descent	
+SLUS_004.60	NTSC-US	0517	412		Descent Maximum	
+SLPS_015.91	NTSC-JP	1865	470		Destrega	
+SIPS_600.01	NTSC-JP	2329	573		Destruction Derby	
+SCUS_943.02	NTSC-US	0732	542		Destruction Derby	
+SCUS_943.50	NTSC-US	0878	540		Destruction Derby 2	
+SIPS_600.12	NTSC-JP	2080	540		Destruction Derby 2	
+SLUS_009.12	NTSC-US	0078	564		Destruction Derby Raw	
+SLPS_001.00	NTSC-JP	0470	332		Detana TwinBee Yahoo! Deluxe Pack	
+SLPS_018.89	NTSC-JP	1924	619		Devicereign	
+SLUS_006.72	NTSC-US	0710	419		Devil Dice	
+SLPS_022.75	NTSC-JP	0070	179		Devil-Man	
+SLPS_023.30	NTSC-JP	1864	295		DewPrism	
+SLES_036.27	PAL-EU	0531	363		Dexter's Laboratory - Mandark's Lab	PAL patched NTSC
+SLUS_014.21	NTSC-US	2145	362		Dexter's Laboratory - Mandark's Lab	
+SLPS_015.03	NTSC-JP	2021	140	DISC1	Dezaemon Kids!	
+SLPS_015.04	NTSC-JP	2021b	126	DISC2	Dezaemon Kids!	
+SLPS_003.35	NTSC-JP	0081	364		Dezaemon Plus	
+SLPS_014.16	NTSC-JP	1172	321		Diablo	
+SLUS_006.19	NTSC-US	0613	542		Diablo	
+SLPS_005.85	NTSC-JP	1112	491		Die Hard Trilogy	
+SLUS_001.19	NTSC-US	0451	462		Die Hard Trilogy	
+SLES_004.45	PAL-EU	0084	496		Die Hard Trilogy	
+SLUS_010.15	NTSC-US	0494	609		Die Hard Trilogy 2	
+SLPS_007.80	NTSC-JP	1898	242		Die Katze von Schrodinger - Schrodinger no Neko	
+SLPS_033.57	NTSC-JP	2477	219		Digimon Tamers - Battle Evolution	
+SLPS_031.01	NTSC-JP	2022	231		Digimon World - Digital Card Arena	
+SLPS_017.97	NTSC-JP	1748	316		Digimon World	
+SLUS_010.32	NTSC-US	1279	317		Digimon World	
+SLPS_028.44	NTSC-JP	1749	422		Digimon World 2	
+SLPS_022.76	NTSC-JP	1509	324		Digital Glider Airman	
+SLPS_021.80	NTSC-JP	1113	347		Dino Crisis	modchip-protected
+SLUS_009.22	NTSC-US	0601	346		Dino Crisis	modchip-protected
+SLPM_866.27	NTSC-JP	1497	418		Dino Crisis 2	
+SLUS_012.79	NTSC-US	0074	424		Dino Crisis 2	
+SLPS_027.97	NTSC-JP	2374	550		Dioramos	
+SLUS_015.52	NTSC-US	1309	319		Dirt Jockey - Heavy Equipment Operator	
+SCUS_946.00	NTSC-US	0408	446		Discworld	
+SCUS_946.05	NTSC-US	0390	605		Discworld II - Mortality Bytes!	
+SLES_015.49	PAL-EU	0466	612		Discworld Noir	PAL patched NTSC
+SLUS_011.06	NTSC-US	0979	289		Disney World Quest - Magical Racing Tour	
+SCUS_942.88	NTSC-US	1366	613		Disney's A Bug's Life	
+SCES_030.00	PAL-EU	0317	520		Disney's Aladdin - Nasira's Revenge	PAL/NTSC selector
+SCUS_945.69	NTSC-US	1572	525		Disney's Aladdin - Nasira's Revenge	
+SCUS_946.36	NTSC-US	1296	309		Disney's Atlantis - The Lost Empire	
+SLUS_011.67	NTSC-US	2169	467		Disney's Dinosaur	
+SLUS_012.42	NTSC-US	1326	255		Disney's Donald Duck - Goin' Quackers	
+SLUS_012.09	NTSC-US	1945	618		Disney's Goofy's Fun House	
+SLUS_005.29	NTSC-US	0437	340		Disney's Hercules - Action Game	
+SCUS_946.46	NTSC-US	1325	432		Disney's Lilo & Stitch	
+SLUS_010.38	NTSC-US	2148	183		Disney's Mulan - Story Studio	
+SLUS_014.37	NTSC-US	1651	474		Disney's Pooh's Party Game - In Search of the Treasure	
+SCUS_944.56	NTSC-US	0400	464		Disney's Tarzan	
+SCUS_945.71	NTSC-US	1573	510		Disney's The Emperor's New Groove	PAL/NTSC selector
+SLUS_012.78	NTSC-US	1400	622		Disney's The Jungle Book - Rhythm n' Groove Party	
+SLUS_012.82	NTSC-US	0412	592		Disney's The Lion King - Simba's Mighty Adventure	
+SLUS_012.86	NTSC-US	1545	461		Disney's The Little Mermaid II	
+SLUS_008.93	NTSC-US	1368	525		Disney's Toy Story 2 - Buzz Lightyear to the Rescue	
+SLUS_012.14	NTSC-US	0690	215		Disney's Toy Story Racer	
+SCES_039.37	PAL-EU	1348	407		Disney's Treasure Planet	
+SLUS_002.24	NTSC-US	0082	528		Disruptor	
+SLES_015.35	PAL-EU	1644	453		Diver's Dream	
+SCPS_101.29	NTSC-JP	2375	387		Docchi Mecha!	
+SLES_010.82	PAL-EU	1225	554		Dodge'm Arena	
+SLPS_013.62	NTSC-JP	1527	614		Dodge de Ball!	
+SLPS_013.64	NTSC-JP	0075	342		DoDonPachi	
+SLPS_006.73	NTSC-JP	2406	360		DoDoukyuusei Mahjong	
+SLPS_001.30	NTSC-JP	1552	291		Doki Oki	
+SLPS_005.48	NTSC-JP	0047	215		DonPachi	
+SLUS_000.77	NTSC-US	0946	241		Doom	
+SLUS_015.76	NTSC-US	2457	557		Dora the Explorer - Barnyard Buddies	
+SLPS_002.33	NTSC-JP	1836	343		Doraemon - Nobitaito Fukkatsu no Hoshi	
+SLPS_006.28	NTSC-JP	0713	616		Doraemon 2 - Sos! Otogi no Kuni	
+SLPS_001.91	NTSC-JP	0359	375		Double Dragon	
+SLPS_014.79	NTSC-JP	1345	523		Double Edge - Bounty Sword	
+SLPS_011.32	NTSC-JP	2453	612		Doukeshi Satsujin Jiken	
+SLPS_005.19	NTSC-JP	2105	137		Doyume no Yabou - F1 GP Nippon no Chousen	
+SLPM_871.71	NTSC-JP	1853	244		Dr. Rin Ni Kiitemite!	
+SLUS_012.84	NTSC-US	0343	592	DISC1	Dracula - The Resurrection	
+SLUS_013.16	NTSC-US	0343b	623	DISC2	Dracula - The Resurrection	
+SLUS_014.40	NTSC-US	0491	570	DISC1	Dracula 2 - The Last Sanctuary	
+SLUS_014.43	NTSC-US	0491b	459	DISC2	Dracula 2 - The Last Sanctuary	
+SLPS_006.64	NTSC-JP	1073	373		Dragon Knight 4	
+SLPS_020.37	NTSC-JP	2431	120		Dragon Money	
+SLPM_869.16	NTSC-JP	0998	305		Dragon Quest IV - Michibikareshi Monotachi	
+SLPM_865.00	NTSC-JP	2295	592	DISC1	Dragon Quest VII - Eden no Senshi-Tachi	
+SLPM_865.01	NTSC-JP	2295b	563	DISC2	Dragon Quest VII - Eden no Senshi-Tachi	
+SLPM_870.50	NTSC-JP	0999	216		Dragon Quest Monsters 1 & 2	
+SLPS_015.14	NTSC-JP	2478	214		Dragon Seeds	
+SLUS_007.34	NTSC-JP	1145	214		Dragon Seeds	
+SLPS_021.90	NTSC-JP	2292	527	DISC1	Dragon Valor	
+SLPS_021.91	NTSC-JP	2292b	581	DISC2	Dragon Valor	
+SLUS_010.92	NTSC-US	0080	523	DISC1	Dragon Valor	
+SLUS_011.64	NTSC-US	0080b	579	DISC2	Dragon Valor	
+SLUS_012.06	NTSC-US	0071	590	DISC1	Dragon Warrior VII	
+SLUS_013.46	NTSC-US	0071b	562	DISC2	Dragon Warrior VII	
+SLPS_009.49	NTSC-JP	2023	133		Dragonball - Final Bout	
+SLUS_004.93	NTSC-US	0970	131		Dragonball GT - Final Bout	
+SLPS_003.55	NTSC-JP	1128	337		Dragonball Z - Idainaru Dragonball Densetsu	rip?
+SLUS_015.50	NTSC-US	1438	279		Dragonball Z - Ultimate Battle 22	
+SLUS_002.26	NTSC-US	0413	474		Dragonheart - Fire & Steel	
+SLES_007.14	PAL-EU	1187	260		Dreams to Reality	
+SLUS_008.42	NTSC-US	0069	620		Driver - You are the Wheelman	
+SLUS_011.61	NTSC-US	0085	537	DISC1	Driver 2	
+SLUS_013.18	NTSC-US	0085b	500	DISC2	Driver 2	
+SLES_040.45	PAL-EU	0965	133		Dropzone	
+SLPS_015.16	NTSC-JP	2088	118		Drug Store	
+SLUS_010.25	NTSC-US	1910	490		Ducati World	
+SLUS_010.02	NTSC-US	0072	587		Duke Nukem - Land of The Babes	
+SLUS_005.83	NTSC-US	0067	373		Duke Nukem - Time To Kill	
+SLUS_003.55	NTSC-US	0073	587		Duke Nukem - Total Meltdown	
+SLUS_008.59	NTSC-US	0637	585		Dukes of Hazzard - Racing For Home	
+SLUS_012.43	NTSC-US	0453	581		Dukes of Hazzard II - Daisy Dukes It Out	
+SLUS_009.73	NTSC-US	0777	568		Dune 2000	
+SLPS_016.50	NTSC-JP	1151	138		Dungeon Shoutenkai	
+SLPS_013.87	NTSC-JP	2386	316		Dynamite Boxing	
+SLPS_014.14	NTSC-JP	1407	219		Dynamite Soccer '98	
+SLPS_034.36	NTSC-JP	1471	160		Dynamite Soccer 2002	
+SLPS_035.75	NTSC-JP	1269	160		Dynamite Soccer 2004 Final	
+SLUS_004.38	NTSC-US	0902	442		Dynasty Warriors	
+SLES_017.15	PAL-EU	1499	480		Eagle One - Harrier Attack	
+SLES_003.43	PAL-EU	1021	382		Earthworm Jim 2	PAL patched NTSC
+SLPS_008.44	NTSC-JP	1197	584	DISC1	Eberouge	
+SLPS_008.45	NTSC-JP	1197b	572	DISC2	Eberouge	
+SLPS_019.05	NTSC-JP	1256	413		Eberouge 2	
+SLPS_015.18	NTSC-JP	1866	407		Echo Night	
+SLUS_008.20	NTSC-US	0060	427		Echo Night	
+SLPS_021.67	NTSC-JP	1817	290		Echo Night 2	
+SLUS_010.45	NTSC-US	1116	309		ECW - Hardcore Revolution	
+SLUS_011.69	NTSC-US	1117	453		ECW Anarchy Rulz	
+SLUS_007.51	NTSC-US	0738	623		Eggs of Steel	
+SLES_033.73	PAL-EU	1576	538		Egypt II- The Heliopolis Prophecy	
+SLUS_008.09	NTSC-US	0088	579		Ehrgeiz - God Bless The Ring	
+SCUS_942.43	NTSC-US	0089	542		Einhander	
+SLPS_031.41	NTSC-JP	1730	338	DISC1	Eithea	
+SLPS_031.42	NTSC-JP	1730b	501	DISC2	Eithea	
+SLPS_027.59	NTSC-JP	2324	482		Elan Plus	
+SLPM_864.94	NTSC-JP	2426	235		Eldergate	
+SCPS_100.38	NTSC-JP	2251	361		Elemental Gearbolt	
+SLUS_006.54	NTSC-US	0087	442		Elemental Gearbolt	
+SLPS_009.73	NTSC-JP	2384	553	DISC1	Elf Wo Karu Monotachi	
+SLPS_009.74	NTSC-JP	2384b	496	DISC2	Elf Wo Karu Monotachi	
+SLPS_009.75	NTSC-JP	2384c	164	DISC3	Elf Wo Karu Monotachi	Robo Pit 2 Preview
+SLPS_007.78	NTSC-JP	2392	185		Elfin Paradise	
+SLUS_006.99	NTSC-US	1553	533		Eliminator	
+SLUS_006.21	NTSC-US	1956	491		Elmo's Letter Adventure	
+SLUS_006.22	NTSC-US	1957	485		Elmo's Number Journey	
+SLPS_015.84	NTSC-JP	1633	568		End Sector	
+SLPS_013.51	NTSC-JP	0344	542	DISC1	Enigma	
+SLPS_013.52	NTSC-JP	0344b	623	DISC2	Enigma	
+SLPS_008.20	NTSC-JP	0836	463		EOS - Edge of Skyhigh	
+SLPS_014.65	NTSC-JP	2019	201		Epica Stella	
+SCUS_941.52	NTSC-US	0992	613		Epidemic	
+SLUS_014.62	NTSC-US	1549	228		Equestrian Showcase	
+SLPS_017.90	NTSC-JP	0422	609		Eretzvaju	
+SLUS_011.86	NTSC-US	1010	257		ESPN MLS Gamenight	
+SLUS_013.85	NTSC-US	1937	188		ET - The Extra-Terrestrial - Interplanetary Mission	
+SLUS_010.34	NTSC-US	1069	316		Eternal Eyes	
+SLPS_014.89	NTSC-JP	1502	423		Eternal Wings - Bakusou Kyoudai Let's & Go	
+SLPM_868.26	NTSC-JP	2312	617	DISC1	Eve - The Fatal Attraction	
+SLPM_868.27	NTSC-JP	2312b	620	DISC2	Eve - The Fatal Attraction	
+SLPM_868.28	NTSC-JP	2312c	619	DISC3	Eve - The Fatal Attraction	
+SLPM_864.78	NTSC-JP	2314	622	DISC1	Eve Zero	
+SLPM_864.79	NTSC-JP	2314b	622	DISC2	Eve Zero	
+SLPM_864.80	NTSC-JP	2314c	474	DISC3	Eve Zero	
+SLUS_010.72	NTSC-US	2272	336	DISC1	Evil Dead - Hail to the King	
+SLUS_013.26	NTSC-US	2272b	526	DISC2	Evil Dead - Hail to the King	
+SLUS_008.55	NTSC-US	1251	503		Evil Zone	
+SLES_004.78	PAL-EU	0935	493		Excalibur 2555 A.D.	
+SCPS_100.74	NTSC-JP	1272	531		Exceed we Corpse (Ore no Shikabane o Koete Yuke)	
+SLPS_000.91	NTSC-JP	1761	455		Exector	
+SLPS_017.21	NTSC-JP	1581	390		Exodus Guilty	
+SLUS_010.75	NTSC-US	0450	487		Expendable	
+SLPS_003.42	NTSC-JP	0653	445		Expert	
+SLES_007.16	PAL-EU	1975	530		Explosive Racing	
+SLPS_006.25	NTSC-JP	1483	491		Extra Bright	
+SLES_039.90	PAL-EU	0096	263		Extreme Ghostbusters	
+SLUS_015.30	NTSC-US	0083	397		Extreme Go-Kart Racing	
+SLUS_002.00	NTSC-US	1938	141		Extreme Pinball	
+SLES_005.01	PAL-EU	1266	569		Extreme Snowbreak	
+SLUS_011.20	NTSC-US	1343	391		F1 2000	
+SLUS_013.44	NTSC-US	2200	485		F1 World Grand Prix 2000	
+SLUS_002.36	NTSC-US	0574	512		Fade To Black	
+SLPS_000.10	NTSC-JP	1089	416		Falcata	
+SLUS_011.71	NTSC-US	1233	487		Family Feud	
+SLUS_010.49	NTSC-US	1954	152		Family Game Pack	
+SLPS_032.14	NTSC-JP	2079	541		Fantastic Fortune	
+SLUS_003.95	NTSC-US	0855	445		Fantastic Four	
+SLPS_019.03	NTSC-JP	2476	234		Farland Saga - Toki no Michishirube	
+SLPS_007.97	NTSC-JP	1927	492		Farland Story - Yottsu no Fuuin	
+SLPM_862.36	NTSC-JP	0584	601		Fatal Fury - Wild Ambition	
+SLPS_006.40	NTSC-JP	1634	367		Fatal Fury (Garou Densetsu) - Real Bout	
+SLPS_017.59	NTSC-JP	1473	493		Favorite Dear	
+SLPS_027.54	NTSC-JP	1474	471		Favorite Dear - Junshiro no Yogenmono (The Everlasting Voices)	
+SLUS_009.20	NTSC-US	1002	404	DISC1	Fear Effect	
+SLUS_010.56	NTSC-US	1002b	419	DISC2	Fear Effect	
+SLUS_010.57	NTSC-US	1002c	375	DISC3	Fear Effect	
+SLUS_010.58	NTSC-US	1002d	423	DISC4	Fear Effect	
+SLUS_012.66	NTSC-US	0100	620	DISC1	Fear Effect 2 - Retro Helix	
+SLUS_012.75	NTSC-US	0100b	577	DISC2	Fear Effect 2 - Retro Helix	
+SLUS_012.76	NTSC-US	0100c	532	DISC3	Fear Effect 2 - Retro Helix	
+SLUS_012.77	NTSC-US	0100d	593	DISC4	Fear Effect 2 - Retro Helix	
+SLPS_007.23	NTSC-JP	1228	622		FEDA 2 - White Surge - The Platoon	
+SLUS_005.33	NTSC-US	0314	320		Felony 11-79	
+SCES_039.07	PAL-EU	0520	150		FIA World Rally Championship - Arcade	PAL patched NTSC
+SLUS_005.20	NTSC-US	0675	445		FIFA - Road To World Cup '98	
+SLUS_007.82	NTSC-US	1429	536		FIFA '99	
+SLPS_026.75	NTSC-JP	2239	319		FIFA 2000 - Europe League Soccer	
+SLUS_009.94	NTSC-US	0676	392		FIFA 2000 - Major League Soccer	
+SLUS_012.62	NTSC-US	1604	507		FIFA 2001 - Major League Soccer	
+SLES_041.15	PAL-EU	1562	502		FIFA Football 2004	
+SLES_041.65	PAL-EU	1152	484		FIFA Football 2005	
+SLES_001.16	PAL-EU	0898	481		FIFA Soccer '96	
+SLUS_002.69	NTSC-US	1702	474		FIFA Soccer '97	
+SLUS_015.04	NTSC-US	2229	567		FIFA Soccer 2003	
+SLUS_015.85	NTSC-US	2230	484		FIFA Soccer 2005	
+SLES_038.30	PAL-EU	1377	426		FIFA World Cup 2002	PAL patched NTSC
+SLUS_014.49	NTSC-US	1568	427		FIFA World Cup 2002	
+SLUS_006.41	NTSC-US	1394	407		Fighter Maker	
+SLPS_008.22	NTSC-JP	1462	388		Fighters' Impact	
+SLUS_004.33	NTSC-US	0090	517		Fighting Force	
+SLUS_009.34	NTSC-US	0091	339		Fighting Force 2	
+SLPS_003.40	NTSC-JP	1627	407		Fighting Illusion - K-1 Grand Prix	
+SLUS_003.31	NTSC-US	0092	207		Final Doom	
+SLPS_034.30	NTSC-JP	2352	120		Final Fantasy	
+SLPM_800.73	NTSC-JP	0407	595		Final Fantasy - Extra Collection	
+SLUS_008.79	NTSC-US	1286	256	DISC1	Final Fantasy Anthology	Final Fantasy V disc
+SLUS_009.00	NTSC-US	1286b	270	DISC2	Final Fantasy Anthology	Final Fantasy VI disc
+SLUS_013.63	NTSC-US	0050	454	DISC1	Final Fantasy Chronicles	Chrono Trigger disc
+SLUS_013.60	NTSC-US	0050b	320	DISC2	Final Fantasy Chronicles	Final Fantasy IV disc
+SLPM_860.28	NTSC-JP	0994	320		Final Fantasy IV	
+SLPM_860.81	NTSC-JP	0995	245		Final Fantasy V	
+SLPM_861.98	NTSC-JP	0996	269		Final Fantasy VI	
+SCUS_941.63	NTSC-US	0113	620	DISC1	Final Fantasy VII	
+SCUS_941.64	NTSC-US	0113b	608	DISC2	Final Fantasy VII	
+SCUS_941.65	NTSC-US	0113c	547	DISC3	Final Fantasy VII	
+SLPS_010.57	NTSC-JP	2351	620	DISC1	Final Fantasy VII International	
+SLPS_010.58	NTSC-JP	2351b	608	DISC2	Final Fantasy VII International	
+SLPS_010.59	NTSC-JP	2351c	547	DISC3	Final Fantasy VII International	
+SLPS_010.60	NTSC-JP	0406	514	DISC4	Final Fantasy VII International	bonus disc
+SLPS_018.80	NTSC-JP	1691	608	DISC1	Final Fantasy VIII	modchip-protected
+SLPS_018.81	NTSC-JP	1691b	575	DISC2	Final Fantasy VIII	modchip-protected
+SLPS_018.82	NTSC-JP	1691c	599	DISC3	Final Fantasy VIII	modchip-protected
+SLPS_018.83	NTSC-JP	1691d	575	DISC4	Final Fantasy VIII	modchip-protected
+SLUS_008.92	NTSC-US	0468	608	DISC1	Final Fantasy VIII	
+SLUS_009.08	NTSC-US	0468b	575	DISC2	Final Fantasy VIII	
+SLUS_009.09	NTSC-US	0468c	599	DISC3	Final Fantasy VIII	
+SLUS_009.10	NTSC-US	0468d	576	DISC4	Final Fantasy VIII	
+SLUS_012.51	NTSC-US	0101	615	DISC1	Final Fantasy IX	
+SLUS_012.95	NTSC-US	0101b	572	DISC2	Final Fantasy IX	
+SLUS_012.96	NTSC-US	0101c	605	DISC3	Final Fantasy IX	
+SLUS_012.97	NTSC-US	0101d	571	DISC4	Final Fantasy IX	
+SLUS_015.41	NTSC-US	0094	207		Final Fantasy Origins	
+SLPS_007.70	NTSC-JP	2422	449	DISC1	Final Fantasy Tactics	
+SLPS_007.71	NTSC-JP	2422b	470	DISC2	Final Fantasy Tactics	Square's Preview 2
+SCUS_942.21	NTSC-US	0095	449		Final Fantasy Tactics	
+SLPS_020.65	NTSC-JP	0906	251		Fire Pro Wrestling G	
+SLPS_002.77	NTSC-JP	2068	462		Fire Pro Wrestling Iron Slam '96	
+SLPS_013.15	NTSC-JP	1606	589		Fire Woman Matoigumi	
+SCES_038.84	PAL-EU	2050	505		Firebugs	
+SLPS_006.04	NTSC-JP	2089	084		First Queen IV	
+SLES_000.94	PAL-EU	1148	549		Firo & Klawd	
+SLPS_005.38	NTSC-JP	1750	618		Fist	
+SLUS_002.31	NTSC-US	1700	484		Floating Runner - Quest for the 7 Crystals	
+SLUS_015.40	NTSC-US	1205	206		Ford Truck Mania	
+SLPS_031.91	NTSC-JP	1229	376		Forget Me Not - Palette	
+SLPS_007.62	NTSC-JP	1049	561		Formation Soccer '97 - The Road to France	
+SLPS_014.19	NTSC-JP	1859	273		Formation Soccer '98 - Ganbare Nippon In France	
+SIPS_600.11	NTSC-JP	2255	540		Formula 1	
+SCUS_943.53	NTSC-US	0788	551		Formula 1	
+SCPS_101.01	NTSC-JP	0341	454		Formula 1 '99	
+SLUS_008.70	NTSC-US	0806	443		Formula 1 '99	
+SLUS_011.34	NTSC-US	2098	380		Formula 1 2000	
+SLUS_005.46	NTSC-US	0789	580		Formula 1 Championship Edition	
+SLUS_012.90	NTSC-US	2066	413		Formula 1 Championship Season 2000	
+SLPS_003.58	NTSC-JP	1925	160		Formula Circus	
+SLPS_011.54	NTSC-JP	2427	258		Formula Grand Prix 1997 - Team Unei Simulation 2	
+SLPS_014.88	NTSC-JP	1631	535		Forsaken	
+SLUS_004.58	NTSC-US	0448	538		Forsaken	
+SLUS_001.01	NTSC-US	0434	497	DISC1	Fox Hunt	
+SLUS_001.75	NTSC-US	0434b	524	DISC2	Fox Hunt	
+SLUS_001.76	NTSC-US	0434c	540	DISC3	Fox Hunt	
+SLPS_013.55	NTSC-JP	2310	512		Fox Junction	
+SLUS_006.36	NTSC-US	0395	375		FOX Sports Golf '99	
+SLUS_009.26	NTSC-US	1307	244		FOX Sports NBA Basketball 2000	
+SLUS_009.25	NTSC-US	0687	300		FOX Sports NHL Championship 2000	
+SLUS_006.35	NTSC-US	1219	267		FOX Sports Soccer '99	
+SLUS_000.10	NTSC-US	1961	183		Frank Thomas Big Hurt Baseball	
+SLES_028.20	PAL-EU	1153	164		Freestyle Motocross - McGrath vs. Pastrana	
+SLUS_001.22	NTSC-US	1994	164		Freestyle Motocross - McGrath vs. Pastrana	
+SLUS_005.06	NTSC-US	0539	210		Frogger	
+SLUS_011.72	NTSC-US	0498	308		Frogger 2 - Swampy's Revenge	
+SLUS_011.72	NTSC-US	0499	308		Frogger 2 - Swampy's Revenge	NTSC patched PAL
+SLPS_031.64	NTSC-JP	0581	483		From TV Animation - One Piece Grand Battle!	
+SLPS_034.08	NTSC-JP	0527	609		From TV Animation - One Piece Grand Battle 2	
+SLPS_035.50	NTSC-JP	1493	551		From TV Animation - One Piece - Oceans of Dreams	
+SLPS_027.36	NTSC-JP	1401	619		From TV Animation - Senkaitaisen	
+SLPS_034.59	NTSC-JP	0534	342		From TV Animation - X - Unmei no Tatakai	
+SLPM_873.17	NTSC-JP	2162	079		Front Mission 1st	
+SLPS_010.00	NTSC-JP	1290	357		Front Mission 2	
+SLPM_873.31	NTSC-JP	2440	353		Front Mission 2	[Front Mission History]
+SLPS_022.22	NTSC-JP	2163	512		Front Mission 3	no audio in FMV
+SLUS_010.11	NTSC-US	0093	512		Front Mission 3	
+SLPS_009.53	NTSC-JP	1831	273		Front Mission Alternative	
+SLPS_023.06	NTSC-JP	0847	471		Fun! Fun! Pingu	[Limited Edition]
+SLPM_867.11	NTSC-JP	2058	206		Furanbertjyu no Seirei (Flamberge no Seirei)	[Superlite 1500 Series]
+SLUS_007.39	NTSC-US	0099	292		Future Cop L.A.P.D. 2100 AD	
+SLES_035.08	PAL-EU	2423	517		Future Racer	
+SLPS_030.94	NTSC-JP	2380	589		Fuuraiki	
+SLPS_004.41	NTSC-JP	1494	493		Fuuun Gokuu Ninjin	
+SLPS_009.44	NTSC-JP	2142	406		G.O.D Pure - Growth or Devolution	
+SLPS_013.48	NTSC-JP	0102	620		G-Darius	
+SLUS_005.44	NTSC-US	0693	606	DISC1	G-Police	
+SLUS_005.56	NTSC-US	0693b	605	DISC2	G-Police	
+SLUS_007.98	NTSC-US	0558	582		G-Police 2 - Weapons of Justice	
+SLPM_864.13	NTSC-JP	2326	310		G1 Jockey 2000	modchip-protected
+SLPS_010.82	NTSC-JP	2004	454	DISC1	Gadget - Past as Future	
+SLPS_010.83	NTSC-JP	2004b	292	DISC2	Gadget - Past as Future	
+SLPS_010.84	NTSC-JP	2004c	377	DISC3	Gadget - Past as Future	
+SLPS_010.85	NTSC-JP	2004d	576	DISC4	Gadget - Past as Future	
+SLPS_020.75	NTSC-JP	2179	321		Gaia Master - Kamigami no Boardgame	
+SLPS_006.24	NTSC-JP	0159	481		Gaiaseed - Project Seed Trap	
+SLPS_011.03	NTSC-JP	1517	234		Gakkou o Tsukurou!! - Let's Make a School!!	
+SLPS_016.60	NTSC-JP	2002	289		Gakkou o Tsukurou!! 2	
+SLUS_012.58	NTSC-US	0336	342		Galaga - Destination Earth	
+SLPS_002.70	NTSC-JP	0803	522		Galaxian 3	
+SLES_001.97	PAL-EU	1666	387		Galaxy Fight	
+SLPS_025.96	NTSC-JP	0649	362		Gale Gunner	
+SLPS_006.21	NTSC-JP	2173	345		Galeoz	
+SLPS_021.92	NTSC-JP	2278	575	DISC1	Galerians	
+SLPS_021.93	NTSC-JP	2278b	563	DISC2	Galerians	
+SLPS_021.94	NTSC-JP	2278c	608	DISC3	Galerians	
+SLUS_009.86	NTSC-US	0161	577	DISC1	Galerians	
+SLUS_010.98	NTSC-US	0161b	568	DISC2	Galerians	
+SLUS_010.99	NTSC-US	0161c	504	DISC3	Galerians	
+SLUS_009.42	NTSC-US	1031	332		Gallop Racer	
+SLPS_010.77	NTSC-JP	2018	494		Gallop Racer 2 - One & Only Road to Victory	
+SLPS_026.23	NTSC-JP	2327	308		Gallop Racer 2000	
+SLPS_008.33	NTSC-JP	0108	464		Gamera 2000	
+SLPM_867.74	NTSC-JP	0570	541		Ganbare Goemon - Ooedo Daikaiten	
+SLPS_002.17	NTSC-JP	0206	498		Ganbare Goemon - Uchuu Kaizoku Akogingu	
+SLPS_014.68	NTSC-JP	1291	198		Gangway Monsters	
+SLPS_022.46	NTSC-JP	0632	521	DISC1	Gatekeepers	
+SLPS_022.47	NTSC-JP	0632b	559	DISC2	Gatekeepers	
+SLUS_006.24	NTSC-US	0308	175		Gauntlet Legends	
+SLPS_031.89	NTSC-JP	2180	118		Gear Fighter Dendoh	
+SLPS_006.44	NTSC-JP	1600	487		Gegege no Kitarou - Noroi no Nikuto Katachi Tachi	
+SLPS_020.56	NTSC-JP	2220	579		Geki-oh Shooting King - Shienryu	
+SLUS_014.98	NTSC-US	0112	579		Geki-oh Shooting King	
+SLUS_009.70	NTSC-US	0503	284		Gekido - Urban Fighters	
+SCPS_101.34	NTSC-JP	0864	369		Gekitotsu Toma L'Arc - L'Arc-en-Ceil vs. Tomarunner	
+SLPS_004.91	NTSC-JP	1492	401		Genei Tougi - Shadow Struggle	
+SLPM_869.86	NTSC-JP	2405	500		Gensomaden Saiyuki - Harukanaru Nishi He	
+SLPM_866.37	NTSC-JP	1162	416		Genso Suiko Gaiden Vol.1 - Harmonia no Kenshi	
+SLPM_866.63	NTSC-JP	1185	381		Genso Suiko Gaiden Vol.2 - Crystal Vallet no Kettou	
+SLPM_860.17	NTSC-JP	1741	490		Genso Suikoden	[Playstation The Best]
+SLUS_000.24	NTSC-US	1668	486		Geom Cube	
+SLPS_015.75	NTSC-JP	2252	425		Geometry Duel	
+SLPS_021.07	NTSC-JP	1375	157		Germs	
+SLPM_868.48	NTSC-JP	2024	166		Get Backers Dakkanoku	
+SLPS_022.32	NTSC-JP	0839	550		Getter Robo Daikessen!	
+SLPS_002.44	NTSC-JP	1833	143		Gex	
+SLUS_000.42	NTSC-US	0111	179		Gex	
+SLUS_005.98	NTSC-US	0141	221		Gex 2 - Enter The Gecko	
+SLUS_008.06	NTSC-US	1072	373		Gex 3 - Deep Cover Gecko	
+SLUS_005.52	NTSC-US	0385	544		Ghost In The Shell	
+SCPS_100.43	NTSC-JP	0127	548		Ghost In The Shell - Koukakou Kidoutai	
+SCES_025.43	PAL-EU	0110	343		Ghoul Panic	PAL patched NTSC
+SLPS_014.51	NTSC-JP	1079	506		Ginga o Jousama Densetsu Yuna - Final Edition	
+SCPS_100.82	NTSC-JP	1834	258		Global Force	
+SLUS_008.90	NTSC-US	1038	414		Glover	
+SLUS_000.69	NTSC-US	1514	185		Goal Storm	
+SLPM_869.97	NTSC-JP	0207	509		Goemon - Shin Sedai Shuumei	
+SLPS_015.42	NTSC-JP	0892	410		Goiken Muyou II	
+SLPS_000.02	NTSC-JP	0109	535		Gokujou Parodius Deluxe Pack	
+SLPS_000.48	NTSC-JP	1652	557		Gokuu Densetsu - Magic Beast Warriors	
+SLUS_003.19	NTSC-US	0163	449	DISC1	Golden Nugget	
+SLUS_005.55	NTSC-US	0163b	306	DISC2	Golden Nugget	
+SLPM_862.50	NTSC-JP	1186	356		Goo! Goo! Soundy	modchip-protected
+SLPS_001.04	NTSC-JP	1076	618		Gouketsuji Ichizoku 2 - Chottodake Saikyou Densetsu	
+SLPS_003.03	NTSC-JP	0512	384		Gradius Deluxe Pack	
+SLPM_860.42	NTSC-JP	0106	489		Gradius Gaiden	
+SCPS_100.45	NTSC-JP	1706	452		Gran Turismo	
+SCUS_941.94	NTSC-US	0103	576		Gran Turismo	
+SCPS_101.16	NTSC-JP	1869	602	DISC1	Gran Turismo 2	Arcade disc
+SCPS_101.17	NTSC-JP	1869b	590	DISC2	Gran Turismo 2	Simulation disc
+SCUS_944.55	NTSC-US	0104	605	DISC1	Gran Turismo 2	Arcade disc
+SCUS_944.88	NTSC-US	0104b	565	DISC2	Gran Turismo 2	Simulation disc
+SCUS_945.88	NTSC-US	2465	422		Gran Turismo 2	bonus disc
+SLUS_001.06	NTSC-US	0610	594		Grand Theft Auto	
+SLUS_008.46	NTSC-US	0611	545		Grand Theft Auto - Mission Pack #1 - London 1969	
+SLUS_007.89	NTSC-US	0456	453		Grand Theft Auto 2	
+SLUS_004.94	NTSC-US	0617	282		Grand Tour Racing '98	
+SLPS_021.24	NTSC-JP	1955	577	DISC1	Grandia	
+SLPS_021.25	NTSC-JP	1955b	560	DISC2	Grandia	
+SCUS_944.57	NTSC-US	0695	576	DISC1	Grandia	
+SCUS_944.65	NTSC-US	0695b	563	DISC2	Grandia	
+SLPM_861.25	NTSC-JP	1346	535		Great Hits	
+SCPS_100.58	NTSC-JP	1737	560		Great Peak	
+SLUS_003.23	NTSC-US	0784	469		Grid Runner	
+SCUS_945.68	NTSC-US	0715	440		Grind Session	PAL/NTSC selector; anti-modchip protection patched
+SLPM_871.38	NTSC-JP	1854	265		Groove Adventure Rave - Mikan no Hiseki	
+SLPS_023.80	NTSC-US	0896	611	DISC1	Growlanser	
+SLPS_023.81	NTSC-JP	0896b	599	DISC2	Growlanser	
+SLUS_011.50	NTSC-US	0768	400		Grudge Warriors	
+SLPS_002.19	NTSC-JP	1518	442		GT - All Japan Touring Car Championship	
+SLPS_013.10	NTSC-JP	1731	476		GT - Straight Victory	
+SLUS_008.11	NTSC-US	0107	363		Guardian's Crusade	
+SLPS_012.97	NTSC-JP	0631	579	DISC1	Guardian Recall	
+SLPS_012.98	NTSC-JP	0631b	605	DISC2	Guardian Recall	
+SLUS_014.66	NTSC-US	1110	571		Gubble	
+SLPS_006.26	NTSC-JP	1855	206		Gucho de Paku - Theme Park Monogatari	
+SLPS_013.57	NTSC-JP	1463	284		Guilty Gear	
+SLUS_007.72	NTSC-US	0143	289		Guilty Gear	
+SLPM_862.65	NTSC-JP	1292	236		Guitar Freaks	
+SLPS_031.00	NTSC-JP	2161	105		Gunbalina	
+SLPS_013.22	NTSC-JP	2235	537		Gunbare! The Game Paradise 2	
+SLPS_015.00	NTSC-JP	0705	398		Gunbarl	
+SLPS_001.57	NTSC-JP	0492	623		Gunbird	
+SLPS_009.30	NTSC-JP	0142	247		GunBullet	
+SLPS_008.83	NTSC-JP	1007	325		Gundam - The Battle Master	
+SLPS_012.86	NTSC-JP	1901	367		Gundam - The Battle Master 2	
+SLPS_008.15	NTSC-JP	1760	403	DISC1	Gundam 0079 - War for the Earth	
+SLPS_008.16	NTSC-JP	1760b	342	DISC2	Gundam 0079 - War for the Earth	
+SLUS_014.18	NTSC-US	0105	233		Gundam Battle Assault 2	
+SLUS_013.98	NTSC-US	0307	158		Gunfighter - The Legend of Jesse James	
+SLPS_019.02	NTSC-JP	1592	586		Gung-Ho Brigade	
+SLPM_862.33	NTSC-JP	0114	219		Gungage	
+SLES_020.69	PAL-EU	0949	219		Gungage	
+SCPS_100.06	NTSC-JP	0126	330		Gunners Heaven	
+SCPS_101.36	NTSC-JP	1311	365		Gunparade March	
+SLPS_024.85	NTSC-JP	2048	036		Gunpey	
+SLUS_003.13	NTSC-US	0983	493		Gunship	
+SLPS_000.41	NTSC-JP	1022	314		Gussun Oyoyo	
+SLPS_005.88	NTSC-JP	2467	433		Gussun Paradise	
+SLPM_860.66	NTSC-JP	1992	136		Hai-Shin 2	
+SLPS_016.77	NTSC-JP	2259	412		Hakaioh - King of Crusher	
+SLPS_032.66	NTSC-JP	2214	137		Hamster Club I	
+SLPS_015.32	NTSC-JP	2279	289		Hana to Ryuu	
+SLPS_014.39	NTSC-JP	1122	488		Hanabi Fantast	
+SLPS_000.78	NTSC-JP	2354	488		Hanako Sangakita!! Gakkou no Kowai Uwasa	
+SLPS_011.10	NTSC-JP	2369	399		Happy Hotel	
+SLPS_014.84	NTSC-JP	1484	445		Hard Boiled	
+SLPS_002.24	NTSC-JP	2001	499		Hard Rock Cab	
+SLUS_006.51	NTSC-US	1524	185		Hardball '99	
+SLUS_001.08	NTSC-US	1427	108		Hardball 5	
+SLPS_004.98	NTSC-JP	0166	457		Harmful Park	
+SLUS_015.03	NTSC-US	1654	586		Harry Potter And The Chamber of Secrets	
+SLUS_014.15	NTSC-US	0714	500		Harry Potter And The Sorcerer's Stone	
+SLPM_864.66	NTSC-JP	1034	423		Harukanaru Toki no Naka de	
+SLUS_011.15	NTSC-US	0303	177		Harvest Moon - Back To Nature	
+SLPS_008.31	NTSC-JP	1867	314		Hatsukoi Barentain	
+SLUS_010.27	NTSC-US	1638	371		HBO Boxing	
+SLUS_006.96	NTSC-US	0130	479	DISC1	Heart of Darkness	
+SLUS_007.41	NTSC-US	0130b	574	DISC2	Heart of Darkness	
+SLPS_006.67	NTSC-JP	1330	459		Heaven's Gate - Yusha	
+SLPS_027.14	NTSC-JP	2243	503		Heisa Byouin	
+SLES_015.62	PAL-EU	1635	526		Hell Night - Dark Messiah	
+SLUS_014.14	NTSC-US	0116	188		Hellboy - Asylum Seeker	
+SLUS_007.78	NTSC-US	1447	204		Hello Kitty - Cube Frenzy	
+SLPM_860.21	NTSC-JP	2313	376		Henry Explorers	
+SLUS_002.98	NTSC-US	0168	295		Herc's Adventures	
+SCPS_100.12	NTSC-US	0483	356		Hermie Hopperhead	
+SLPS_004.70	NTSC-JP	1607	334		Heroine Dream	[Limited Edition]
+SLUS_003.48	NTSC-US	1008	532		Hexen	
+SLUS_001.57	NTSC-JP	0446	284		Hi-Octane - The Track Fights Back	
+SLUS_008.30	NTSC-US	1625	208		High Heat Baseball 2000	
+SLUS_012.44	NTSC-US	0901	155		High Heat - Major League Baseball 2002	
+SLPS_023.51	NTSC-JP	1464	353		High School of Blitz	
+SLPS_033.62	NTSC-JP	2059	213		HighSchool Kimengumi - The Table Hockey	[Simple Characters 2000 Series #05]
+SLPS_023.05	NTSC-JP	0376	606		Hikari no Shima - Seven Lithographs in Shining Island	
+SLPM_871.99	NTSC-JP	1077	448		Hikaru no Go - Insei Choujou Kessen	modchip-protected
+SLUS_011.95	NTSC-US	1174	422		Hogs of War	
+SLPS_029.93	NTSC-JP	0131	578		Hokuto no Ken - Seiki Matsukyu Seishi Densetsu	
+SLUS_013.94	NTSC-US	0825	245		Hooters Road Trip	
+SLUS_013.75	NTSC-US	0165	539		Hoshigami - Running Blue Earth	
+SCUS_941.88	NTSC-US	0128	252		Hot Shot Golf	
+SCUS_944.76	NTSC-US	0129	239		Hot Shot Golf 2	
+SLUS_012.93	NTSC-US	1310	604		Hot Wheels - Extreme Racing	
+SLUS_009.64	NTSC-US	0663	582		Hot Wheels - Turbo Racing	
+SLES_036.86	PAL-EU	1235	162		Hugo - Frog Fighter	
+SLES_038.38	PAL-EU	1331	570		Hugo - The Evil Mirror	language: D|F|N
+SLUS_015.59	NTSC-US	1605	559		Hugo - The Evil Mirror	
+SLPM_866.51	NTSC-JP	2215	107		Hunter X Hunter - Maboroshi no Green Island	
+SLPM_868.95	NTSC-JP	2216	091		Hunter X Hunter 2 - Ubawareta Aura Stone	
+SLPS_011.02	NTSC-JP	0776	246		Hybrid	
+SLAS_000.00	NTSC-US	1169	246		Hybrid	
+SLUS_008.47	NTSC-US	1626	115		Hydro Thunder	
+SLPS_002.48	NTSC-JP	2136	347		Hyper Crazy Climber	
+SLPM_860.02	NTSC-JP	1902	237		Hyper Olympics In Atlanta	
+SCPS_100.29	NTSC-JP	1960	218		I.Q. - Intelligent Qube	
+SCUS_941.81	NTSC-US	0167	208		I.Q. - Intelligent Qube	
+SCPS_100.71	NTSC-JP	0745	504		I.Q. Final	
+SLPS_021.99	NTSC-JP	1861	451		Ichigeki - Hagane no Hito	
+SLPS_002.90	NTSC-JP	1959	564	DISC1	Idol Janshi Suchie-Pai II Limited	
+SLPS_002.91	NTSC-JP	1959b	614	DISC2	Idol Janshi Suchie-Pai II Limited	
+SLPS_002.92	NTSC-JP	1959c	623	DISC3	Idol Janshi Suchie-Pai II Limited	
+SLUS_010.97	NTSC-US	1415	441		IHRA Drag Racing	
+SLPS_012.67	NTSC-JP	1165	351		Image Fight & X-Multiply Arcade Gears	
+SLUS_002.25	NTSC-US	1535	479		Impact Racing	
+SLUS_012.94	NTSC-US	1419	461	DISC1	In Cold Blood	
+SLUS_013.14	NTSC-US	1419b	546	DISC2	In Cold Blood	
+SLUS_001.72	NTSC-US	0753	513		In The Hunt	
+SLUS_012.25	NTSC-US	0132	599		Incredible Crisis	
+SLPS_003.63	NTSC-JP	1629	436		Incredible Toons - Arthur to Astaroth - Nazo-Makai-Mura	
+SLUS_002.21	NTSC-US	0487	398		Independence Day	
+SLPS_008.60	NTSC-JP	2245	375		Indy 500	
+SLES_018.70	PAL-EU	2051	273		Infestation	
+SLPS_017.93	NTSC-JP	0149	446		Initial D	
+SLUS_012.67	NTSC-US	1536	379		Inspector Gadget - Gadget's Crazy Maze	
+SLES_005.11	PAL-EU	1639	234		International Superstar Soccer Deluxe	
+SLES_003.33	PAL-EU	0961	237		International Track & Field	
+SLUS_002.38	NTSC-US	1542	237		International Track & Field	
+SLES_024.48	PAL-EU	0962	456		International Track & Field 2	
+SLUS_009.87	NTSC-US	0438	456		International Track & Field 2000	
+SLUS_008.50	NTSC-US	1541	141		Interplay Sports Baseball 2000	
+SLPS_033.74	NTSC-JP	0956	561		Inuyasha	
+SLUS_015.34	NTSC-US	0150	553		Inuyasha - A Feudal Fairy Tale	
+SLPS_035.03	NTSC-JP	1560	554		Inuyasha - Sengoku Otogi Kassen (Feudal Fairy Tale)	
+SLUS_007.09	NTSC-US	1091	377		Invasion From Beyond	
+SLPS_003.41	NTSC-JP	2191	137		Irem Arcade Classics	NTSC patched PAL
+SLUS_003.78	NTSC-US	1250	238		Iron & Blood - Warriors of Ravenloft	
+SLUS_010.61	NTSC-US	0782	623		Iron Soldier 3	
+SLUS_002.35	NTSC-US	0993	487		Ironman & X-O Manowar in Heavy Metal	
+SLUS_007.75	NTSC-US	0152	103		Irritating Stick	
+SLPS_018.68	NTSC-JP	0513	206		IS - Internal Section	
+SLPM_861.44	NTSC-JP	1837	343		Ishin no Arashi - Bakumatsu Shishiden	
+SLUS_006.74	NTSC-US	0739	368		ISS Pro '98	
+SLES_033.21	PAL-EU	1588	572		ISS Pro Evolution Soccer 2	PAL/NTSC selector
+SLPS_008.32	NTSC-JP	1838	315		Iwatobi Penguin - Rocky & Hopper	
+SLPS_012.83	NTSC-JP	2468	386		Iwatobi Penguin - Rocky & Hopper Vol.2	
+SLES_004.80	PAL-EU	0938	304		Iznogoud	
+SLPS_010.07	NTSC-JP	1161	491		J's Racin'	
+SLPS_001.44	NTSC-JP	1820	603	DISC1	J.B. Harold - Blue Chicago Blues	
+SLPS_001.45	NTSC-JP	1820b	616	DISC2	J.B. Harold - Blue Chicago Blues	
+SLPM_863.17	NTSC-JP	1268	476		J.League 1999 Perfect Striker	
+SLPS_024.36	NTSC-JP	2240	448		J.League Soccer - Jikkyou Survival League	
+SLPS_003.01	NTSC-JP	2247	425		J-League Virtual Stadium '96	
+SLUS_006.84	NTSC-US	0158	521		Jackie Chan's Stuntmaster	
+SLUS_008.54	NTSC-US	0366	545		Jade Cocoon - Legend of Tamamayu	
+SLPS_020.76	NTSC-JP	2203	406	DISC1	Jailbreaker	
+SLPS_020.77	NTSC-JP	2203b	536	DISC2	Jailbreaker	
+SLUS_011.39	NTSC-US	1190	236		Jarrett & Labonte Stock Car Racing	
+SLPS_028.92	NTSC-JP	2237	330		Jellyfish - The Healing Friend	
+SLES_041.12	PAL-EU	2336	237		James Pond - Codename Robocod	
+SLES_002.30	PAL-EU	2424	535		Jeff Wayne's - The War of the Worlds	
+SLUS_006.82	NTSC-US	1903	545		Jeopardy!	
+SLUS_011.73	NTSC-US	1904	618		Jeopardy! - 2nd Edition	
+SLES_012.81	PAL-EU	0964	473		Jeremy McGrath SuperCross '98	
+SLUS_004.79	NTSC-US	1905	472		Jeremy McGrath SuperCross '98	
+SLUS_008.32	NTSC-US	1911	237		Jeremy McGrath SuperCross 2000	
+SCUS_949.07	NTSC-US	0322	609		Jersey Devil	
+SLPM_863.23	NTSC-JP	1798	615		Jet de Go! - Let's Go By Airliner	
+SCUS_943.09	NTSC-US	0133	364		Jet Moto	
+SCUS_941.67	NTSC-US	1019	504		Jet Moto 2	
+SCUS_945.55	NTSC-US	0486	529		Jet Moto 3	
+SLUS_015.09	NTSC-US	1129	410		Jigsaw Madness	
+SLPS_015.33	NTSC-JP	1406	476	DISC1	Jikuu Tantei DD 2	
+SLPS_015.34	NTSC-JP	1406b	523	DISC2	Jikuu Tantei DD 2	
+SLPS_003.97	NTSC-JP	1845	579	DISC1	Jikuu Tantei Dracula Detective - Maboroshi no Lorelei	
+SLPS_003.98	NTSC-JP	1845b	607	DISC2	Jikuu Tantei Dracula Detective - Maboroshi no Lorelei	
+SLPM_860.08	NTSC-JP	0310	196		Jikkyou Oshaberi Parodius - Forever with Me	
+SLPS_000.16	NTSC-JP	1860	121		Jikkyou Powerful Pro Baseball '95	
+SLPM_860.97	NTSC-JP	2428	060	DISC1	Jikkyou Powerful Pro Yakyuu '98 Kaimakuban	
+SLPM_860.98	NTSC-JP	2428b	275	DISC2	Jikkyou Powerful Pro Yakyuu '98 Kaimakuban	bonus disc: Metal Gear Solid (Pilot)
+SLPM_866.94	NTSC-JP	1726	186		Jikkyou Powerful Pro Yakyuu 2000 Ketteiban	modchip-protected
+SLPM_870.33	NTSC-JP	1727	193		Jikkyou Powerful Pro Yakyuu 2002 Haru	
+SLPM_872.16	NTSC-JP	1728	266		Jikkyou Powerful Pro Yakyuu Premium	
+SLUS_005.00	NTSC-US	1618	623		Jimmy Johnson's VR Football '98	
+SLUS_013.13	NTSC-US	1232	199		Jimmy White's Cueball 2	
+SLUS_001.94	NTSC-US	0515	435		Johnny Bazookatone	
+SLUS_010.60	NTSC-US	0153	553		Jojo's Bizarre Adventure	
+SLPS_022.36	NTSC-JP	0428	554		Jojo no Kimyouna Bouken	
+SLUS_006.30	NTSC-US	0416	622		Judge Dredd	
+SLUS_008.94	NTSC-US	1696	611	DISC1	Juggernaut	
+SLUS_009.88	NTSC-US	1696b	598	DISC2	Juggernaut	
+SLUS_009.89	NTSC-US	1696c	610	DISC3	Juggernaut	
+SCPS_100.07	NTSC-JP	2419	520		Jumping Flash!	
+SCUS_941.08	NTSC-US	0134	373		Jumping Flash 2	
+SLUS_013.83	NTSC-US	2201	168		Jumpstart - Wildlife Safari	PAL/NTSC selector
+SLUS_015.60	NTSC-US	1906	449		Junior League Dodgeball	
+SLUS_001.77	NTSC-US	0633	311		Jupiter Strike	
+SLUS_009.41	NTSC-US	1922	505		K-1 Grand Prix	
+SLUS_006.77	NTSC-US	0985	408		Kagero - Deception II	
+SLPS_005.29	NTSC-JP	1846	228		Kaijuu Senki	
+SLPM_864.38	NTSC-JP	1862	514		Kaikan Phrase - Datenshi Kourin	
+SLPS_000.86	NTSC-JP	0151	512		Kaitei Taisensou - In the Hunt	
+SLPS_018.25	NTSC-JP	1421	386		Kaitohranma Miyabi	
+SLPS_025.95	NTSC-JP	1847	200		Kakuge-Yaro - Fighting Game Creator	
+SLPS_015.70	NTSC-JP	0319	549		Kamen Rider	
+SLPS_034.03	NTSC-JP	2183	240		Kamen Rider Heroes	[Kids Station]
+SLPS_012.53	NTSC-JP	2387	545		Kattobi Tune	
+SLPS_029.35	NTSC-JP	2304	225		Katon-Kun	
+SLPS_010.10	NTSC-JP	1358	611		Kaze no Klonoa - Door to Phantomile	
+SLPS_009.12	NTSC-JP	1848	272		Kaze no Notam (Notam of Wind)	
+SLPS_015.65	NTSC-JP	2305	619		Kaze no Oka Kouen Nite	
+SLPS_000.63	NTSC-JP	2433	361		Keiba Saisho no Housoku '95	
+SLPS_008.08	NTSC-JP	1849	363		Keiba Saisho no Housoku '97 Vol.1	
+SLUS_006.00	NTSC-US	0989	306		Kensei - Sacred Fist	
+SLPS_026.05	NTSC-JP	0605	315		Kensetsu Kikai Simulator - Kenki Ippa!!	
+SLPM_866.21	NTSC-JP	2334	565		Kero Kero King	
+SLPS_026.40	NTSC-JP	2143	413		Khamrai	
+SLES_010.61	PAL-EU	1199	217		Kick Off World	PAL patched NTSC
+SLUS_014.12	NTSC-US	1936	164		Kickboxing	
+SLPS_004.54	NTSC-JP	0960	386		Kid Klown in Crazy Chase 2 - Love Love Hani Soudatsusen	
+SLPS_031.85	NTSC-JP	2306	540		Kids Station - Hitori de Dekirumon	
+SLPS_032.47	NTSC-JP	2307	480		Kids Station - Motto! Oja Maho Dorami	
+SLPS_000.27	NTSC-JP	1624	394		Kileak - The Blood	
+SCUS_941.02	NTSC-US	0507	452		Kileak - The DNA Imperative	
+SLPS_001.70	NTSC-JP	2266	613		Kileak the Blood 2 - Reason in Madness	
+SLUS_009.38	NTSC-US	0664	537		Killer Loop	
+SLPS_002.96	NTSC-JP	1670	214		Killing Zone	
+SLUS_003.69	NTSC-US	1671	226		Killing Zone	
+SLPS_006.01	NTSC-JP	2187	566		Kindaichi Shounen no Jikenbo - Hoshimitou Kanashimi no Huhushuuki	
+SLPS_013.40	NTSC-JP	0932	599	DISC1	Kindaichi Shounen No Jikenbo 2	
+SLPS_013.41	NTSC-JP	0932b	551	DISC2	Kindaichi Shounen No Jikenbo 2	
+SLUS_001.58	NTSC-US	0135	214		King's Field	
+SLPS_000.69	NTSC-JP	2331	104		King's Field II	
+SLUS_002.55	NTSC-US	0144	474		King's Field II	
+SLPS_003.77	NTSC-JP	0397	429		King's Field III	
+SLPS_000.92	NTSC-JP	2330	370		King of Bowling	
+SLES_029.16	PAL-EU	0097	088		King of Bowling 2	PAL/NTSC selector
+SLPS_019.80	NTSC-US	0337	588		King of Braves Gaogaigar - Blockaded Numbers	
+SLPS_005.24	NTSC-JP	2343	546		King of Parlor	
+SLPS_011.24	NTSC-JP	2344	098		King of Producer	
+SLUS_008.01	NTSC-US	0702	470		Kingsley's Adventure	
+SLUS_013.66	NTSC-US	2218	235		KISS Pinball	
+SLPM_864.49	NTSC-JP	1312	325		Kisya de Go!	
+SLPS_013.95	NTSC-JP	0667	578		Kitchen Panic	
+SLPS_013.02	NTSC-JP	1823	425		Kitty On Your Lap	
+SLPS_024.24	NTSC-JP	2049	044		Klaymen Gun-Hockey	
+SLPS_013.65	NTSC-JP	1357	622		Klaymen Klaymen	
+SLPS_015.01	NTSC-JP	2370	552		Klaymen Klaymen 2	
+SLUS_005.85	NTSC-US	0569	611		Klonoa - Door to Phantomile	
+SLPS_034.33	NTSC-JP	0639	549		Klonoa Beach Volley	
+SLUS_007.37	NTSC-US	0627	249		Knockout Kings	
+SLES_031.21	PAL-EU	1347	471		Knockout Kings 2001	
+SLUS_012.69	NTSC-US	1444	500		Knockout Kings 2001	
+SLPS_009.22	NTSC-JP	2111	368		Kochira Katsushikaku Kameari Kouenzen - Hashutsujo	
+SLPS_002.49	NTSC-JP	2308	319		Kokumeikan - Trap Simulation Game	
+SCPS_101.27	NTSC-JP	1123	593		Koneko Mo Issyo - Doko Demo Issyo Tsuika Disc	modchip-protected
+SLPM_867.91	NTSC-JP	2248	288		Konohana - True Report	
+SLPS_034.79	NTSC-JP	1601	073		Korokoro Post nin	
+SLPS_007.29	NTSC-JP	1628	551		Koshien Five Baseball	
+SLPS_004.31	NTSC-JP	2381	487		Kotetsu Reiki - Steel Dom	
+SLES_040.07	PAL-EU	1976	138		Kotobuki Grand Prix	
+SCPS_101.37	NTSC-JP	1383	564		Kouashi Kikou Shidan - Bein Panzer	
+SLPS_024.60	NTSC-JP	2219	446	DISC1	Koudelka	
+SLPS_024.61	NTSC-JP	2219b	433	DISC2	Koudelka	
+SLPS_024.62	NTSC-JP	2219c	560	DISC3	Koudelka	
+SLPS_024.63	NTSC-JP	2219d	521	DISC4	Koudelka	
+SLUS_010.51	NTSC-US	1752	477	DISC1	Koudelka	
+SLUS_011.00	NTSC-US	1752b	464	DISC2	Koudelka	
+SLUS_011.01	NTSC-US	1752c	591	DISC3	Koudelka	
+SLUS_011.02	NTSC-US	1752d	552	DISC4	Koudelka	
+SLPS_006.84	NTSC-JP	1824	413		Koukai Sarena Katta Shuki - The Note	
+SLPS_006.69	NTSC-JP	2164	609	DISC1	Kowloon's Gate	
+SLPS_006.70	NTSC-JP	2164b	605	DISC2	Kowloon's Gate	
+SLPS_006.71	NTSC-JP	2164c	606	DISC3	Kowloon's Gate	
+SLPS_006.72	NTSC-JP	2164d	596	DISC4	Kowloon's Gate	
+SLPS_004.92	NTSC-JP	2309	599		Krazy Ivan	
+SCUS_943.03	NTSC-US	0642	581		Krazy Ivan	
+SLPS_017.73	NTSC-JP	2244	571		Kunoichi Torimonocho	
+SLPS_016.76	NTSC-JP	2108	478		Kuon no Kizuna	
+SLPS_005.05	NTSC-JP	1593	356		Kuro no Juusan	
+SLPS_014.50	NTSC-JP	2025	253		Kuroi Hitomi no Noir - Cielgris Fantasm (Noir Yeux Noire)	
+SLUS_011.25	NTSC-US	1105	456		Kurt Warner's Arena Football Unleashed	
+SLPS_005.03	NTSC-JP	2379	495		Kyoufu Shinbun	
+SLPS_034.51	NTSC-JP	1015	400		Kyoutei Wars - Mark 6	
+SLPS_002.14	NTSC-JP	0868	460		Kyuin	
+SLPS_022.04	NTSC-JP	1814	323		L no Kisetsu - a Piece of Memories	
+SLUS_012.13	NTSC-US	1714	189		Land Before Time - Great Valley Racing Adventure	
+SLUS_010.43	NTSC-US	1715	268		Land Before Time - Return to Great Valley	
+SLPS_010.09	NTSC-JP	1774	582		Langacure	
+SLPS_008.96	NTSC-JP	1033	620		Langrisser I & II	[Limited Edition]
+SLPS_018.18	NTSC-JP	1035	539	DISC1	Langrisser IV & V Final Edition	Langrisser IV
+SLPS_018.19	NTSC-JP	1035b	578	DISC2	Langrisser IV & V Final Edition	Langrisser V - The End of Legend
+SLUS_014.41	NTSC-US	0982	224		Largo Winch - Commando Sar	
+SLPM_864.91	NTSC-JP	1582	528		Lattice - 200EC7	
+SCUS_945.51	NTSC-US	0817	268		League of Pain - Professional Underground	
+SLUS_007.08	NTSC-US	0145	567		Legacy of Kain - Soul Reaver	
+SLES_007.30	PAL-EU	0937	423		Legend	
+SLPS_013.23	NTSC-JP	2181	209		Legend of Heroes (Eiyuu Densetsu) I & II	
+SCUS_942.54	NTSC-US	0311	387		Legend of Legaia	
+SLUS_010.13	NTSC-US	0859	562		Legend of Mana	
+SLUS_012.46	NTSC-US	1806	184		Lego Island 2 - The Brickster's Revenge	
+SLUS_009.37	NTSC-US	0577	574		Lego Rock Raiders	
+SLUS_007.60	NTSC-US	1016	402		Lemmings & Oh No! More Lemmings	
+SLES_014.61	PAL-EU	0808	430		Lemmings & Oh No! More Lemmings	
+SCUS_946.01	NTSC-US	0489	452		Lemmings 3D	
+SLUS_002.93	NTSC-US	0604	363		Lethal Enforcers I & II	
+SLUS_002.93	NTSC-US	0154	363		Lethal Enforcers I & II	NTSC patched PAL
+SLES_005.42	PAL-EU	0098	364		Lethal Enforcers I & II	
+SLPS_016.81	NTSC-JP	1470	331		Libero Grande	
+SLPS_029.50	NTSC-JP	0118	292		Libero Grande 2	
+SLPM_860.15	NTSC-JP	1048	498		Lightning Legend	
+SCPS_100.39	NTSC-JP	1013	608		Linda Cube Again	
+SLPS_017.69	NTSC-JP	1453	564		Ling Rise	
+SLES_006.98	PAL-EU	1156	533		Little Big Adventure - Twinsen's Adventure	
+SLUS_000.76	NTSC-US	0440	508		Loaded	
+SLUS_005.57	NTSC-US	0924	457		Lode Runner	
+SLPM_864.60	NTSC-JP	2299	567		Lode Runner 2	[SuperLite 1500 Series]
+SLPS_017.87	NTSC-JP	1815	227		London Seirei Tantei-Dan	
+SLPS_003.22	NTSC-JP	0536	358		Lone Soldier	
+SLUS_013.69	NTSC-US	0603	527		Looney Tunes - Sheep Raider	
+SLUS_011.45	NTSC-US	0721	377		Looney Tunes Racing	
+SLPS_017.28	NTSC-JP	2349	334		Lord Monarch	
+SLPS_021.68	NTSC-JP	1657	489		Lord of Fist	
+SCPS_101.24	NTSC-JP	0420	593		Love & Destroy	
+SLPM_865.41	NTSC-JP	1547	435		Love Game's - Wai Wai Tennis	[Major Wave Series]
+SLPS_029.83	NTSC-JP	1548	249		Love Game's - Wai Wai Tennis 2	[Value 1500]
+SLPS_030.97	NTSC-JP	2188	103		Love Para - Lovely Tokyo Para-Para Musume	[Popular Edition]
+SLPS_015.56	NTSC-JP	0786	538		LSD - Dream Emulator	[Limited Edition]
+LSP_0102.80	NTSC-US	2363	523		LSP Ed. Disc - A Mars Moose Adventure	Walkabout 2 - The Shakespeare Festival
+SLPS_017.84	NTSC-JP	1213	113		Lucifer Ring	
+SLUS_007.19	NTSC-US	0743	426		Lucky Luke	
+SLPS_014.38	NTSC-JP	2385	178		Ludo	
+SLPS_018.32	NTSC-JP	0977	509		Luftwaffe	
+SLPS_013.97	NTSC-JP	1858	481	DISC1	Lunar - Silver Star Story	
+SLPS_013.98	NTSC-JP	1858b	564	DISC2	Lunar - Silver Star Story	
+SLUS_006.28	NTSC-US	0164	510	DISC1	Lunar - Silver Star Story Complete	
+SLUS_008.99	NTSC-US	0164b	604	DISC2	Lunar - Silver Star Story Complete	
+SLUS_009.21	NTSC-US	1951	559	DISC3	Lunar - Silver Star Story Complete	Making-Of disc
+SLUS_010.71	NTSC-US	1909	623	DISC1	Lunar 2 - Eternal Blue Complete	
+SLUS_012.39	NTSC-US	1909b	608	DISC2	Lunar 2 - Eternal Blue Complete	
+SLUS_012.40	NTSC-US	1909c	623	DISC3	Lunar 2 - Eternal Blue Complete	
+SLUS_012.57	NTSC-US	1909d	526	DISC4	Lunar 2 - Eternal Blue Complete	Making-Of disc
+SLPM_867.77	NTSC-JP	1336	467		Lunar Wing	
+SLPS_017.49	NTSC-JP	2350	266		Lunatic Dawn III	
+SLPS_024.20	NTSC-JP	1412	333		Lunatic Dawn Odyssey	
+SLPS_004.16	NTSC-JP	1095	594		Lup Salad - Lupupu Cube	
+SLPS_005.35	NTSC-JP	0115	518	DISC1	Lupin The 3rd - Chateau de Cagliostro Saikai	
+SLPS_005.36	NTSC-JP	0115b	576	DISC2	Lupin The 3rd - Chateau de Cagliostro Saikai	
+SLPS_005.37	NTSC-JP	0115c	512	DISC3	Lupin The 3rd - Chateau de Cagliostro Saikai	
+SLPS_028.05	NTSC-JP	0846	446		Lupin The 3rd - Punch The Monkey! Game Edition	
+SLUS_013.06	NTSC-US	1655	365		M & M's Shell Shocked	
+SLPS_002.95	NTSC-JP	1120	343		Mach Go Go Go	
+SLUS_003.83	NTSC-US	1521	576		Machine Head	
+SLUS_004.70	NTSC-US	0674	485		Machine Hunter	
+SLPS_003.86	NTSC-JP	0849	541		Macross - Digital Mission VF-X	
+SLPS_022.37	NTSC-JP	0119	428		Macross - VF-X 2	
+SLPS_027.91	NTSC-JP	0697	496		Macross Plus - Game Edition	
+SLPS_008.80	NTSC-JP	1585	434		Mad Panic Coaster	
+SLPS_007.34	NTSC-JP	1825	272		Mad Stalker - Full Metal Force	
+XXXX_XXX.XX	NTSC-XX	2206	157		Madden NFL '96	beta game
+SLUS_000.18	NTSC-US	1602	533		Madden NFL '97	
+SLUS_005.16	NTSC-US	0723	572		Madden NFL '98	
+SLUS_007.29	NTSC-US	1118	487		Madden NFL '99	
+SLUS_009.61	NTSC-US	0321	563		Madden NFL 2000	
+SLUS_012.41	NTSC-US	0123	313		Madden NFL 2001	
+SLUS_014.02	NTSC-US	1529	336		Madden NFL 2002	
+SLUS_014.82	NTSC-US	1530	380		Madden NFL 2003	
+SLUS_015.70	NTSC-US	0124	391		Madden NFL 2004	
+SLUS_015.84	NTSC-US	1570	393		Madden NFL 2005	
+SLUS_000.29	NTSC-US	1515	410		Magic Carpet	
+SLUS_002.47	NTSC-US	0625	499		Magic the Gathering - Battlemage	
+SLPS_023.37	NTSC-JP	1096	379		Magical Drop F - Daibouken Mo Rakujyanai!	
+SLPS_007.37	NTSC-JP	1239	104		Magical Hoppers - Pandemonium	
+SLPS_017.86	NTSC-JP	1193	295		Magical Tetris Challenge featuring Mickey Mouse	
+SLES_029.64	PAL-EU	0853	378		Magical Drop 3	PAL patched NTSC
+SLPS_001.28	NTSC-JP	1783	440		Makeruna! Makendo 2	
+SLUS_014.71	NTSC-US	1598	357		Marble Master	
+SLPS_035.37	NTSC-JP	1804	179		Marl Jong!!	[Limited Edition]
+SLUS_011.48	NTSC-US	0500	548		Martian Gothic - Unification	
+SLUS_010.59	NTSC-US	0177	355		Marvel VS. Capcom - Clash of Super Heroes	
+SLUS_013.86	NTSC-US	2028	506		Mary-Kate & Ahsley - Crush Course	
+SLUS_011.21	NTSC-US	2029	426		Mary-Kate & Ashley - Magical Mystery Mall	
+SLUS_013.62	NTSC-US	2030	209		Mary-Kate & Ashley - Winners Circle	
+SLUS_004.62	NTSC-US	1092	424		Mass Destruction	
+SLPS_009.16	NTSC-JP	2432	237		Master of Monsters - Akatsuki no Kenja Tachi	
+SLPS_003.73	NTSC-JP	2268	402		Masters Shin Haruka New Augusta	
+SLPS_014.26	NTSC-JP	2204	182		Masumon Kids - The Another World of The Master of Monsters	
+SLPS_032.20	NTSC-JP	2399	618	DISC1	Matsumoto Reiji - Story of Galaxy Express 999	
+SLPS_032.21	NTSC-JP	2399b	562	DISC2	Matsumoto Reiji - Story of Galaxy Express 999	
+SLUS_011.13	NTSC-US	0722	575		Mat Hoffman's Pro BMX	
+SLPS_007.95	NTSC-JP	1989	334		Max Racer	
+SLUS_005.03	NTSC-US	0121	419		Maximum Force	
+SLUS_004.26	NTSC-US	0750	563		MDK	
+SLUS_004.01	NTSC-US	1590	408		MechWarrior 2	
+SLUS_009.74	NTSC-US	0948	616		Medal of Honor	
+SLUS_012.70	NTSC-US	0194	621		Medal of Honor Underground	
+SLPS_024.14	NTSC-JP	1140	122		Medarot R	
+SLPS_026.35	NTSC-JP	1141	110		Medarot R - Parts Collection	
+SCUS_942.27	NTSC-US	0335	466		Medievil	
+SCUS_945.64	NTSC-US	0525	401		Medievil II	
+SLUS_004.53	NTSC-US	0147	347		Mega Man 8	
+SLUS_006.03	NTSC-US	0137	435		Mega Man Legends	
+SLUS_011.40	NTSC-US	0120	542		Mega Man Legends 2	
+SLES_005.03	PAL-EU	1640	598		Mega Man X3	
+SLUS_005.61	NTSC-US	1093	491		Mega Man X4	
+SLUS_013.34	NTSC-US	0175	484		Mega Man X5	
+SLUS_013.95	NTSC-US	0471	498		Mega Man X6	
+SLPS_016.90	NTSC-JP	1273	386		Meitantei Conan	
+SLPS_028.04	NTSC-JP	1183	497		Meitantei Conan - 3-Jin no Meitantei	
+SLPS_034.25	NTSC-JP	2441	560		Meitantei Conan - Saikou no Aibou	
+SLPM_862.31	NTSC-JP	2398	383	DISC1	Melty Lancer - The 3rd Planet	
+SLPM_862.32	NTSC-JP	2398b	481	DISC2	Melty Lancer - The 3rd Planet	
+SLES_010.47	PAL-EU	1252	407		Men In Black	
+SLUS_013.87	NTSC-US	1591	551		Men In Black - The Series - Crashdown	
+SLPS_016.64	NTSC-JP	1821	274		Meremanoid	
+SLPS_017.34	NTSC-JP	2211	221		Marl Oukoku no Ningyou Hime - The Adventure of Puppet Princess	
+SLPS_014.93	NTSC-JP	0375	562		Merriment Carrying Caravan	
+SLPS_003.59	NTSC-JP	2178	448		Meru Purana	
+SLPS_006.80	NTSC-JP	1599	560	DISC1	Meta-Ph-List - Gamma X 2097	
+SLPS_006.81	NTSC-JP	1599b	584	DISC2	Meta-Ph-List - Gamma X 2097	
+SLPS_011.64	NTSC-JP	1485	481		Metal Fist	
+SLUS_005.94	NTSC-US	0172	585	DISC1	Metal Gear Solid	
+SLUS_007.76	NTSC-US	0172b	607	DISC2	Metal Gear Solid	
+SLPM_862.47	NTSC-JP	0730	597	DISC1	Metal Gear Solid - Integral	
+SLPM_862.48	NTSC-JP	0730b	619	DISC2	Metal Gear Solid - Integral	
+SLPM_862.49	NTSC-JP	0730c	400	DISC3	Metal Gear Solid - Integral	
+SLUS_009.57	NTSC-US	0146	408		Metal Gear Solid - VR Missions	
+SLPS_009.50	NTSC-JP	0957	350		Metal Slug - Super Vehicle 001	
+SLPM_864.56	NTSC-JP	1662	280		Metal Slug X	
+SLUS_012.12	NTSC-US	0176	087		Metal Slug X	
+SLPS_024.31	NTSC-JP	1729	592		Meymay Kishidan - The Band of Meymay Knights	
+SLPS_003.13	NTSC-JP	2151	089		Mezase! Ikusa Tama o (Battle Balls)	
+SLES_015.94	PAL-EU	1045	462		Michael Owen's World League Soccer '99	
+SLES_015.45	PAL-EU	0535	623		Michelin Rally Masters - Race of Champions	PAL/NTSC selector
+SLPS_009.41	NTSC-JP	2090	227		Michinoku Hisen Koimonogatari	
+SCES_001.63	PAL-EU	0910	443		Mickey's Wild Adventures	
+SLPS_011.11	NTSC-JP	2311	556		Micro Machines	
+SLUS_005.59	NTSC-US	2332	584		Micro Machines V3	
+SLES_019.21	PAL-EU	1226	453		Micro Maniacs	
+SLUS_011.29	NTSC-US	1619	425		Micro Maniacs Racing	
+SLPS_005.83	NTSC-JP	0685	222		Mighty Hits	
+SLPS_021.65	NTSC-JP	1583	224		Mighty Hits Special	[Pop Collection 1280yen Vol.4]
+SLUS_011.62	NTSC-US	1445	399		Mike Tyson Boxing	
+SLPS_008.06	NTSC-JP	1682	543		Mikuzi Shigeru no Yokai Butouden	
+SLES_028.26	PAL-EU	0707	445		Mille Miglia	PAL/NTSC selector
+SLPS_016.09	NTSC-JP	2273	369	DISC1	Million Classic	
+SLPS_016.10	NTSC-JP	2273b	370	DISC2	Million Classic	
+SLPS_010.78	NTSC-JP	1217	382		Mini-Yonku Hakusou Kyoudai - Rettsu & Go!! - WGP Hyper Heat	
+SCPS_100.42	NTSC-JP	1712	252		Minna no Golf	
+SCPS_100.93	NTSC-JP	1738	264		Minna no Golf 2	
+SLPS_012.24	NTSC-JP	2315	283		Miracle Jumpers - Pandemonium 2	
+SLUS_015.56	NTSC-US	2054	139		Miracle Space Race	
+SLPS_014.74	NTSC-JP	1899	516		Misaki-Aggressive!	
+SLUS_009.92	NTSC-US	0616	294		Missile Command	
+SLPS_017.15	NTSC-JP	2091	133		Missland 2	
+SLUS_010.16	NTSC-US	0765	607		Mission Impossible	
+SLPM_860.68	NTSC-JP	1084	580		Mitsumete Knight	
+SLPM_861.34	NTSC-JP	1085	620		Mitsumete Knight R Daiboukenhen	
+SLPS_017.83	NTSC-JP	1891	331		Mizzurna Falls	
+SCUS_941.70	NTSC-US	1929	290		MLB '98	
+SCUS_942.33	NTSC-US	1875	594		MLB '99	
+SCUS_943.59	NTSC-US	1876	445		MLB 2000	
+SCUS_944.78	NTSC-US	0368	485		MLB 2001	
+SCUS_946.38	NTSC-US	1877	526		MLB 2002	modchip-protected
+SCUS_946.53	NTSC-US	1878	456		MLB 2003	modchip-protected
+SCUS_946.89	NTSC-US	1879	477		MLB 2004	modchip-protected
+SCUS_946.92	NTSC-US	1777	508		MLB 2005	modchip-protected
+SCUS_945.07	NTSC-US	2064	401		MLB Pennant Race	
+SLUS_011.03	NTSC-US	1422	454		Mobil 1 Rally Championship	
+SLUS_014.69	NTSC-US	1881	452		Mobile Armor	
+SLES_040.87	PAL-EU	1645	306		Mobile Light Force	
+SLUS_015.25	NTSC-US	1882	300		Mobile Light Force	
+SLPS_022.39	NTSC-JP	0320	453		Mobile Police Patlabor  - Game Edition	
+SLPS_017.24	NTSC-JP	1028	596		Mobile Suit Gundam - Char's Counterattack	
+SLPS_002.81	NTSC-JP	2435	558		Mobile Suit Gundam Ver.2.0	[Limited Edition]
+SLPS_011.42	NTSC-JP	1743	611	DISC1	Mobile Suit Z-Gundam	
+SLPS_011.43	NTSC-JP	1743b	576	DISC2	Mobile Suit Z-Gundam	
+SLPS_011.56	NTSC-JP	1522	380		Momotarou Densetsu 7	
+SLUS_008.34	NTSC-US	1883	574		Monaco Grand Prix	
+SLPS_009.63	NTSC-JP	1594	404		Money Idol Exchanger	
+SLUS_007.65	NTSC-US	2458	227		Monkey Hero	
+SLUS_009.30	NTSC-US	1300	615		Monkey Magic	
+SLUS_005.07	NTSC-US	1856	349		Monopoly	
+SLPS_018.70	NTSC-JP	1595	417		Monster Complete World	
+SLPS_031.60	NTSC-JP	2412	313		Monster Farm Jump	
+SLUS_005.68	NTSC-US	1098	299		Monster Rancher	
+SLUS_011.78	NTSC-US	2284	166		Monster Rancher - Battle Card - Episode II	
+SLUS_009.17	NTSC-US	1099	374		Monster Rancher 2	
+SLUS_013.25	NTSC-US	2285	145		Monster Rancher Hop-a-Bout	
+SLES_003.14	PAL-EU	0874	305		Monster Trucks	
+SLUS_007.43	NTSC-US	2031	262		Monsterseed	
+SLES_038.13	PAL-EU	2371	339	DISC1	Monte Carlo Games Compendium	
+SLES_138.13	PAL-EU	2371b	496	DISC2	Monte Carlo Games Compendium	
+SLPS_010.31	NTSC-JP	1176	531		Moon Remix - RPG Adventure	
+SLUS_008.24	NTSC-US	0136	265		Mortal Kombat - Special Forces	
+SLPS_004.44	NTSC-JP	0661	048		Mortal Kombat II	
+SCUS_942.01	NTSC-US	1437	410		Mortal Kombat 3	
+SLUS_006.05	NTSC-US	0592	596		Mortal Kombat 4	
+SLUS_004.76	NTSC-US	0759	447		Mortal Kombat Mythologies - Sub-Zero	
+SLUS_003.30	NTSC-US	0148	470		Mortal Kombat Trilogy	
+SLES_004.69	PAL-EU	2063	453		Moto Racer	
+SLUS_004.98	NTSC-US	1884	452		Moto Racer	
+SCES_030.37	PAL-EU	1500	559		Moto Racer - World Tour	
+SLUS_013.21	NTSC-US	1885	552		Moto Racer - World Tour	
+SLUS_007.38	NTSC-US	1100	390		Moto Racer 2	
+SLES_033.25	PAL-EU	0963	385		Motocross Mania	
+SLUS_013.57	NTSC-US	1886	359		Motocross Mania	
+SLUS_015.31	NTSC-US	0122	138		Motocross Mania 2	
+SCPS_100.01	NTSC-JP	1805	299		Motor Toon Grand Prix	
+SCUS_943.55	NTSC-US	0583	472		Motor Toon Grand Prix	
+SCES_002.45	PAL-EU	1440	472		Motor Toon Grand Prix 2	
+SLES_005.56	PAL-EU	0968	553		MotorHead	
+SLUS_007.17	NTSC-US	1889	560		Motorhead	
+SLPS_012.85	NTSC-JP	1895	326		Mouri Motonari - Chikai no Sanshi	
+SLUS_011.11	NTSC-US	1258	308		Mr. Driller	
+SLPS_033.36	NTSC-JP	0926	533		Mr. Driller G	
+SLUS_010.18	NTSC-US	1063	345		Ms. Pacman - Maze Madness	
+SLUS_010.06	NTSC-US	0354	557		MTV Music Generator	
+SLES_031.62	PAL-EU	0969	372		MTV Sports - Pure Ride	
+SLUS_012.31	NTSC-US	1887	372		MTV Sports - Pure Ride	
+SLUS_012.32	NTSC-US	1888	554		MTV Sports - Skateboarding featuring Andy MacDonald	
+SLUS_009.90	NTSC-US	0822	291		MTV Sports - Snowboarding	
+SLUS_012.33	NTSC-US	1880	494		MTV Sports - TJ Lavin's Ultimate BMX	
+SLPS_020.64	NTSC-JP	1386	500		Munasawagi no Yokan	
+SLUS_012.38	NTSC-US	0925	428		Muppet Monster Adventure	
+SLUS_012.37	NTSC-US	0829	430		Muppet Race Mania	
+SLPS_000.24	NTSC-JP	2320	558		Myst	
+SCUS_946.02	NTSC-US	0514	547		Myst	
+SLES_020.86	PAL-EU	0402	540		N-Gen - Next Generation Racing	PAL/NTSC selector
+SLUS_011.55	NTSC-US	2281	506		N-Gen - Next Generation Racing	
+SLUS_006.37	NTSC-US	0877	448		N2O Nitrous Oxide	
+SLPM_860.56	NTSC-JP	1236	331		Nagano Winter Olympics '98 - Hyper Olympics In Nagano	
+SLES_009.99	PAL-EU	1237	331		Nagano Winter Olympics '98	
+SLUS_005.91	NTSC-US	1946	331		Nagano Winter Olympics '98	
+SLPS_025.00	NTSC-JP	2261	241		Nainai no Kiyotantei	
+SLPS_012.20	NTSC-JP	0953	426		Namco Anthology 1	
+SLPS_012.21	NTSC-JP	0954	364		Namco Anthology 2	
+SLPS_007.65	NTSC-JP	0681	608		Namco Museum Encore	[Limited Edition]
+SLPS_001.07	NTSC-JP	1663	219		Namco Museum Vol.1	
+SLUS_002.15	NTSC-US	0170	219		Namco Museum Vol.1	
+SLUS_002.16	NTSC-US	0464	408		Namco Museum Vol.2	
+SLUS_003.98	NTSC-US	0792	375		Namco Museum Vol.3	
+SLUS_004.16	NTSC-US	0476	576		Namco Museum Vol.4	
+SLPS_007.05	NTSC-JP	2258	517		Namco Museum Vol.5	
+SLUS_004.17	NTSC-US	0793	516		Namco Museum Vol.5	
+SLPS_004.10	NTSC-JP	2378	488	DISC1	Nanatsu no Hikan	
+SLPS_004.11	NTSC-JP	2378b	435	DISC2	Nanatsu no Hikan	
+SLPS_004.12	NTSC-JP	2378c	490	DISC3	Nanatsu no Hikan	
+SLPS_012.06	NTSC-JP	1519	262		Naniwa Wangan Battle	
+SLUS_003.25	NTSC-US	1173	561		Nanotek Warrior	
+SLPS_035.53	NTSC-JP	2189	270		Naruto	
+SLUS_006.47	NTSC-US	0747	343		NASCAR '98 - Collector's Edition	
+SLUS_007.40	NTSC-US	1222	527		NASCAR '99	
+SLUS_008.83	NTSC-US	0410	533		NASCAR '99 Legacy	
+SLUS_009.62	NTSC-US	0401	570		NASCAR 2000	
+SLUS_012.63	NTSC-US	1389	239		NASCAR 2001	
+SLUS_003.74	NTSC-US	1240	391		NASCAR Racing	
+SLUS_010.68	NTSC-US	0155	216		NASCAR Rumble	
+SLUS_014.03	NTSC-US	1308	186		NASCAR Thunder 2002	
+SLUS_015.02	NTSC-US	1390	208		NASCAR Thunder 2003	
+SLUS_015.71	NTSC-US	2032	387		NASCAR Thunder 2004	
+SLPS_015.30	NTSC-JP	2410	405		Navit	
+SLUS_004.92	NTSC-US	1962	235		NBA Fastbreak '98	
+SLUS_013.31	NTSC-US	0461	327		NBA Hoopz	
+SLUS_004.45	NTSC-US	1917	394		NBA In the Zone '98	
+SLUS_002.94	NTSC-US	0880	265		NBA In the Zone 2	
+SLUS_010.28	NTSC-US	1918	206		NBA In the Zone 2000	
+SLUS_000.02	NTSC-US	0156	362		NBA Jam Tournament Edition	
+SLPS_007.36	NTSC-JP	0814	602		NBA Live '97	
+SLUS_002.67	NTSC-US	0404	603		NBA Live '97	
+SLUS_005.23	NTSC-US	0414	468		NBA Live '98	
+SLUS_007.36	NTSC-US	0415	380		NBA Live '99	
+SLUS_012.71	NTSC-US	0651	451		NBA Live 2001	
+SLUS_014.16	NTSC-US	1270	459		NBA Live 2002	
+SLES_037.20	PAL-EU	0944	455		NBA Live 2002	language: G
+SLUS_014.83	NTSC-US	1681	447		NBA Live 2003	
+SCUS_945.52	NTSC-US	1027	368		NBA ShootOut '97	
+SCUS_941.71	NTSC-US	1697	454		NBA ShootOut '98	
+SCUS_945.81	NTSC-US	0392	280		NBA ShootOut 2001	
+SCUS_946.41	NTSC-US	1669	289		NBA ShootOut 2002	
+SCUS_946.73	NTSC-US	1932	251		NBA ShootOut 2003	
+SCUS_946.91	NTSC-US	0501	284		NBA ShootOut 2004	
+SLUS_009.48	NTSC-US	1603	139		NBA Showtime - NBA on NBC	
+SLUS_001.42	NTSC-US	1899	392		NCAA Basketball Final Four '97	
+SCUS_942.64	NTSC-US	0393	274		NCAA Final Four '99	
+SCUS_945.62	NTSC-US	1977	373		NCAA Final Four 2000	
+SLUS_005.14	NTSC-US	2034	341		NCAA Football '98	
+SLUS_006.88	NTSC-US	1241	548		NCAA Football '99	
+SLUS_009.32	NTSC-US	1819	573		NCAA Football 2000	
+SLUS_012.19	NTSC-US	1978	620		NCAA Football 2001	
+SCUS_945.09	NTSC-US	2035	193		NCAA Football Gamebreaker	
+SCUS_941.72	NTSC-US	1995	447		NCAA Gamebreaker '98	
+SCUS_942.46	NTSC-US	2044	367		NCAA Gamebreaker '99	
+SCUS_945.73	NTSC-US	2065	483		NCAA Gamebreaker 2001	modchip-protected
+SLUS_005.26	NTSC-US	0669	471		NCAA March Madness '98	
+SLUS_008.05	NTSC-US	0670	575		NCAA March Madness '99	
+SLUS_010.23	NTSC-US	1963	465		NCAA March Madness 2000	
+SLES_034.93	PAL-EU	0630	583	DISC1	Necronomicon - The Dawning of Darkness	PAL/NTSC selector
+SLES_134.93	PAL-EU	0630b	596	DISC2	Necronomicon - The Dawning of Darkness	PAL/NTSC selector
+SLPS_012.45	NTSC-JP	2347	359		Nectaris	
+SLUS_007.64	NTSC-US	0178	402		Nectaris - Military Madness	
+SLUS_002.04	NTSC-US	0326	531		Need For Speed	
+SLUS_005.90	NTSC-US	1192	274		Need for Speed - V-Rally	
+SLUS_010.03	NTSC-US	1467	616		Need for Speed - V-Rally 2	
+SLUS_002.76	NTSC-US	1643	369		Need for Speed II	
+SLUS_006.20	NTSC-US	0179	438		Need For Speed III - Hot Pursuit	Original DISC
+SLUS_008.26	NTSC-US	0138	608		Need for Speed 4 - High Stakes	
+SLUS_011.04	NTSC-US	0477	546		Need for Speed Porsche Unleashed	
+SLPS_015.43	NTSC-JP	2469	555	DISC1	Nekozamurai	
+SLPS_015.44	NTSC-JP	2469b	567	DISC2	Nekozamurai	
+SLPS_015.45	NTSC-JP	2469c	552	DISC3	Nekozamurai	
+SLPS_025.97	NTSC-JP	1685	618		Nenu Lu Masu - Sleeping Cocoon	
+SLPS_011.12	NTSC-JP	1088	602		Neorude 2	
+SLPS_009.13	NTSC-JP	2342	603	DISC1	Netsu Suna no Hoshi	
+SLPS_009.14	NTSC-JP	2342b	622	DISC2	Netsu Suna no Hoshi	
+SLPS_006.37	NTSC-JP	2388	569		New Japan Pro Wrestling - Toukon Retsuden 2	
+SLPS_013.66	NTSC-JP	1870	432		New Japan Pro Wrestling - Toukon Retsuden 3	
+SLUS_006.02	NTSC-US	1964	250		Newman/Haas Racing	
+SLPS_008.59	NTSC-JP	2269	509		Next King - Koi no Sennen Oukoku	
+SLUS_006.17	NTSC-US	0125	299		NFL Blitz	
+SLUS_008.61	NTSC-US	0394	259		NFL Blitz 2000	
+SLUS_011.46	NTSC-US	1554	221		NFL Blitz 2001	
+SLUS_000.47	NTSC-US	2250	091		NFL Full Contact	
+SCUS_945.05	NTSC-US	1119	320		NFL GameDay	
+SCUS_945.10	NTSC-US	1487	469		NFL Gameday '97	
+SCUS_942.34	NTSC-US	1703	579		NFL Gameday '99	
+SCUS_945.56	NTSC-US	1965	494		NFL Gameday 2000	
+SCUS_945.75	NTSC-US	1966	402		NFL Gameday 2001	modchip-protected
+SCUS_946.39	NTSC-US	1678	422		NFL Gameday 2002	
+SCUS_946.65	NTSC-US	1571	453		NFL Gameday 2003	
+SCUS_946.90	NTSC-US	0139	453		NFL GameDay 2004	modchip-protected
+SCUS_946.95	NTSC-US	0879	420		NFL GameDay 2005	modchip-protected
+SLUS_000.11	NTSC-US	1114	112		NFL Quarterback Club '97	
+SCUS_942.45	NTSC-US	0511	294		NFL Xtreme	
+SCUS_944.20	NTSC-US	1468	445		NFL Xtreme 2	
+SLUS_000.30	NTSC-US	0608	538		NHL '97	
+SLUS_005.19	NTSC-US	0398	558		NHL '98	
+SLUS_007.35	NTSC-US	1257	559		NHL '99	
+SLUS_009.65	NTSC-US	1249	581		NHL 2000	
+SLUS_012.64	NTSC-US	0029	590		NHL 2001	
+SLUS_008.25	NTSC-US	1617	397		NHL Blades of Steel 2000	
+SLUS_003.91	NTSC-US	0689	203		NHL Breakaway '98	
+SCUS_945.04	NTSC-US	1979	090		NHL Faceoff	
+SCUS_945.50	NTSC-US	1980	309		NHL Faceoff '97	
+SCUS_941.74	NTSC-US	0795	328		NHL Faceoff '98	
+SCUS_942.35	NTSC-US	1361	364		NHL Faceoff '99	
+SCUS_945.58	NTSC-US	1231	419		NHL Faceoff 2000	
+SCUS_945.77	NTSC-US	1968	426		NHL Faceoff 2001	modchip-protected
+SLUS_003.27	NTSC---	0900	086		NHL Open Ice - 2 on 2 Challenge	language: R
+SLUS_003.27	NTSC-US	0800	086		NHL Open Ice - 2 on 2 Challenge	
+SLPS_005.95	NTSC-JP	1362	197		NHL Powerplay '96	
+SLUS_002.27	NTSC-US	0922	198		NHL Powerplay '96	
+SLUS_005.28	NTSC-US	0794	318		NHL Powerplay '98	
+SLUS_010.85	NTSC-US	0353	429		NHL Rock The Rink	
+SLPS_001.84	NTSC-JP	1339	121		Nichibutsu Arcade Classics	
+SLUS_010.47	NTSC-US	1620	226		Nicktoons Racing	
+SLPS_001.11	NTSC-JP	1385	395		Night Head - The Labyrinth	
+SLPM_870.48	NTSC-JP	1314	307		Night Raid	
+SLPS_000.50	NTSC-JP	0673	341		Night Striker	
+SIPS_600.27	NTSC-JP	2241	618		Nightmare Creatures	
+SLUS_005.82	NTSC-US	0566	622		Nightmare Creatures	
+SLUS_011.12	NTSC-US	0495	533		Nightmare Creatures 2	
+SLUS_004.35	NTSC-US	0140	600		Ninja - Shadow of Darkness	
+SLPS_004.94	NTSC-JP	1489	356		Ninja Jaja Marukun - Onikiri Ninpoucho	
+SLPS_001.72	NTSC-JP	1465	408		Ninku	
+SLPS_034.93	NTSC-JP	1052	455		Ninpu Sentai Harikenger	
+SLPS_006.58	NTSC-JP	2390	447		Nippon Golf Kyoukai Kanshuu - Double Eagle	
+SLUS_008.04	NTSC-US	1778	222		No One Can Stop Mr. Domino	
+SLPS_011.15	NTSC-JP	2359	519		Nobunaga no Yabou - Shouseiroku	
+SLES_028.78	PAL-EU	1692	563		Noddy's Magic Adventure	
+SLPS_003.04	NTSC-JP	1443	602	DISC1	Noel - Not Digital	[Special Edition]
+SLPS_003.05	NTSC-JP	1443b	532	DISC2	Noel - Not Digital	
+SLPS_018.95	NTSC-JP	1023	572	DISC1	Noel 3 - Mission on The Line	
+SLPS_018.96	NTSC-JP	1023b	605	DISC2	Noel 3 - Mission on The Line	
+SLPS_018.97	NTSC-JP	1023c	576	DISC3	Noel 3 - Mission on The Line	
+SLUS_010.00	NTSC-US	2172	272		NoFear Downhill Mountain Bike Racing	NTSC patched PAL
+SLES_008.49	PAL-EU	1254	366		NoFear Downhill Mountain Biking	
+SLUS_004.66	NTSC-US	0243	190		Norse by Norsewest - Return of the Lost Vikings	
+SCUS_944.04	NTSC-US	0694	335	DISC1	Novastorm	
+SCUS_944.07	NTSC-US	0694b	401	DISC2	Novastorm	
+SLUS_005.18	NTSC-US	0591	535		Nuclear Strike	
+SLPS_023.36	NTSC-JP	1868	505		Nyan Nyan Ga Nyan - Light Fantasy Gaiden	
+SLPS_004.42	NTSC-JP	1070	343		Nyan to Wonderful	
+SLUS_006.98	NTSC-US	0342	500		O.D.T.	
+SLPS_018.99	NTSC-JP	1059	339		Oasis Road	
+SLUS_007.10	NTSC-US	0548	508	DISC1	Oddworld - Abe's Exoddus	
+SLUS_007.31	NTSC-US	0548b	401	DISC2	Oddworld - Abe's Exoddus	
+SLUS_001.90	NTSC-US	0195	582		Oddworld - Abe's Oddysee	
+SLPS_007.54	NTSC-JP	1764	481		Odo Odo Oddity	
+SLES_000.47	PAL-EU	1341	504		Off-World Interceptor Extreme	
+SLUS_000.20	NTSC-US	1534	504		Off-World Interceptor Extreme	
+SLPS_026.80	NTSC-JP	1791	343		Oh! Bakyuuun	
+SLPS_015.24	NTSC-JP	1802	321		Okappari-Oh	
+SLPS_007.14	NTSC-JP	1523	362		Olympia Yamasa - Virtua Pachi-Slot II	
+SLUS_001.56	NTSC-US	0726	423		Olympic Soccer	
+SLUS_001.48	NTSC-US	1423	396		Olympic Summer Games	
+SCPS_100.20	NTSC-JP	1949	508		Omega Boost	
+SCUS_944.49	NTSC-US	0171	483		Omega Boost	
+SLUS_004.69	NTSC-US	2146	107		One	
+SLPS_032.52	NTSC-JP	0191	585		One Piece - Tobidase Kaizokudan!	
+SLPM_868.37	NTSC-JP	2461	357		One Piece Mansion	
+SLUS_014.06	NTSC-US	0312	361		One Piece Mansion	
+SLPS_031.06	NTSC-JP	1275	495		Oni Zero - Fukkatsu	[Pandora Max Series Vol.6]
+SLPS_025.87	NTSC-JP	1207	327		Option Tuning Car Battle - Spec R	
+SLPS_018.57	NTSC-JP	1990	366		Option Tuning Car Battle 2	
+SLPS_011.44	NTSC-JP	2036	240		Ore! Tomba	
+SCPS_100.99	NTSC-JP	1335	461		Ore no Ryori - We Cooking	modchip-protected
+SLPM_860.47	NTSC-JP	1803	453		Other Life Azure Dreams	
+SLPS_034.12	NTSC-JP	2348	581		Ouji-Sama Lv.1	
+SLPS_032.35	NTSC-JP	1786	259		Oumagatoki	
+SLPS_032.72	NTSC-JP	1411	466		Oumagatoki 2 (Demon Time 2)	
+SLPS_003.92	NTSC-JP	2393	558		Overblood	
+SLUS_004.64	NTSC-US	0157	581		Overblood	
+SLES_018.79	PAL-EU	1686	618	DISC1	Overblood 2	
+SLES_118.79	PAL-EU	1686b	602	DISC2	Overblood 2	
+SLPS_012.61	NTSC-JP	0383	616	DISC1	Overblood 2	
+SLPS_012.62	NTSC-JP	0383b	601	DISC2	Overblood 2	
+SLUS_004.39	NTSC-US	0600	553		Pac-Man World 20th Anniversary	
+SLPS_027.20	NTSC-JP	1751	195		Pacapaca Passion 2	
+SLPS_034.40	NTSC-JP	2451	314		Pachi-Slot Aruze Oukoku 7	
+SLPS_014.37	NTSC-JP	2270	387		Pachisuro! Sammy Revolution	
+SLUS_013.89	NTSC-US	1872	434		Pajama Sam - You Are What You Eat from Your Head to Your Feet	
+SLUS_002.32	NTSC-US	0426	117		Pandemonium!	
+SLUS_005.78	NTSC-US	0427	283		Pandemonium! 2	
+SLPS_008.99	NTSC-JP	0018	236		Panzer Bandit	
+SLUS_013.99	NTSC-US	2092	287		Panzer Front	
+SLPS_031.11	NTSC-JP	1661	520		Panzer Front bis.	
+SLUS_001.32	NTSC-US	2093	318		Panzer General	
+SCPS_100.97	NTSC-JP	2190	154		PaQa	
+SLPS_013.75	NTSC-JP	0783	471		Paranoia Scape	
+SCUS_941.83	NTSC-US	0551	604		PaRappa the Rapper	
+SLUS_006.62	NTSC-US	0532	411	DISC1	Parasite Eve	
+SLUS_006.68	NTSC-US	0532b	537	DISC2	Parasite Eve	
+SLUS_010.42	NTSC-US	0211	489	DISC1	Parasite Eve II	
+SLUS_010.55	NTSC-US	0211b	504	DISC2	Parasite Eve II	
+SLPM_860.16	NTSC-JP	1779	583		Paro Wars	
+SLPS_009.59	NTSC-JP	1914	132		Pastel Muses	
+SLUS_015.39	NTSC-US	2086	198		Patriotic Pinball	
+SLES_009.53	PAL-EU	1693	606		Pax Corpus	
+SLUS_004.00	NTSC-US	0756	532		Peak Performance	
+SLPS_017.62	NTSC-JP	0740	179		Pepsiman - The Running Hero	
+SLPS_013.94	NTSC-JP	1376	455		Perfect Golf 2	
+SLUS_003.41	NTSC-US	0622	401		Perfect Weapon	
+SLPS_005.00	NTSC-JP	0856	581		Persona - Be Your True Mind - Megami Ibunroku	
+SLUS_003.39	NTSC-US	1005	587		Persona - Revelations	
+SLUS_011.58	NTSC-US	0182	601	DISC1	Persona 2 - Eternal Punishment	
+SLUS_013.39	NTSC-US	2445	262	DISC2	Persona 2 - Eternal Punishment	bonus disc
+SLPS_021.00	NTSC-JP	1195	574		Persona 2 - Tsumi (Innocent Sin)	
+SCPS_100.33	NTSC-JP	1928	375		Pet In TV - Ganbare Morikawa Kimi 2nd	[Limited Edition]
+SLUS_011.30	NTSC-US	0923	215		Peter Jacobson's - Golden Tee Golf	
+SCUS_946.43	NTSC-US	0572	483		Peter Pan - Return To Neverland	
+SLPS_002.45	NTSC-JP	2454	518		PGA Tour '96	
+SLUS_000.16	NTSC-US	0844	518		PGA Tour '96	
+SLUS_002.61	NTSC-US	1981	375		PGA Tour '97	
+SLUS_005.17	NTSC-US	1982	304		PGA Tour '98	
+SCES_000.59	PAL-EU	0185	620		Philosoma	
+SCPS_100.09	NTSC-JP	1660	622		Philosoma	
+SCUS_944.03	NTSC-US	0184	620		Philosoma	
+SLPS_026.48	NTSC-JP	2411	521		Phix no Daibouken - In The Magnetic World	
+SLPS_010.92	NTSC-JP	1915	195		Photo Genic	[Limited Edition]
+SLUS_014.09	NTSC-US	1324	184		Pipe Dreams 3D	
+SLUS_001.46	NTSC-US	0762	619		Pitball	
+SLUS_002.54	NTSC-US	0557	456		Pitfall 3D - Beyond The Jungle	
+SLPS_022.90	NTSC-JP	2425	309	DISC1	Pixygarden	
+SLPS_022.91	NTSC-JP	2425b	340	DISC2	Pixygarden	
+SLPM_862.64	NTSC-JP	0629	537		Planet Laika	modchip-protected
+SLES_038.44	PAL-EU	0939	510		Planet of the Apes	
+SLPS_002.39	NTSC-JP	1012	116		PlayStadium	
+SLPS_008.07	NTSC-JP	2345	172		PlayStadium 2	
+SLUS_009.59	NTSC-US	2096	621		Play with the Teletubbies	
+SLUS_000.97	NTSC-US	0183	121		PO'ed	
+SLPS_028.00	NTSC-JP	2382	265		Pocket Digimon World	
+SLPS_013.60	NTSC-JP	1424	306		Pocket Fighter	
+SLUS_006.53	NTSC-US	0196	220		Pocket Fighter	
+SCPS_101.04	NTSC-JP	2192	196		Pocket Jiman	modchip-protected
+SLUS_004.81	NTSC-US	0490	247		Point Blank	
+SLUS_007.96	NTSC-US	0399	439		Point Blank 2	
+SLUS_013.54	NTSC-US	0197	104		Point Blank 3	
+SLUS_010.33	NTSC-US	0192	198		Polaris Snowcross	
+SLPS_002.15	NTSC-JP	0696	620	DISC1	Policenauts	
+SLPS_002.16	NTSC-JP	0696b	508	DISC2	Policenauts	
+SLPS_002.28	NTSC-JP	0696c	496	DISC3	Policenauts	Private Collection
+SLUS_808.89	NTSC-US	1449	295		Pong 3D - The Next Level	
+SLUS_007.58	NTSC-US	2087	579		Pool Hustler	
+SLPM_865.92	NTSC-JP	1916	181		Pop'n Music - Animation Melody	modchip-protected
+SLPM_861.46	NTSC-JP	0658	464		Pop'n Tanks!	
+SCPS_100.50	NTSC-JP	1420	583		Poporouge	modchip-protected
+SCUS_941.87	NTSC-US	1587	463		Porsche Challenge	
+SLPS_010.33	NTSC-JP	1543	579		Power Dolls 2	
+SLPS_015.17	NTSC-JP	2242	413		Power League	
+SLUS_004.08	NTSC-US	1775	282		Power Move Pro Wrestling	
+SLUS_014.45	NTSC-US	2094	043		Power Play - Sports Trivia	
+SLUS_011.14	NTSC-US	2084	184		Power Rangers - Lightspeed Rescue	
+SLUS_013.51	NTSC-US	2076	265		Power Rangers - Time Force	
+SLPS_004.90	NTSC-JP	1745	263		Power Rangers Pinball	
+SLUS_002.56	NTSC-US	2085	263		Power Rangers Zeo - Full Tilt Battle Pinball	
+SLUS_001.05	NTSC-US	1230	242		Power Serve 3D Tennis	
+SLUS_013.43	NTSC-US	0193	249		Power Shovel	
+SLUS_014.23	NTSC-US	1278	380		Powerpuff Girls - Chemical X-Traction	
+SLUS_001.02	NTSC-US	0452	305		Powerslave	
+SLUS_011.96	NTSC-US	1416	349		Powerspike Pro Beach Volleyball	
+SLUS_004.86	NTSC-US	2095	227		PoyPoy	
+SLUS_001.26	NTSC-US	1111	358		Primal Rage	
+SLPS_023.87	NTSC-JP	2462	227		Prisoner	
+SLPS_011.29	NTSC-JP	2288	483		Prisoner of Ice	
+SLUS_008.17	NTSC-US	1344	372		Pro 18 - World Tour Golf	
+SLUS_012.60	NTSC-US	2077	419		Pro Pinball - Big Race USA	
+SLUS_012.61	NTSC-US	2039	340		Pro Pinball - Fantastic Journey	
+SLUS_003.71	NTSC-US	1101	328		Pro Pinball - The Web	
+SLUS_006.39	NTSC-US	1504	469		Pro Pinball - Timeshock!	
+SLPS_010.06	NTSC-JP	1718	192		Pro Wrestling Sengoku - Hyper Tag Match	
+SLPS_008.81	NTSC-JP	1418	200		Pro Wrestling Sengokuten	
+SLPS_013.71	NTSC-JP	2047	169		Pro Yakyuu Nettou Puzzle Stadium	
+SLPS_023.33	NTSC-JP	1006	407		Pro Yakyuu Simulation Dugout '99	
+SCPS_100.16	NTSC-JP	1896	380		Project - Horned Owl	
+SCUS_944.08	NTSC-US	0449	377		Project Horned Owl	
+SLUS_000.45	NTSC-US	0472	440		Project Overkill	
+SLUS_007.30	NTSC-US	2016	579		Psybadek	
+SLUS_001.65	NTSC-US	1321	610	DISC1	Psychic Detective	
+SLUS_001.66	NTSC-US	1321b	426	DISC2	Psychic Detective	
+SLUS_001.67	NTSC-US	1321c	535	DISC3	Psychic Detective	
+SLUS_004.19	NTSC-US	0728	495		Psychic Force	
+SLPM_862.73	NTSC-JP	0729	529		Psychic Force 2	
+SLPS_018.69	NTSC-JP	1892	575		Psychometrer Eiji	
+SLPS_009.28	NTSC-JP	0719	381		Pu-Li-Ru-La Arcade Gears	
+ESPM_700.03	NTSC-JP	0893	367		Puffy - Puffy no P.S. I Love You	
+SLES_012.03	PAL-EU	1200	242		Puma Street Soccer	PAL patched NTSC
+SLUS_005.79	NTSC-US	0757	538		Punky Skunk	
+SLPS_001.49	NTSC-JP	0841	498		Puppet Zoo Pilomy	
+SLUS_013.71	NTSC-US	1214	241		Putter Golf	
+SLPS_005.30	NTSC-JP	1719	417		Puyo Puyo 2 - Tsuu Ketteiban	
+SLPS_024.12	NTSC-JP	1126	409		Puyo Puyo 4 - Car-Kun to Issho	
+SLPS_010.80	NTSC-JP	1127	264		Puyo Puyo Sun Ketteiban	
+SLPS_008.79	NTSC-JP	1507	595		Puzzle Arena Toshinden	
+SLPS_014.92	NTSC-JP	1528	373		Puzzle Bobble 4	
+SLUS_014.92	NTSC-US	0160	145		Puzznic	
+SLUS_009.04	NTSC-US	1133	182		Q-Bert	
+SLUS_015.61	NTSC-US	0540	293		Qix NEO	
+SLUS_007.57	NTSC-US	0200	295		Quake II	
+SLUS_009.54	NTSC-US	0742	571		R/C Stunt Copter	
+SLPS_016.88	NTSC-JP	0202	280		R-Type Delta	
+SLUS_008.77	NTSC-US	0929	281		R-Type Delta	
+SLES_013.55	PAL-EU	0203	410		R-Types	
+SLPS_012.36	NTSC-JP	1304	466		R-Types	
+SLUS_007.53	NTSC-US	0215	432		R-Types	
+SLPS_010.87	NTSC-JP	1450	606	DISC1	R?MJ - The Mystery Hospital	
+SLPS_010.88	NTSC-JP	1450b	612	DISC2	R?MJ - The Mystery Hospital	
+SLPS_001.67	NTSC-JP	1544	451		Race Drivin' a Go! Go!	
+SLUS_012.91	NTSC-US	1996	132		Racing	
+SLPS_004.17	NTSC-JP	2012	519		Racingroovy VS	
+SLPS_020.38	NTSC-JP	0187	621		Racing Lagoon	
+SLPS_006.00	NTSC-JP	1433	623		Rage Racer	
+SLUS_004.03	NTSC-US	0208	623		Rage Racer	
+SLPM_866.56	NTSC-JP	0523	181		Raiden DX	[Major Wave 1500]
+SLUS_008.08	NTSC-US	1322	392		Railroad Tycoon II	
+SLPM_862.72	NTSC-JP	0218	491		Rakugaki Showtime	
+SIPS_600.22	NTSC-JP	2246	478		Rally Cross	
+SCUS_943.08	NTSC-US	0590	478		Rally Cross	
+SCUS_942.47	NTSC-US	0479	498		Rally Cross 2	
+SLPS_016.01	NTSC-JP	0198	153		Rally de Africa	
+SLPS_026.79	NTSC-JP	1382	264		Rally de Europe	
+SLUS_007.42	NTSC-US	0700	321		Rampage 2 - Universal Tour	
+SLUS_010.65	NTSC-US	0701	400		Rampage Through Time	
+SLPS_005.22	NTSC-JP	1303	581		Ranma ½ - Battle Renaissance	
+SCES_003.94	PAL-EU	1332	450		Rapid Racer	
+SCES_000.04	PAL-EU	0950	330		Rapid Reload	
+SLUS_005.42	NTSC-US	1414	286		Rascal	
+SLUS_015.75	NTSC-US	2070	114		Rascal Racers	
+SLUS_006.56	NTSC-US	0764	478		Rat Attack!	
+SLUS_005.34	NTSC-US	0480	547		Ray Tracers	
+SLUS_012.17	NTSC-US	0905	402		Raycrisis - Series Termination	
+SLPS_000.26	NTSC-JP	2417	480		Rayman	
+SLUS_000.05	NTSC-US	0260	512		Rayman	
+SLUS_012.35	NTSC-US	0579	608		Rayman 2 - The Great Escape	
+SLUS_012.65	NTSC-US	1209	357		Rayman Brain Games	
+SLUS_014.58	NTSC-US	1248	420		Rayman Rush	
+SLPS_006.78	NTSC-JP	0204	538		Raystorm	
+SLUS_013.22	NTSC-US	0588	496		Razor Freestyle Scooter	
+SLUS_012.85	NTSC-US	0205	280		Rc de Go!	
+SLUS_011.68	NTSC-US	1873	428		RC Revenge	
+SLES_019.73	PAL-EU	1284	492		Re-Volt	
+SLUS_008.57	NTSC-US	0843	238		Ready 2 Rumble Boxing	
+SLUS_011.47	NTSC-US	0201	342		Ready 2 Rumble Boxing - Round 2	
+SLPM_860.85	NTSC-JP	0347	604		Real Bout Garou Densetsu Special - Dominated Mind	
+SLPM_860.90	NTSC-JP	1203	604	DISC1	Real Bout Garou Densetsu Special - Dominated Mind	[LE]
+SLPM_860.91	NTSC-JP	1203b	558	DISC2	Real Bout Garou Densetsu Special - Dominated Mind	
+SLUS_002.74	NTSC-US	0186	620		Reboot	
+SLPS_013.43	NTSC-JP	2436	442		Rebus	
+SLPS_007.44	NTSC-JP	1698	589		Recipro Heat 5000	
+SLUS_002.82	NTSC-US	0655	617		Red Asphalt - Rock 'n Roll Racing II	
+SLUS_003.82	NTSC-US	1042	595		Reloaded	
+SLPS_022.43	NTSC-JP	0546	403	DISC1	Remote Control Dandy	
+SLPS_022.44	-------	0546b	---	DISC2	Remote Control Dandy	
+SLUS_010.12	NTSC-US	2149	432		Renegade Racers	
+SLUS_015.07	NTSC-US	1436	196		Rescue Copter	
+SLUS_013.73	NTSC-US	2138	356		Rescue Heroes - Molten Menace	
+SCES_025.69	PAL-EU	1636	480		Rescue Shot	
+SLPS_025.55	NTSC-JP	0381	330		Rescue Shot Bubibo	
+SLUS_001.70	NTSC-US	0711	564		Resident Evil	
+SLUS_005.51	NTSC-US	0607	587	DISC1	Resident Evil - Director's Cut	
+SLUS_900.09	NTSC-US	2446	135	DISC2	Resident Evil - Director's Cut	bonus disc: Resident Evil 2 (DEMO)
+SLUS_007.47	NTSC-US	0263	605		Resident Evil - Director's Cut - Dual Shock Ver.	
+SLUS_004.21	NTSC-US	0484	545	DISC1	Resident Evil 2	Leon disc
+SLUS_005.92	NTSC-US	0484b	552	DISC2	Resident Evil 2	Claire disc
+SLUS_007.48	NTSC-US	0367	586	DISC1	Resident Evil 2 - Dual Shock Ver.	Leon disc
+SLUS_007.56	NTSC-US	0367b	588	DISC2	Resident Evil 2 - Dual Shock Ver.	Claire disc
+SLUS_009.23	NTSC-US	0209	599		Resident Evil 3 - Nemesis	
+SLES_027.32	PAL-EU	0262	353		Resident Evil Survivor	
+SLUS_010.87	NTSC-US	0547	353		Resident Evil Survivor	anti-modchip protection patched
+SLES_016.61	PAL-EU	0634	259		Retro Force	PAL/NTSC selector
+SLUS_001.84	NTSC-US	0462	364		Return Fire	
+SLPS_001.43	NTSC-JP	2102	169		Reverthion	
+SLES_001.29	PAL-EU	0955	604		Revolution X - Music is the Weapon	
+SLPS_002.58	NTSC-JP	1827	604		Revolution X - Music is the Weapon	
+SLUS_000.12	NTSC-US	1919	578		Revolution X - Music is the Weapon	
+SLUS_010.73	NTSC-US	1062	363		Rhapsody - A Musical Adventure	
+SLPS_023.76	NTSC-JP	1302	455		Rhapsody 2 - Little Princess (Maru Oukoku no Ningyou Hime 2)	
+SLPS_009.05	NTSC-JP	1454	417		Ridegear Guybrave	
+SLPS_000.01	NTSC-JP	1677	360		Ridge Racer	
+SCUS_943.00	NTSC-US	0360	387		Ridge Racer	
+SLPS_001.50	NTSC-JP	1649	613		Ridge Racer Revolution	
+SLUS_002.14	NTSC-US	0712	613		Ridge Racer Revolution	
+SLPS_018.00	NTSC-JP	1459	516	DISC1	Ridge Racer Type 4	
+SLPS_018.01	NTSC-JP	1459b	406	DISC2	Ridge Racer Type 4	bonus disc
+SLUS_007.97	NTSC-US	0305	516	DISC1	Ridge Racer Type 4	
+SLUS_900.49	NTSC-US	0305b	417	DISC2	Ridge Racer Type 4	bonus disc
+SLPM_871.98	NTSC-JP	2182	166		Rikujou Boueitai Maochan	[Deluxe Pack]
+SLPS_002.59	NTSC-JP	1167	517		Rise of Robots 2 - Resurection	
+SLPS_016.91	NTSC-JP	1486	619		Rising Zan - The Samurai Gunman	
+SLUS_008.29	NTSC-US	0199	620		Rising Zan - The Samurai Gunman	
+SLES_007.07	PAL-EU	1285	453		Risk	
+SLUS_006.16	NTSC-US	1469	431		Risk	
+SLPS_013.74	NTSC-JP	1051	356		Ritoru Cats	
+SLUS_006.81	NTSC-US	0210	602	DISC1	Rival Schools	Arcade disc
+SLUS_007.71	NTSC-US	0210b	320	DISC2	Rival Schools	Evolution disc
+SLPS_021.20	NTSC-US	0582	550		Rival Schools 2	
+SLUS_005.35	NTSC-US	1317	543	DISC1	Riven - The Sequel to Myst	
+SLUS_005.63	NTSC-US	1317b	607	DISC2	Riven - The Sequel to Myst	
+SLUS_005.64	NTSC-US	1317c	561	DISC3	Riven - The Sequel to Myst	
+SLUS_005.65	NTSC-US	1317d	622	DISC4	Riven - The Sequel to Myst	
+SLUS_005.80	NTSC-US	1317e	622	DISC5	Riven - The Sequel to Myst	
+SLUS_000.35	NTSC-US	0680	609		Road Rash	
+SLUS_005.24	NTSC-US	0749	507		Road Rash 3D	
+SLUS_010.53	NTSC-US	0180	486		Road Rash - Jailbreak	
+SLUS_010.24	NTSC-US	1204	339		Roadsters	
+SCPS_101.03	NTSC-JP	0863	581		Robbit Mon Dieu!	PAL/NTSC selector
+SLES_041.10	PAL-EU	2357	154		Robin Hood - The Siege	
+SLPS_025.01	NTSC-JP	1792	202		Robin Lloyd no Bouken - The Adventures of Robin Lloyd	
+SLUS_003.16	NTSC-US	0435	304		Robo-Pit	
+SLUS_015.63	NTSC-US	1930	097		Robo-Pit 2	
+SLUS_002.52	NTSC-US	2140	617		Robotron X	
+SLUS_011.24	NTSC-US	2006	421		Rock'em Sock'em Robots Arena	
+SLUS_013.53	NTSC-US	2139	334		Rocket Power - Team Rocket Rescue	
+SLPS_022.20	NTSC-JP	1287	238		RockMan 1	[Complete Works]
+SLPS_022.55	NTSC-JP	0214	334		RockMan 2 - Dr. Wily no Nazo	[Complete Works]
+SLPS_022.62	NTSC-JP	1288	405		RockMan 3 - Dr. Wily no Saigo!!	[Complete Works]
+SLPS_023.24	NTSC-JP	1293	515		RockMan 4 - Aratanaru Yabou!! (A New Evil Ambition)	[Complete Works]
+SLPS_023.38	NTSC-JP	1294	508		RockMan 5 - Blues no Wana!!	[Complete Works]
+SLPS_023.79	NTSC-JP	1289	425		RockMan 6 - Shijou Saidai no Tatakai!!	[Complete Works]
+SLPS_006.30	NTSC-JP	0332	407		RockMan 8	
+SLPS_007.64	NTSC-JP	0857	540		RockMan Battle & Chase	
+SLPS_011.41	NTSC-JP	0370	412		RockMan Dash	
+SLPS_027.11	NTSC-JP	0371	548		RockMan Dash 2	
+SLPS_002.83	NTSC-JP	1402	610		RockMan X3	
+SLPS_009.02	NTSC-JP	0331	493		RockMan X4	
+SLPM_866.66	NTSC-JP	1475	484		RockMan X5	
+SLPM_869.59	NTSC-JP	1476	498		RockMan X6	
+SLUS_006.43	NTSC-US	0467	612		Rogue Trip - Vacation 2012	
+SLUS_007.24	NTSC-US	0550	214		Roll Away	
+SLES_016.60	PAL-EU	1439	570		Rollcage	
+SLUS_008.00	NTSC-US	0807	565		Rollcage	
+SCES_019.22	PAL-EU	0522	538		Rollcage - Stage II	PAL/NTSC selector; no music
+SLUS_008.67	NTSC-US	2141	538		Rollcage - Stage II	
+XXXX_XXX.XX	NTSC-XX	2207	168		Roller	homebrew game
+SLUS_001.95	NTSC-US	1378	588		Romance of the Three Kingdoms IV - Wall of Fire	
+SLUS_009.18	NTSC-US	2415	192		Romance of the Three Kingdoms VI - Awakening of the Dragon	
+SLES_009.95	PAL-EU	1261	563		Ronaldo V-Football	PAL/NTSC selector
+SLUS_007.50	NTSC-US	0971	108		Rosco McQueen Firefighter Extreme	
+SLUS_010.62	NTSC-US	0217	554		Roswell Conspiracies - Aliens, Myths & Legends	NTSC patched PAL
+SLPS_026.37	NTSC-JP	2262	430		Rubbish Blazon	[Pandora Max Series Vol.3]
+SLUS_006.50	NTSC-US	1271	505		Rugrats - Search for Reptar	
+SLUS_008.80	NTSC-US	1243	420		Rugrats - Studio Tour	
+SLUS_013.64	NTSC-US	1807	149		Rugrats - Totally Angelica	
+SLPS_024.03	NTSC-JP	1434	292		Runabout 2	
+SLUS_011.35	NTSC-US	0216	295		Runabout 2	
+SLPS_004.83	NTSC-JP	1047	603		Rune no Joka - Hikari to Yamo no Sei-Oujo	
+SLPS_007.51	NTSC-JP	0162	521		Running High	
+SCPS_100.30	NTSC-JP	0838	548		Rurouni Kenshin Ishin Gekitouhen 3D Fighting	
+SCUS_944.17	NTSC-US	0773	517		Rush Hour	
+SLUS_008.28	NTSC-US	1597	426		Rushdown	
+________.__	NTSC---	0433	590		Russian Playboy	playboy pics & videos; language: R
+SLUS_006.92	NTSC-US	1997	439		S.C.A.R.S.	
+SLPS_007.39	NTSC-JP	1040	253		Saber Marionette J - Battle Sabers	
+SLPS_007.38	NTSC-JP	2205	243		Sabre Marionette J - Battle Sabers	[Limited Edition]
+SCUS_942.30	NTSC-US	1801	600		SaGa Frontier	
+SLPS_019.90	NTSC-JP	2408	609		SaGa Frontier II	modchip-protected
+SLUS_009.33	NTSC-US	0223	592		SaGa Frontier 2	
+SLPS_012.57	NTSC-JP	1103	523		Saishuu Densha	
+SLUS_013.81	NTSC-US	0858	433		Saiyuki - Journey West	
+SLPM_860.37	NTSC-JP	0249	443		Salamander Deluxe Pack PLUS	
+SLPM_868.20	NTSC-JP	1340	155		Salary Man Champ - Tatakau Salary Man	
+SLUS_013.97	NTSC-US	1969	201		Saltwater Sportfishing	
+SLUS_010.63	NTSC-US	1983	154		Sammy Sosa High Heat Baseball 2001	
+SLUS_010.64	NTSC-US	1488	092		Sammy Sosa Softball Slam	
+SLPS_035.05	NTSC-JP	0258	316		Samurai Deeper Kyo	[Limited Edition]
+SLUS_010.39	NTSC-US	1360	616		Samurai Showdown - Warrior's Rage	
+SCUS_942.06	NTSC-US	0987	347		Samurai Showdown III	
+SCES_005.63	PAL-EU	0221	345		Samurai Showdown III	PAL patched NTSC
+SLPS_006.47	NTSC-JP	0463	605		Samurai Spirits - Kenkaku Yubinan Pack	
+SLPS_003.50	NTSC-JP	1656	346		Samurai Spirits - Zankuro Musouken	
+SLPM_863.45	NTSC-JP	0586	616		Samurai Spirits Warriors Rage 2	
+SLPS_011.71	NTSC-JP	0544	599		Samurai Spirits IV - Amakusa Revenge Special	
+SLUS_005.05	NTSC-US	0265	183		San Francisco Rush - Extreme Racing	
+SLPS_031.66	NTSC-JP	1754	311		Sankyo Pachinko Fever 4	
+SCPS_100.91	NTSC-JP	1238	359		Saru! Get You!	modchip-protected
+SLPS_006.13	NTSC-JP	2027	239		Satomi no Nazo	
+SLUS_013.96	NTSC-US	2053	156		Scooby-Doo & The Cyber Chase	
+SLPS_007.85	NTSC-JP	1121	424		SD Gundam - G-Century	
+SLUS_011.49	NTSC-US	2033	289		Sea-Doo Hydrocross	
+SLPS_009.92	NTSC-JP	1822	347		Seabass Fishing 2	
+________.__	NTSC-US	0316	130		Sega Master System Emulator & NES Emulator for the PSX	[350 Sega Master System And 398 Nintendo 8 Bit Games]
+SLPS_023.23	NTSC-JP	1142	444		Seikai no Monshou (Crest of the Stars)	
+SLPS_026.52	NTSC-JP	1057	561		Seirei Hata Rayblade	
+SLPS_012.71	NTSC-JP	2407	407		Seirishoukan - Princess of Darkness	
+SLPS_031.51	NTSC-JP	2429	126		Sengoku Mugen	
+SLPS_031.76	NTSC-JP	2355	519		Senkai Tsuroku Seishi	
+SCUS_941.10	NTSC-US	0636	447		Sentient	
+SLPS_014.73	NTSC-JP	2401	281		Sentimental Journey	
+SLUS_006.04	NTSC-US	0812	304		Sentinel Returns	
+SLPM_866.12	NTSC-JP	2409	182		Septentrion - Out of the Blue	[MajorWave 1500 Series]
+SLPS_016.03	NTSC-JP	1874	484	DISC1	Serial Experiments Lain	
+SLPS_016.04	NTSC-JP		619	DISC2	Serial Experiments Lain	
+SLUS_011.80	NTSC-US	2099	313		Sesame Street Sports	
+SLPM_860.09	NTSC-JP	0233	417		Sexy Parodius	
+SCPS_455.10	NTSC-JP	1301	556		Shachou Eiyuuden - The Eagle Shooting Heroes	
+SLPM_870.27	NTSC-JP	2109	335		Shadow and Shadow	
+SLUS_004.68	NTSC-US	1244	620	DISC1	Shadow Madness	
+SLUS_007.18	NTSC-US	1244b	615	DISC2	Shadow Madness	
+SLUS_005.45	NTSC-US	1776	359		Shadow Master	
+SLUS_008.63	NTSC-US	0220	405		Shadow Tower	
+SLUS_008.95	NTSC-US	0564	470		Shadowman	
+SLPS_034.32	NTSC-JP	0264	506		Shaman King - Spirits of Shamans	
+SLPS_002.66	NTSC-JP	1769	341		Shanghai - Great Moments	
+SLES_016.58	PAL-EU	1328	438		Shaolin	
+SLUS_012.98	NTSC-US	0666	614		Sheep	
+SLUS_000.31	NTSC-US	0508	525		Shellshock	
+SLPS_023.19	NTSC-JP	1940	315		Shin Masoukishin - Panzer Warfare	
+SLPS_005.76	NTSC-JP	1086	575		Shin SD Sengokuden Kidou Musha Taisen	[Limited Edition]
+SLPS_017.56	NTSC-JP	1083	569		Shin Sedai Robot Senki - Brave Saga	
+SLPS_005.50	NTSC-JP	1584	566		Shin Super Robot Taisen (Neo Super Robot Wars)	
+SLPS_007.87	NTSC-JP	1082	588		Shin Super Robot Taisen	[Special Edition]
+SLPS_014.85	NTSC-JP	2174	200		Shinseiki Evangelion Eva - Yukai Na Nakama Tachi	
+SLPS_009.25	NTSC-JP	2282	324		Shinseiten Megashido (Megaseed)	
+SLPS_008.14	NTSC-JP	0291	605		Shinsetsu Samurai Spirits Bushidouretsuden	
+SLUS_005.58	NTSC-US	0635	556		Shipwreckers!	
+SLPS_012.40	NTSC-JP	1763	538	DISC1	Shiritsu Justice Gakuen - Legion of Heroes	Evolution disc
+SLPS_012.41	NTSC-JP	1763b	608	DISC2	Shiritsu Justice Gakuen - Legion of Heroes	Arcade disc
+SLPS_025.51	NTSC-JP	2003	296		Shisha no Yabu Tachi (Mansion of the Calling Dead)	[Pandora Max Series Vol.2]
+SLUS_001.37	NTSC-US	1456	301		Shockwave - Operation Jumpgate	
+SLUS_000.28	NTSC-US	1455	600		Shockwave Assault	
+SLES_039.96	PAL-EU	0911	366		Shrek Treasure Hunt	
+SLUS_014.63	NTSC-US	2333	217		Shrek Treasure Hunt	
+SLPS_012.02	NTSC-JP	1460	475		Shura no Mon	
+SLPS_002.50	NTSC-JP	0840	578		Shutokou Battle - Drift King	
+SLPS_005.73	NTSC-JP	1674	584		Shutokou Battle Gaiden - Super Technic Challenge	
+SLPS_008.28	NTSC-JP	1664	623		Shutokou Battle R	
+SLPS_011.75	NTSC-JP	0972	136		Side by Side Special	
+SLPS_010.79	NTSC-JP	1003	473		Side Pocket 3 - 3D Polygon Billiard Game	
+SLPS_001.56	NTSC-JP	0975	288		Sidewinder	
+SLPS_009.54	NTSC-JP	0623	513		Sidewinder II - Let's Dance In The Sky	
+SLPS_910.10	NTSC-JP	2389	352		Sidewinder USA	[PlayStation The Best]
+SLPS_023.34	NTSC-JP	1177	274		Silent Bomber	
+SLUS_009.02	NTSC-US	0240	284		Silent Bomber	
+SLPM_861.92	NTSC-JP	1826	511		Silent Hill	modchip-protected
+SLUS_007.07	NTSC-US	0232	511		Silent Hill	
+SLUS_007.28	NTSC-US	0266	623		Silhouette Mirage	
+SLPS_014.49	NTSC-JP	2325	534		Silhouette Mirage - Reprogrammed Hope	
+SLPS_023.20	NTSC-JP	0959	619		Silver Jiken	
+SLUS_000.50	NTSC-US	1090	553		Silverload	
+SLUS_010.69	NTSC-US	1263	429		Sim Theme Park	
+SLUS_002.09	NTSC-US	0545	427		Skeleton Warriors	
+SLPS_014.76	NTSC-JP	2040	268		Ski Air Mix	
+SLUS_006.01	NTSC-US	0261	546		SkullMonkeys	
+SLUS_013.92	NTSC-US	0602	456		Skydiving Extreme	
+SLPS_002.46	NTSC-JP	1683	399		Slam Dragon	
+SLPS_004.26	NTSC-JP	0815	162		Slam N' Jam '96 Featuring Magic & Kareem	
+SLUS_000.22	NTSC-US	0238	161		Slam N' Jam '96 Featuring Magic & Kareem	
+SLUS_000.80	NTSC-US	0763	470		Slamscape	
+SLPS_027.89	NTSC-JP	0252	269		Slap Happy Rhythm Busters	
+SLPS_013.63	NTSC-JP	1065	591		Slayers Royal	
+SLPS_021.15	NTSC-JP	1329	595		Slayers Royal 2	
+SLPS_015.99	NTSC-JP	1461	434		Slayers Wonderful - Sureiyazu	
+SLUS_009.55	NTSC-US	0227	584		Sled Storm	
+SLUS_015.55	NTSC-US	1984	147		Slots	
+SLUS_007.81	NTSC-US	0348	595		Small Soldiers	
+SLPS_004.50	NTSC-JP	1501	453		Smash Court	
+SLPS_030.01	NTSC-JP	0493	304		Smash Court 3	
+SLPS_001.54	NTSC-JP	0717	476		Snatcher	
+SLUS_010.93	NTSC-US	0918	288		Sno-Cross Championship Racing	
+SLPS_018.23	NTSC-JP	0505	243		Snobow Kids Plus	
+SLPS_014.63	NTSC-JP	2395	217		Sol Divide	
+SLUS_015.19	NTSC-US	0259	191		Sol Divide	
+SLPS_013.19	NTSC-JP	2184	208		Soldnerschild - Special	
+SLPS_018.43	NTSC-JP	2364	569	DISC1	Sonata	
+SLPS_018.44	NTSC-JP	2364b	570	DISC2	Sonata	
+SLPS_003.07	NTSC-JP	0237	168		Sonic Wings Special	
+SLUS_014.95	NTSC-US	1223	040		Sorcerer's Maze	
+SLPS_010.41	NTSC-JP	1160	552	DISC1	Sosora no Tsubasa - Gotha World	
+SLPS_010.42	NTSC-JP	1160b	540	DISC2	Sosora no Tsubasa - Gotha World	
+SLPS_002.73	NTSC-JP	1808	222		Sotsugyou CrossWorld	
+SLPS_013.32	NTSC-JP	1809	364		Sotsugyou III - Wedding Bell	
+SLPS_012.91	NTSC-JP	0372	564	DISC1	Soukaigi	
+SLPS_012.92	NTSC-JP	0372b	553	DISC2	Soukaigi	
+SLPS_012.93	NTSC-JP	0372c	542	DISC3	Soukaigi	
+SLPS_009.24	NTSC-JP	1379	311		Soukoban Basic	
+SLPS_015.19	NTSC-JP	1380	278		Soukoban Basic II	
+SLPS_020.91	NTSC-JP	2335	360		Soukou Kidoutai L.A.P.D.	
+SLPS_011.72	NTSC-JP	0236	316		Soukyu-Gurentai - Oubushustugeki	
+SLPS_010.90	NTSC-JP	2041	133		Soulmaster	
+SLUS_002.40	NTSC-US	0239	437		Soul Blade	
+SLPS_005.55	NTSC-JP	1168	425		Soul Edge	
+SLUS_008.22	NTSC-US	0293	502		Soul of The Samurai	
+SLPS_016.45	NTSC-JP	2447	591		Sound Novel Evolution 1 - Otogirisou Sosei-Hen	
+SLUS_009.36	NTSC-US	0292	293		South Park	
+SLUS_009.97	NTSC-US	0889	401		South Park - Chef's Luv Shack	
+SLUS_009.84	NTSC-US	0411	488		South Park Rally	
+SLPS_007.35	NTSC-JP	1395	556		Soviet Strike	
+SLUS_000.61	NTSC-US	0510	557		Soviet Strike	
+SCPS_190.01	NTSC-JP	1349	273		Space Adventure Cobra - The Psychogun Vol.1	[Playstation Comic]
+SCPS_190.02	NTSC-JP	1004	263		Space Adventure Cobra - The Psychogun Vol.2	[Playstation Comic]
+SLPS_003.12	NTSC-JP	0509	251		Space Adventure Cobra - The Shooting	
+SLPS_019.00	NTSC-JP	0324	582		Space Battleship - Uchuu Senkan Yamato	
+SLPS_027.61	NTSC-JP	2290	470	DISC1	Space Battleship Yamato 2	
+SLPS_027.62	NTSC-JP	2290b	559	DISC2	Space Battleship Yamato 2	
+SLPS_027.63	NTSC-JP	2290c	483	DISC3	Space Battleship Yamato 2	
+SLPS_000.12	NTSC-JP	2238	423		Space Griffon VF-9	
+SLUS_001.53	NTSC-US	0837	441		Space Griffon VF-9	
+SLUS_002.05	NTSC-US	0619	476		Space Hulk Vengeance of Blood Angels	
+SLUS_013.08	NTSC-US	0652	510		Space Shot	
+SLPS_009.40	NTSC-JP	0827	148		Space Invaders	
+SLES_021.44	PAL-EU	0253	168		Space Invaders	PAL patched NTSC
+SLPS_014.00	NTSC-JP	2372	549		Spawn - The Eternal	
+SCUS_942.04	NTSC-US	0679	554		Spawn - The Eternal	
+SLUS_014.47	NTSC-US	0914	152		Spec Ops - Airborne Commando	
+SLUS_014.20	NTSC-US	0915	138		Spec Ops - Covert Assault	
+SLUS_012.99	NTSC-US	0912	161		Spec Ops - Ranger Elite	
+SLUS_011.31	NTSC-US	0913	227		Spec Ops - Stealth Patrol	
+SLPS_025.26	NTSC-JP	1832	305		Spectral Blade	
+SLPS_022.33	NTSC-JP	1578	607		Spectral Force - Lovely Wickedness	
+SLPS_016.28	NTSC-JP	1384	557		Spectral Force 2	
+SLPS_004.76	NTSC-JP	1658	207		Spectral Tower	
+SLPS_011.79	NTSC-JP	1659	462		Spectral Tower II	
+SLPM_860.13	NTSC-JP	2020	401		Speed King - Neo Kobe 2045	
+SLPS_010.66	NTSC-JP	0219	374		Speed Power Gunbike	
+SCUS_945.63	NTSC-US	0787	597		Speed Punks	
+SLUS_006.13	NTSC-US	0530	241		Speed Racer	
+SLUS_012.18	NTSC-US	1179	617		Speedball 2100	
+SLES_005.75	PAL-EU	1615	517		Speedster	
+SLUS_007.23	NTSC-US	1920	372		Spice World	
+SLUS_002.30	NTSC-US	0267	356		Spider - The Video Game	
+SLUS_008.75	NTSC-US	0222	605		Spider-Man	
+SLUS_013.78	NTSC-US	0585	595		Spider-Man 2 - Enter Electro	
+SLES_027.90	PAL-EU	0188	169		Spin Jam	PAL/NTSC selector
+SLUS_006.55	NTSC-US	0755	318		Sports Car Supreme GT	
+SLUS_000.14	NTSC-US	0810	619		Spot Goes to Hollywood	
+SLPS_021.17	NTSC-JP	0504	601		Spriggan - Lunar Verse	
+SCUS_942.28	NTSC-US	1365	549		Spyro the Dragon	
+SCUS_944.25	NTSC-US	0596	469		Spyro The Dragon 2 - Ripto's Rage	
+SCUS_944.67	NTSC-US	0628	552		Spyro The Dragon 3 - Year of the Dragon	modchip-protected
+SLPS_001.62	NTSC-JP	0235	553		Stahlfeder	
+SLPS_004.68	NTSC-JP	2391	355		Stakes Winner - G1 Kanzen Seihahe no Michi	
+SLPS_008.50	NTSC-JP	2339	263		Stakes Winner 2	
+SLUS_002.41	NTSC-US	1985	426		Star Fighter	
+SLPS_005.39	NTSC-JP	1609	474		Star Gladiator - Episode 1 - Final Crusade	
+SLUS_003.72	NTSC-US	0657	474		Star Gladiator - Episode 1 - Final Crusade	
+SCES_017.07	PAL-EU	0980	394		Star Ixiom	
+SLPS_016.80	NTSC-JP	1907	394		Star Ixiom	
+SLPS_013.90	NTSC-JP	2303	544		Star Monja	
+SCUS_944.21	NTSC-US	0891	462	DISC1	Star Ocean The Second Story	
+SCUS_944.22	NTSC-US	0891b	600	DISC2	Star Ocean The Second Story	
+SLUS_013.07	NTSC-US	1097	159		Star Sweep	
+SLUS_009.24	NTSC-US	0615	564		Star Trek - Invasion	
+SLUS_002.97	NTSC-US	0225	467		Star Wars - Dark Forces	
+SLUS_011.83	NTSC-US	0439	525		Star Wars - Demolition	
+SLUS_008.84	NTSC-US	0362	563		Star Wars - Episode I - The Phantom Menace	
+SLUS_010.46	NTSC-US	0224	369		Star Wars - Jedi Power Battles	
+SLUS_005.62	NTSC-US	0301	383		Star Wars - Master of Teras Kasi	
+SLUS_003.81	NTSC-US	0364	623	DISC1	Star Wars - Rebel Assault II	
+SLUS_003.86	NTSC-US	0364b	619	DISC2	Star Wars - Rebel Assault II	
+SLPS_000.22	NTSC-JP	2221	588		Starblade Alpha	
+SLUS_000.57	NTSC-US	0349	588		Starblade Alpha	
+SLUS_013.02	NTSC-US	0945	203		Starfighter Sanvein	
+SLUS_000.94	NTSC-US	1708	620		Starwinder - The Ultimate Space Race	
+SLUS_000.93	NTSC-US	0333	450		Steel Harbinger	
+SCUS_949.02	NTSC-US	0677	578		Steel Reign	
+SLES_039.95	PAL-EU	1267	378		Stock Car Racer	
+SCPS_180.07	NTSC-JP	1147	597	DISC1	Stolen Song - A Virtual Music Adventure - Tomoyash Hotei	
+SCPS_180.08	NTSC-JP	1147b	602	DISC2	Stolen Song - A Virtual Music Adventure - Tomoyash Hotei	
+SLPS_004.72	NTSC-JP	1630	438		Stone Walkers	
+SLPS_020.35	NTSC-JP	2321	380		Stray Sheep - The Adventure of Poe & Merry	
+SLUS_006.29	NTSC-US	0871	492		Streak - Hoverboard Racing	
+SLPS_000.70	NTSC-JP	1780	543		Street Fighter - Real Battle on Film	
+SLUS_000.41	NTSC-US	0542	543		Street Fighter - The Movie	
+SLES_000.50	PAL-EU	1265	543		Street Fighter - The Movie	
+SLPS_000.80	NTSC-JP	0325	471	DISC1	Street Fighter II Movie	
+SLPS_000.81	NTSC-JP	0325b	517	DISC2	Street Fighter II Movie	
+SLUS_001.97	NTSC-US	0226	518		Street Fighter Alpha	
+SLUS_002.58	NTSC-US	0355	509		Street Fighter Alpha 2	
+SLUS_008.21	NTSC-US	0256	437		Street Fighter Alpha 3	
+SLUS_004.23	NTSC-US	0798	623	DISC1	Street Fighter Collection	
+SLUS_005.84	NTSC-US	0798b	521	DISC2	Street Fighter Collection	Street Fighter Alpha 2 Gold
+SLUS_007.46	NTSC-US	0559	404		Street Fighter Collection 2	
+SLPM_860.41	NTSC-JP	2212	439		Street Fighter EX Plus Alpha	
+SLPM_801.49	NTSC-JP	2291	265		Street Fighter EX Plus Alpha - Promotional Disc	
+SLUS_005.48	NTSC-US	0506	438		Street Fighter EX Plus Alpha	
+SLPS_025.08	NTSC-JP	1356	308		Street Fighter EX2 Plus	
+SLUS_011.05	NTSC-US	0543	371		Street Fighter EX2 Plus	
+SLPS_001.76	NTSC-JP	1477	578		Street Fighter Zero	
+SLPS_004.15	NTSC-JP	1478	511		Street Fighter Zero 2	
+SLPS_017.77	NTSC-JP	1355	437		Street Fighter Zero 3	
+SLUS_000.99	NTSC-US	0478	406		Street Racer	
+SLUS_014.50	NTSC-US	1986	302		Street Racquetball	
+SLUS_008.18	NTSC-US	0688	578		Street SK8ER	
+SLUS_010.83	NTSC-US	1413	463		Street SK8ER 2	
+SLUS_011.63	NTSC-US	0298	381	DISC1	Strider 2 & Strider	Strider 2; anti-modchip protection patched
+SLUS_011.42	NTSC-US	0298b	062	DISC2	Strider 2 & Strider	Strider
+SLES_040.46	PAL-EU	2358	173		Strike Force Hydra	
+SLUS_001.39	NTSC-US	1934	279		Strike Point	
+SLUS_002.10	NTSC-US	1711	205		Striker 96	
+SLPS_004.07	NTSC-JP	1391	297		Strikers 1945	
+SLUS_013.37	NTSC-US	0904	115		Strikers 1945	
+SLPS_016.37	NTSC-JP	0234	283		Strikers 1945 II	
+SLPS_001.37	NTSC-JP	1665	558		Suiko Enbu - Outlaws of the Lost Dynasty	
+SLUS_002.92	NTSC-US	1056	490		Suikoden	
+SLUS_009.58	NTSC-US	0909	426		Suikoden II	
+SLPS_013.05	NTSC-JP	2042	198		Suikoden Tendo 108 Sei	
+SLPS_025.42	NTSC-JP	0421	522		Summon Night	
+SLPS_032.37	NTSC-JP	2011	568	DISC1	Summon Night 2	
+SLPS_032.38	NTSC-JP	2011b	604	DISC2	Summon Night 2	
+SLPS_028.58	NTSC-JP	2043	265		Suna no Embrace - Eden no Sato no Never	
+SLPS_031.35	NTSC-JP	2127	040		Sunsoft Classics Vol.1 - Memorial Series	
+SLPS_031.81	NTSC-JP	2128	041		Sunsoft Classics Vol.2 - Memorial Series	
+SLPS_033.82	NTSC-JP	2129	045		Sunsoft Classics Vol.4 - Memorial Series	
+SLPS_034.86	NTSC-JP	2130	044		Sunsoft Classics Vol.6 - Memorial Series	
+SLPS_010.51	NTSC-JP	0894	516	DISC1	Super Adventure RockMan	
+SLPS_010.52	NTSC-JP	0894b	505	DISC2	Super Adventure RockMan	
+SLPS_010.53	NTSC-JP	0894c	576	DISC3	Super Adventure RockMan	
+SLPS_008.39	NTSC-JP	2223	378		Super Black Bass X	
+SLPS_023.92	NTSC-JP	2420	207		Super Black Bass X2	
+SLPS_005.69	NTSC-JP	2185	370		Super Football Champ	
+SLPS_017.76	NTSC-JP	1612	605		Super Hero Sakusen	
+SLPM_860.19	NTSC-JP	2346	244		Super Live Stadium	
+SLUS_004.18	NTSC-US	0257	503		Super Puzzle Fighter II Turbo	
+SLPS_006.11	NTSC-JP	0725	506		Super Puzzle Fighter II X	
+SLPS_005.53	NTSC-JP	1425	354		Super Robot Shooting	[Limited Edition]
+SLPS_025.28	NTSC-JP	1559	536		Super Robot Taisen Alpha	[Limited Edition]
+SLPS_020.70	NTSC-JP	1146	496	DISC1	Super Robot Taisen Complete Box	
+SLPS_020.71	NTSC-JP	1146b	533	DISC2	Super Robot Taisen Complete Box	
+SLPS_001.96	NTSC-JP	1908	381		Super Robot Wars IV Scramble - Dai-4-Ji Super Robot Taisen S	
+SLUS_014.64	NTSC-US	0241	352		Super Shot Soccer	
+SLPS_028.63	NTSC-JP	1163	602		Super Tokusatsu Taisen 2001	
+SLUS_010.52	NTSC-US	1430	610		Superbike 2000	
+SLUS_010.05	NTSC-US	0457	147		SuperCross 2000	
+SLUS_013.19	NTSC-US	1971	278		SuperCross 2001	
+SCUS_944.53	NTSC-US	1972	309		SuperCross Circuit	
+SLUS_014.93	NTSC-US	2147	104		Superstar Dance Club	
+SLUS_011.90	NTSC-US	0767	403		Surf Riders	
+SLPS_002.55	NTSC-JP	1623	517		Susume! Taisen Pazurudama	
+SLPS_027.30	NTSC-JP	2430	200		Suzu Monogatari	
+SLPM_865.13	NTSC-JP	1364	562		Suzuki Bakuhatsu	
+SLUS_001.51	NTSC-US	0727	505		Swagman	
+SLUS_011.77	NTSC-US	1246	483		Sydney 2000	PAL/NTSC selector
+SCUS_942.40	NTSC-US	0563	608		Syphon Filter	
+SCUS_944.51	NTSC-US	0835	608	DISC1	Syphon Filter 2	
+SCUS_944.92	NTSC-US	0835b	612	DISC2	Syphon Filter 2	
+SCUS_946.40	NTSC-US	0277	574		Syphon Filter 3	
+SLPS_013.50	NTSC-JP	1675	165		T - Kara Hajimaru Monogatari	
+SLUS_008.13	NTSC-US	0345	616		T.R.A.G. - Tactical Rescue Assault Group - Mission of Mercy	
+SLUS_007.87	NTSC-US	0567	565		T'ai Fu - Wrath of the Tiger	
+SLPM_867.82	NTSC-JP	1912	605	DISC1	Taiho Shichauzo! (You're Under Arrest)	
+SLPM_867.83	NTSC-JP	1912b	568	DISC2	Taiho Shichauzo! (You're Under Arrest)	
+SLUS_006.60	NTSC-US	0296	521		Tail Concerto	
+SCUS_946.07	NTSC-US	1520	272		Tail of the Sun - Wild, Pure, Simple Life	
+SLPS_029.55	NTSC-JP	1068	307		Taka 2 - Kohni Shogun	
+SLUS_006.26	NTSC-US	1061	498		Tales of Destiny	
+SLUS_013.55	NTSC-US	0624	464	DISC1	Tales of Destiny II	
+SLUS_013.67	NTSC-US	0624b	480	DISC2	Tales of Destiny II	
+SLUS_013.68	NTSC-US	0624c	531	DISC3	Tales of Destiny II	
+SLPS_033.75	NTSC-JP	1055	578		Tales of Fandom Vol.1 (Kuresu)	
+SLPS_017.70	NTSC-JP	0409	508		Tales of Phantasia	
+SLPS_000.03	NTSC-JP	1713	367		Tama - Adventurous Ball In Giddy Labyrinth	
+SLES_012.48	PAL-EU	1149	547		Tank Racer	PAL/NTSC selector
+SLPS_021.57	NTSC-JP	1829	441		Tantei Jinguuji Saburo - Early Collection	
+SLPS_030.16	NTSC-JP	1143	388		Tantei Jinguuji Saburo - Mikan no Report	[Popular Edition]
+SLPS_024.27	NTSC-JP	1139	613		Tantei Jinguuji Saburo - Tomosibi ga Kienumani	
+SLPS_013.56	NTSC-JP	1138	621		Tantei Jinguuji Saburo - Yume no Owari ni	
+SLPS_029.39	NTSC-JP	1392	449		Tatsunoko Fight	
+SLES_035.97	PAL-EU	1305	304		Taxi 2	
+SCES_029.86	PAL-EU	1157	595		Team Buddies	
+SLUS_008.69	NTSC-US	2007	432		Team Buddies	
+SLUS_006.66	NTSC-US	1970	467		Team Losi RC Racer	
+SLPS_031.77	NTSC-JP	1871	493		Tearring Saga	
+SLES_032.41	PAL-EU	0272	566		Technomage	PAL/NTSC selector
+SLUS_003.40	NTSC-US	0984	315		Tecmo's Deception - Invitation To Darkness	
+SLUS_003.15	NTSC-US	0614	496		Tecmo Stackers	
+SLUS_000.70	NTSC-US	1020	351		Tecmo Super Bowl	
+SLUS_002.99	NTSC-US	1393	231		Tecmo World Golf - Japan	
+SLPS_000.40	NTSC-JP	2106	594		Tekken	
+SLUS_000.06	NTSC-US	0363	622		Tekken	
+SLPS_003.00	NTSC-JP	1610	623		Tekken 2	
+SLUS_002.13	NTSC-US	0626	623		Tekken 2	
+SLUS_004.02	NTSC-US	0274	571		Tekken 3	
+SLPS_013.00	NTSC-JP	1350	528		Tekken 3 - OT Golden Leon	
+SLUS_002.83	NTSC-US	0327	311		Tempest X3	
+SLUS_003.77	NTSC-US	1613	551		Ten Pin Alley	
+SLPS_002.03	NTSC-JP	0974	623		Tenchi o Kurau 2 - Akakabe no Tatakai (Warriors of Fate)	
+SLPS_012.72	NTSC-JP	2383	452		Tenchu	
+SLPS_019.01	NTSC-JP	0565	620		Tenchu - Shinobi-Gaisen (2nd Version)	
+SLPS_024.00	NTSC-JP	0242	575		Tenchu - Shinobi Hyakusen	
+SLUS_007.06	NTSC-US	0686	575		Tenchu - Stealth Assasins	
+SLUS_009.39	NTSC-US	0275	617		Tenchu 2 - Birth of the Stealth Assassins	
+SLPS_010.15	NTSC-JP	1036	455		Tenku no Escaflowne (The Vision of Escaflowne)	
+SLPS_010.14	NTSC-JP	1037	455		Tenku no Escaflowne (The Vision of Escaflowne)	[Limited Edition]
+SLPS_013.03	NTSC-JP	1408	216		Tennis Arena	
+SLUS_005.96	NTSC-US	2008	216		Tennis Arena	
+SLPM_871.55	NTSC-JP	0819	539		Tennis no Oji-Sama - The Prince of Tennis Sweat & Tears	
+SLPS_012.78	NTSC-JP	1991	257		Tensen-Nyannyan - Gekigyouban	
+SLPS_012.28	NTSC-JP	1046	320		Tenshi Doumei	
+SLPS_035.31	NTSC-JP	2421	585		Tenshi no Shippo	
+SLPS_031.32	NTSC-JP	2448	413		Tentama	
+SCES_028.36	PAL-EU	1306	517		Terracon	
+SLUS_004.87	NTSC-US	1724	385		Test Drive 4	
+SLUS_006.10	NTSC-US	0329	594		Test Drive 5	
+SLUS_008.39	NTSC-US	1575	400		Test Drive 6	
+SLUS_003.96	NTSC-US	1987	531		Test Drive Off-Road	
+SLUS_006.09	NTSC-US	1338	263		Test Drive Off-Road 2	
+SLUS_003.38	NTSC-US	0284	560		Tetris Plus	
+SLPS_003.21	NTSC-JP	1194	064		Tetris X	
+SLPS_028.86	NTSC-JP	0282	317		Tetris With Card Captor Sakura - Eternal Heart	
+SLPS_027.56	NTSC-JP	0269	099		The Basket - 1 ON 1 Plus	[Simple 1500 Series Vol.030]
+SLPS_020.30	NTSC-JP	2056	081		The Billiards	[Simple 1500 Series Vol.010]
+SLPM_866.97	NTSC-JP	2057	132		The Billiards 2	[Simple 1500 Series Vol.050]
+SLPS_030.36	NTSC-JP	2195	146		The Block Kuzushi 2	[Simple 1500 Series Vol.045]
+SLES_031.63	PAL-EU	1667	355		The Bombing Islands	PAL/NTSC selector
+SLPS_029.22	NTSC-JP	2196	125		The Boxing	[Simple 1500 Series Vol.032]
+SLPM_870.76	NTSC-JP	2197	043		The Cameraman	[Simple 1500 Series Vol.094]
+SLUS_015.79	NTSC-US	2118	190		The Cat in the Hat	
+SLPS_009.71	NTSC-JP	2260	302		The City of Lost Children	
+SCUS_941.50	NTSC-US	1208	271		The City of Lost Children	
+SLUS_002.42	NTSC-US	1014	259		The Crow - City of Angels	
+SLPM_862.37	NTSC-JP	1551	349		The Curling	[Superlite 1500 Series - Vol.4]
+SLPM_871.44	NTSC-JP	2442	543		The Densha Utenshi - Densya de Go! Nagoya Tetsudo Hen	[Simple 1500 Series Vol.102]
+SLPS_005.01	NTSC-JP	2186	225		The Deep	
+SLUS_003.17	NTSC-US	1766	250		The Divide - Enemies Within	
+SLPM_869.12	NTSC-JP	0818	530		The Double Shooting - Raystorm & Raycrisis	[Simple 1500 Series Vol.075]
+SLPS_015.55	NTSC-JP	2289	582		The Fifth Element	
+SLUS_007.11	NTSC-US	0560	588		The Fifth Element	
+SLPS_001.48	NTSC-JP	0289	381		The Firemen 2 - Pete & Danny	
+SLUS_009.31	NTSC-US	0882	251		The Flintstones Bedrock Bowling	
+SLPS_015.83	NTSC-JP	1739	337		The Game Maker	
+SLUS_007.69	NTSC-US	1432	399		The Game of Life	
+SLPS_016.33	NTSC-JP	2198	170		The Go Mokunarabe	[Simple 1500 Series Vol.003]
+SLUS_005.97	NTSC-US	0189	483		The Granstream Saga	
+SLPS_007.19	NTSC-JP	1699	346		The Great Battle VI	
+SLUS_011.97	NTSC-US	2202	430		The Grinch	PAL/NTSC selector; +9 trainer
+SLES_017.76	PAL-EU	1616	618		The Guardian of Darkness	
+SLPS_024.74	NTSC-JP	1373	250		The Gun Shooting	[Simple 1500 Series Vol.024]
+SLPM_868.16	NTSC-JP	0744	123		The Gun Shooting 2	[Simple 1500 Series Vol.063]
+SLPM_867.01	NTSC-JP	0268	046		The Helicopter	[Simple 1500 Series Vol.053]
+SLUS_001.20	NTSC-US	1641	503	DISC1	The Hive	
+SLUS_001.82	NTSC-US	1641b	463	DISC2	The Hive	
+SLUS_001.50	NTSC-US	1539	576		The Incredible Hulk - The Pantheon Saga	
+SLUS_014.57	NTSC-US	0890	595		The Italian Job	
+SLPS_003.51	NTSC-JP	1280	601		The King of Fighters '95	
+SCUS_942.05	NTSC-US	0903	600		The King of Fighters '95	
+SLPS_008.34	NTSC-JP	1363	613		The King of Fighters '96	
+SLPM_860.84	NTSC-JP	1066	347		The King of Fighters '97	
+SLPM_862.01	NTSC-JP	1011	229		The King of Fighters '98	
+SLPM_864.62	NTSC-JP	0741	233		The King of Fighters '99	
+SLUS_013.32	NTSC-US	1206	233		The King of Fighters '99	
+SLPM_860.95	NTSC-JP	0429	607		The King of Fighters Kyo	
+SCPS_100.59	NTSC-JP	1742	388		The Legaia Densetsu	
+SCUS_944.91	NTSC-US	0117	402	DISC1	The Legend of Dragoon	PAL/NTSC selector; anti-modchip protection patched; +3 trainer
+SCUS_945.84	NTSC-US	0117b	478	DISC2	The Legend of Dragoon	PAL/NTSC selector; anti-modchip protection patched; +3 trainer
+SCUS_945.85	NTSC-US	0117c	464	DISC3	The Legend of Dragoon	PAL/NTSC selector; anti-modchip protection patched; +3 trainer
+SCUS_945.86	NTSC-US	0117d	621	DISC4	The Legend of Dragoon	PAL/NTSC selector; anti-modchip protection patched; +3 trainer
+SLUS_005.15	NTSC-US	1319	606		The Lost World - Jurassic Park	
+SLPS_007.22	NTSC-JP	1017	353		The Master's Fighter	
+SLUS_008.96	NTSC-US	0244	300		The Misadventures of Tron Bonne	
+SLUS_011.87	NTSC-US	0330	380		The Mummy	
+SLPS_017.74	NTSC-JP	1784	376		The Next Tetris	
+SLES_007.49	PAL-EU	0931	470		The Note	
+SLES_039.32	PAL-EU	1441	530		The Pink Panther - Pinkadelic Pursuit	
+SLPM_872.15	NTSC-JP	1556	437		The Pink Panther	[Simple 1500 Series Vol.104]
+SLPM_867.02	NTSC-JP	0213	081		The Pro Wrestling 2	[Simple 1500 Series Vol.052]
+SLPM_868.68	NTSC-JP	2060	241		The Putter Golf	[Simple 1500 Series Vol.069]
+SLPS_021.97	NTSC-JP	2061	138		The Race	[Simple 1500 Series Vol.013]
+SLPS_015.53	NTSC-JP	0973	243		The Rapid Angel	
+SLPM_868.65	NTSC-JP	2444	287		The RC Car - RC de Go!	[Simple 1500 Series Vol.068]
+SLPS_029.59	NTSC-JP	0025	210		The Real Racing - Toyota	[Simple 1500 Series Vol.038]
+SLUS_013.12	NTSC-US	1370	525		The Road to El Dorado - Gold & Glory	
+SLUS_012.27	NTSC-US	0290	420		The Simpsons Wrestling	
+SLPM_868.01	NTSC-JP	1810	267		The Ski	[Simple 1500 Series Vol.062]
+SLES_017.49	PAL-EU	1182	613		The Smurfs	
+SLUS_010.08	NTSC-US	1767	456		The Smurfs	
+SLPM_867.62	NTSC-JP	1811	340		The Sniper	[Simple 1500 Series Vol.056]
+SLPM_870.88	NTSC-JP	1812	336		The Squash	[Simple 1500 Series Vol.097]
+SLPM_867.60	NTSC-JP	1374	106		The Sumo	[Simple 1500 Series Vol.058]
+SLUS_013.48	NTSC-US	0270	088		The Tennis	
+SLPM_865.81	NTSC-JP	1707	048		The Tetris	[Superlite 1500 Series]
+SLUS_014.86	NTSC-US	1900	188		The Three Stooges	
+SLPS_005.08	NTSC-JP	1166	579		The Tower - Bonus Edition	[Limited Edition]
+SLUS_006.76	NTSC-US	1537	174		The Unholy War	
+SLPM_867.13	NTSC-JP	1813	214		The VolleyBall - Break Volley Plus	[Simple 1500 Series Vol.054]
+SCPS_100.11	NTSC-JP	1009	461		The Warring States - Cyber Fujimaru Hell Change	
+SLUS_009.15	NTSC-US	0380	509	DISC1	The X-Files	
+SLUS_009.49	NTSC-US	0380b	597	DISC2	The X-Files	
+SLUS_009.50	NTSC-US	0380c	503	DISC3	The X-Files	
+SLUS_009.51	NTSC-US	0380d	605	DISC4	The X-Files	
+SLUS_002.75	NTSC-US	2194	253		Theme Hospital	
+SLUS_000.17	NTSC-US	2438	336		Theme Park	
+SLUS_009.35	NTSC-US	2170	305		Thrasher - Skate & Destroy	
+SLUS_008.45	NTSC-US	0306	538	DISC1	Thousand Arms	
+SLUS_008.58	NTSC-US	0306b	526	DISC2	Thousand Arms	
+SLUS_007.52	NTSC-US	0302	519		Thrill Kill	full uncensored version
+SLPS_000.94	NTSC-JP	0181	461	DISC1	Thunder Storm LX-3 & Road Blaster	Thunder Storm LX-3
+SLPS_000.95	NTSC-JP	0181b	495	DISC2	Thunder Storm LX-3 & Road Blaster	Road Blaster
+SLPS_014.06	NTSC-JP	1611	623		Thunder Force V - Perfect System	
+SLUS_007.27	NTSC-US	0295	493		Thunder Force V - Perfect System	
+SCUS_943.52	NTSC-US	2227	272		Thunder Truck Rally	
+SLUS_001.91	NTSC-US	0654	458		Thunderstrike 2	
+SLUS_003.46	NTSC-US	0350	586		Tigershark	
+SLUS_007.85	NTSC-US	0190	309		Tiger Woods PGA Tour Golf '99	
+SLUS_010.54	NTSC-US	1297	239		Tiger Woods PGA Tour Golf 2000	
+SLPS_007.17	NTSC-JP	1830	523		Tilk	
+SLPS_031.33	NTSC-JP	0875	541		Time Bokan Go Go Go	
+SLPS_012.11	NTSC-JP	0028	553		Time Bokan Yattaman Series - Bokandesuyo	
+SLUS_003.42	NTSC-US	0351	448		Time Commando	
+SLPS_006.35	NTSC-JP	2234	576		Time Crisis	[Edition with Guncon]
+SLUS_004.05	NTSC-US	0528	576		Time Crisis	
+SCES_006.57	PAL-EU	0276	611		Time Crisis	
+SLUS_013.36	NTSC-US	0288	507		Time Crisis - Project Titan	
+SLPS_003.83	NTSC-JP	0299	463	DISC1	Time Gal & Ninja Hayate	Time Gal
+SLPS_003.84	NTSC-JP	0299b	454	DISC2	Time Gal & Ninja Hayate	Ninja Hayate
+SLES_034.59	PAL-EU	0659	582		Tintin - Destination Adventure	PAL/NTSC selector
+SCPS_101.30	NTSC-JP	1632	494		Tiny Bullets	modchip-protected
+SLUS_005.88	NTSC-US	0578	611		Tiny Tank - Up Your Arsenal	
+SLUS_013.93	NTSC-US	2154	097		Tiny Toons Adventures - Pluck's Big Adventure	
+SLUS_006.38	NTSC-US	2155	131		Tiny Toons Adventures - The Great Beanstalk	
+SLUS_009.67	NTSC-US	0813	552		Tiny Toons - Toonenstein - Dare to Scare	
+SLUS_900.82	NTSC-US	2071	350		Titan A.E.	cancelled game demo
+SLPS_001.23	NTSC-JP	2402	620		TIZ - Tokyo Insect Zoo	
+SLUS_000.89	NTSC-US	0781	328		TNN Hardcore 4x4	
+SLUS_009.80	NTSC-US	0780	570		TNN Motorsports Hardcore TR	
+SLPS_019.19	NTSC-JP	2210	622	DISC1	To Heart	
+SLPS_019.20	NTSC-JP	2210b	618	DISC2	To Heart	
+SLPS_004.36	NTSC-JP	0549	588		Toaplan Shooting Battle 1	
+SLPS_004.00	NTSC-JP	1958	442	DISC1	Tobal No.1	
+SLPS_004.01	NTSC-JP	1958b	164	DISC2	Tobal No.1	
+SCUS_942.08	NTSC-US	1102	442		Tobal No.1	
+SLPM_860.33	NTSC-JP	0488	555		Tobal No.2	
+SLUS_009.96	NTSC-US	2009	483		TOCA - Touring Car Challenge 2	
+SLES_025.72	PAL-EU	1282	364		TOCA - World Touring Cars	PAL/NTSC selector
+SLES_015.42	PAL-EU	1283	489		TOCA 2 - Touring Car Challenge	
+SLPM_860.05	NTSC-JP	1491	570		Tokimeki Memorial - Taisen Pazurudama	
+SLPM_863.55	NTSC-JP	1796	575	DISC1	Tokimeki Memorial 2	
+SLPM_863.56	NTSC-JP	1796b	614	DISC2	Tokimeki Memorial 2	
+SLPM_863.57	NTSC-JP	1796c	621	DISC3	Tokimeki Memorial 2	modchip-protected
+SLPM_863.58	NTSC-JP	1796d	618	DISC4	Tokimeki Memorial 2	modchip-protected
+SLPM_863.59	NTSC-JP	1796e	617	DISC5	Tokimeki Memorial 2	modchip-protected
+SLPM_867.53	NTSC-JP	1579	486		Tokimeki Memorial 2 - Taisen Pazurudama	
+SLPM_865.49	NTSC-JP	2228	622	DISC1	Tokimeki Memorial 2 Substories Vol.1 - Dancing Summer Vacation	
+SLPM_865.50	NTSC-JP	2228b	621	DISC2	Tokimeki Memorial 2 Substories Vol.1 - Dancing Summer Vacation	
+SLPM_860.39	NTSC-JP	0821	622		Tokimeki Memorial Drama Series Vol.1 - Nijiiro no Seishun	
+SLPS_001.74	NTSC-JP	1926	478		Tokyo Dungeon	
+SLUS_002.29	NTSC-US	1857	519		Tokyo Highway Battle	
+SLPS_020.15	NTSC-JP	1164	619		Tokyo Majin Gakuen Oboro-Kitan	
+SLPM_871.78	NTSC-JP	0867	516		Tokyo Mew Mew (Myuumint Box)	
+SLUS_009.47	NTSC-US	0273	344		Tom Clancy's Rainbow Six	
+SLUS_011.08	NTSC-US	1262	282		Tom Clancy's Rainbow Six - Rogue Spear	
+SCPS_100.87	NTSC-JP	2366	443		Tomarunner	modchip-protected
+SLUS_013.11	NTSC-US	0287	541		Tomb Raider - Chronicles	
+SLUS_008.85	NTSC-US	0698	612		Tomb Raider - The Last Revelation	
+SLUS_001.52	NTSC-US	0212	550		Tomb Raider	
+SLPS_012.00	NTSC-JP	2356	618		Tomb Raider II	
+SLUS_004.37	NTSC-US	0606	618		Tomb Raider II	
+SLPM_861.96	NTSC-JP	1770	579	DISC1	Tomb Raider III - Adventures of Lara Croft	
+SLPM_861.97	NTSC-JP	1770b	580	DISC2	Tomb Raider III - Adventures of Lara Croft	international version
+SLUS_006.91	NTSC-US	0436	579		Tomb Raider III - Adventures of Lara Croft	
+SLPS_006.17	NTSC-JP	0699	509		Tomb Raiders	
+SLPS_023.50	NTSC-JP	2463	362		Tomba! The Wild Adventures	
+SCUS_942.36	NTSC-US	0313	232		Tomba! The Wild Adventures	
+SCUS_944.54	NTSC-US	0597	364		Tomba! 2 - The Evil Swine Return	anti-modchip protection patched
+SLES_012.28	PAL-EU	0304	534		Tommi Makinen Rally	
+SLUS_010.07	NTSC-US	1935	472		Tonka Space Station	
+SLUS_008.60	NTSC-US	0519	548		Tony Hawk's Pro Skater	
+SLUS_010.66	NTSC-US	0286	621		Tony Hawk's Pro Skater 2	
+SLUS_014.19	NTSC-US	0518	586		Tony Hawk's Pro Skater 3	
+SLUS_014.85	NTSC-US	0285	620		Tony Hawk's Pro Skater 4	
+SLPS_006.65	NTSC-JP	2256	542		Top Gun - Fire At Will!	
+SLUS_000.32	NTSC-US	0469	543		Top Gun - Fire At Will!	
+XXXX_XXX.XX	NTSC-US	1260	316		Torc - Legend of the Ogre Crown	PAL/NTSC selector
+SLUS_011.81	NTSC-US	0612	514		Torneko - The Last Hope - World of Dragon Warrior	
+SLPS_020.22	NTSC-JP	0595	539		Toshinden Subaru	
+SLUS_000.21	NTSC-US	0692	256		Total Eclipse Turbo	
+SLPS_023.61	NTSC-JP	0424	203		Touge Max G	
+SLPS_015.74	NTSC-JP	0425	450		Touge Max 2	
+SLPS_011.68	NTSC-JP	0005	361		Touki Denshou - Angel Eyes	
+SLPM_804.29	NTSC-JP	2464	215		Toyota Netz Racing (NOT FOR SALE)	
+SLUS_011.60	NTSC-US	0760	390		Transformers - Beast Wars - Transmetals	
+SLPS_014.94	NTSC-JP	0294	589		Trap Gunner	
+SLUS_006.79	NTSC-US	1397	588		Trap Gunner	
+SLES_002.56	PAL-EU	1577	620		Trash It	
+SLUS_004.30	NTSC-US	0731	420		Treasures of The Deep	
+SLUS_009.79	NTSC-US	1988	184		Trick'n Snowboarder	
+SLUS_002.37	NTSC-US	2045	389		Triple Play '97	
+SLUS_004.65	NTSC-US	1952	527		Triple Play '98	
+SLUS_006.18	NTSC-US	1215	588		Triple Play '99	
+SLUS_010.82	NTSC-US	2010	474		Triple Play 2001	
+SLUS_013.45	NTSC-US	0297	474		Triple Play 2002	
+SLPS_026.26	NTSC-JP	1694	226		TRL - The Rail Loaders	
+SLPS_021.08	NTSC-JP	2176	298	DISC1	Tron Ni Kobun - The Missadventures of Tron Bonne	
+SLPS_021.09	NTSC-JP	2176b	109	DISC2	Tron Ni Kobun - The Missadventures of Tron Bonne	RockMan Dash 2 (DEMO)
+SLPS_005.86	NTSC-JP	2413	425		True Love Story	
+SLPS_004.40	NTSC-JP	2373	306		Tsu Ribaka Nisshi	
+SLES_032.98	PAL-EU	1227	155		Tunguska - Legend of Faith	
+SLUS_001.88	NTSC-US	2466	405		Tunnel B1	
+SCUS_942.29	NTSC-US	2067	507		Turbo Prop Racing	
+SLPS_003.88	NTSC-JP	2360	594		Turf Wind '96	
+SLUS_014.99	NTSC-US	2287	201		Turnabout	
+SLPS_000.18	NTSC-JP	0668	419		Twin Goddesses	
+SLPM_860.77	NTSC-JP	0884	399		TwinBee RPG	
+SLPS_000.15	NTSC-JP	1736	583		Twinbee Taisen Puzzle Dama	
+SCUS_946.42	NTSC-US	0283	272		Twisted Metal - Small Brawl	
+SCUS_943.04	NTSC-US	0473	283		Twisted Metal	
+SCUS_943.06	NTSC-US	0271	609		Twisted Metal 2	
+SCUS_942.49	NTSC-US	0716	536		Twisted Metal 3	
+SCUS_945.60	NTSC-US	0459	620		Twisted Metal 4	
+SLPS_001.31	NTSC-JP	0599	200		Two Tenkaku	
+SLUS_010.74	NTSC-US	1701	239		Tyco RC Assault with a Battery	
+SLES_007.22	PAL-EU	1646	568		Ubik	
+SLPS_020.32	NTSC-JP	2283	217		UFO - A Day in the Life	
+SLPS_007.42	NTSC-JP	1196	362		Ultima Underworld - The Stygian Abyss	
+SLUS_008.64	NTSC-US	1531	552		Ultimate 8 Ball	
+SLUS_015.77	NTSC-US	1532	448		Ultimate Brain Games	
+SLUS_011.43	NTSC-US	1533	454		Ultimate Fighting Championship	
+SLPS_012.48	NTSC-JP	1508	389		Ultraman - Ultimate Fighting Evolution	
+SLPS_014.55	NTSC-JP	1396	510		Ultraman Tiga & Dyna Fighting Evolution - New Generations	
+SLPS_006.52	NTSC-JP	1041	434		Ultraman Zearth	
+SCPS_180.11	NTSC-JP	1762	615		Um Jammer Lammy	modchip-protected
+SCUS_944.48	NTSC-US	0552	614		Um Jammer Lammy	
+SLPS_016.23	NTSC-JP	2231	572		Umi no Oh! Yah!	
+SLPM_870.55	NTSC-JP	1950	287		Ungra Walker	
+SLUS_006.86	NTSC-US	1538	545		Uprising X	
+SLUS_010.19	NTSC-US	0405	511		Urban Chaos	
+SLES_019.07	PAL-EU	0432	582		V-Rally 2	PAL/NTSC selector
+SLES_005.45	PAL-EU	2337	396		V2000	
+SLPS_003.52	NTSC-JP	2449	363		Vadims	
+SLPS_023.77	NTSC-JP	0997	623		Vagrant Story	
+SLUS_010.40	NTSC-US	0229	623		Vagrant Story	
+SLUS_011.56	NTSC-US	0300	606	DISC1	Valkyrie Profile	
+SLUS_011.79	NTSC-US	0300b	620	DISC2	Valkyrie Profile	
+SLPS_024.77	NTSC-JP	1498	458		Vampire Hunter D	
+SLUS_011.38	NTSC-US	0250	398		Vampire Hunter D	
+SLUS_010.35	NTSC-US	0230	569		Vanark	
+SLUS_004.47	NTSC-US	1722	552		Vandal Hearts	
+SLPM_860.07	NTSC-JP	2013	554		Vandal Hearts - Ushinawareta Kodai Bunmei	
+SLUS_009.40	NTSC-US	1723	238		Vandal Hearts II	
+SLUS_010.70	NTSC-US	0908	474		Vanguard Bandits	
+SLUS_011.09	NTSC-US	0754	550		Vanishing Point	
+SLUS_008.36	NTSC-US	1757	187		Vegas Games 2000	
+SCPS_100.27	NTSC-JP	2271	432		Velldeselba Senki - Tsubasa no Kunshou	
+SLES_012.93	PAL-EU	1647	593		Versailles - A Game of Intrigue	
+SCES_028.73	PAL-EU	2153	178		Vib-Ribbon	
+SCPS_180.12	NTSC-JP	0228	171		Vib-Ribbon	
+SLPS_003.72	NTSC-JP	2236	174		Victory Spike	
+SLUS_000.33	NTSC-US	1299	489		Viewpoint	
+SLES_001.23	PAL-EU	0991	487		Viewpoint	
+SLPS_017.03	NTSC-JP	2267	521		Vigilante 8	
+SLUS_005.10	NTSC-US	0568	504		Vigilante 8	
+SLUS_008.68	NTSC-US	0869	596		Vigilante 8 - 2nd Offense	
+SLUS_012.28	NTSC-US	1679	526		VIP	
+SLPS_005.68	NTSC-JP	2434	534		Virtual Gallop-Kishudou	
+SLUS_013.41	NTSC-US	1725	528		Virtual Kasparov	
+SLUS_002.18	NTSC-US	1758	202		Virtual Open Tennis	
+SLUS_000.34	NTSC-US	1216	577		Virtual Pool	
+SLUS_013.74	NTSC-US	0231	143		Virtual Pool 3	
+SLPS_004.49	NTSC-JP	2069	487		Virtual Pro Wrestling	
+SLES_013.17	PAL-EU	1188	392		Virus.. It is Aware	
+SLUS_009.53	NTSC-US	1525	513		Viva Soccer	
+SLPS_031.40	NTSC-JP	1180	516		Volfoss	
+SLPS_005.90	NTSC-JP	1472	608	DISC1	Voice Paradice Excella	
+SLPS_005.91	NTSC-JP	1472b	214	DISC2	Voice Paradice Excella	
+SLUS_001.23	NTSC-US	0778	456		VMX Racing	
+SLUS_002.81	NTSC-US	0916	291		VR Baseball '97	
+SLUS_006.32	NTSC-US	1755	412		VR Baseball '99	
+SLUS_001.98	NTSC-US	0917	376		VR Golf '97	
+SLUS_001.99	NTSC-US	1756	112		VR Soccer '96	
+SLUS_006.25	NTSC-US	1709	554		VR Sports Powerboat Racing	
+SLUS_005.13	NTSC-US	1298	283		Vs.	
+SLES_024.68	PAL-EU	1466	369		Wacky Races	PAL patched NTSC
+SLPS_016.95	NTSC-JP	0315	058		Waku Waku Volley	
+SLPS_026.39	NTSC-JP	1210	125		Waneba Island - World Neverland Series	
+SLPS_012.13	NTSC-JP	1608	530	DISC1	Wangan Trial	
+SLPS_012.14	NTSC-JP	1608b	540	DISC2	Wangan Trial	
+SLUS_005.99	NTSC-US	0485	437		War Games - Defcon 1	
+SLUS_003.28	NTSC-US	0933	281		War Gods	
+SLUS_004.80	NTSC-US	0280	601		Warcraft II - The Dark Saga	
+SLUS_005.50	NTSC-US	1448	390		Warhammer - Dark Omen	
+SLUS_001.17	NTSC-US	2072	617		Warhammer - Shadow of the Horned Rat	
+SCUS_943.05	NTSC-US	0246	554		Warhawk - The Red Mercury Missions	
+SLUS_009.76	NTSC-US	1320	514		Warpath - Jurassic Park	
+SLUS_012.04	NTSC-US	1189	375		Warriors of Might & Magic	
+SLUS_008.19	NTSC-US	0656	584		Warzone 2100	
+SLUS_001.47	NTSC-US	0801	047		Wayne Gretzky's 3D Hockey '98	
+SLUS_007.79	NTSC-US	0529	520		WCW/NWO Thunder	
+SLUS_012.74	NTSC-US	1705	583		WCW Backstage Assault	
+SLUS_009.63	NTSC-US	0387	604		WCW Mayhem	
+SLUS_003.97	NTSC-US	0761	534		WCW Nitro	
+SLUS_004.55	NTSC-US	0386	488		WCW vs. The World	
+SLUS_011.75	NTSC-US	2073	408		WDL World Destruction League - Thunder Tanks	
+SLUS_014.13	NTSC-US	2074	599		Weakest Link	
+SLPS_003.68	NTSC-JP	1510	330		Wedding Peach - Doki Doki Oiro - Naoshi Fashion Dai-Sakusen	
+SLPS_001.90	NTSC-JP	1672	208		Welcome House	
+SLPS_006.33	NTSC-JP	1673	292		Welcome House 2 - Keaton & His Uncle	
+SLPS_018.87	NTSC-JP	1060	258		Weltorv Estleia	
+SLUS_008.EP	NTSC-US	0554	512		Wesker Report	RE videos CD created by Zorlon from EP
+SLUS_006.83	NTSC-US	1503	609		Wheel of Fortune	
+SLUS_011.74	NTSC-US	2075	580		Wheel of Fortune - 2nd Edition	
+SLPS_023.52	NTSC-JP	0895	518		White Diamond	
+SCUS_945.67	NTSC-US	1563	573		Who Wants To Be a Millionaire - 2nd Edition	
+SCUS_946.44	NTSC-US	1564	389		Who Wants To Be a Millionaire - 3rd Edition	
+SLUS_004.25	NTSC-US	0278	480		Wild 9	
+SCPS_100.28	NTSC-JP	1794	519		Wild Arms	
+SCUS_946.08	NTSC-US	0279	529		Wild Arms	
+SCUS_944.84	NTSC-US	0860	428	DISC1	Wild Arms 2	modchip-protected
+SCUS_944.98	NTSC-US	0860b	466	DISC2	Wild Arms 2	modchip-protected
+SLUS_011.28	NTSC-US	2097	525		Wild Thornberrys - Animal Adventures	
+SLUS_000.19	NTSC-US	0967	599	DISC1	Wing Commander III - Heart of the Tiger	
+SLUS_001.34	NTSC-US	0967b	623	DISC2	Wing Commander III - Heart of the Tiger	
+SLUS_001.35	NTSC-US	0967c	609	DISC3	Wing Commander III - Heart of the Tiger	
+SLUS_001.36	NTSC-US	0967d	599	DISC4	Wing Commander III - Heart of the Tiger	
+SLUS_002.70	NTSC-US	1399	610	DISC1	Wing Commander IV - The Price of Freedom	
+SLUS_002.71	NTSC-US	1399b	586	DISC2	Wing Commander IV - The Price of Freedom	
+SLUS_002.72	NTSC-US	1399c	614	DISC3	Wing Commander IV - The Price of Freedom	
+SLUS_002.73	NTSC-US	1399d	567	DISC4	Wing Commander IV - The Price of Freedom	
+SLUS_015.13	NTSC-US	2082	224		Winnie the Pooh - Kindergarden	
+SLUS_015.14	NTSC-US	2083	573		Winnie the Pooh - Preschool	
+SLUS_012.10	NTSC-US	1281	302		Winnie the Pooh - Tigger's Honey Hunt	
+SLPM_860.10	NTSC-JP	1621	213		Winning Eleven - J.League Jikkyou Winning Eleven '97	
+SLPM_870.56	NTSC-JP	1315	394		Winning Eleven - World Soccer 2002	
+SLPM_861.62	NTSC-JP	1316	264		Winning Eleven - World Soccer Winning Eleven 3 - Final Version	
+SCUS_943.01	NTSC-US	0662	418		Wipeout	
+SIPS_600.03	NTSC-JP	2081	573		Wipeout	
+SLUS_008.65	NTSC-US	0766	502		Wipeout 3	
+SCES_019.09	PAL-EU	0245	588		Wipeout 3	PAL/NTSC selector
+SCES_028.45	PAL-EU	0734	536		Wipeout 3 - Special Edition	PAL/NTSC selector
+SCUS_943.51	NTSC-US	0735	592		Wipeout XL	
+SLPS_026.91	NTSC-JP	1067	390		Wizardry - Dimguil	
+SLPS_012.79	NTSC-JP	2037	315		Wizardry - Llylgamyn Saga	
+SLPM_871.39	NTSC-JP	2103	131		Wizardry Empire 2 - Legacy of the Princess	
+SLPS_001.97	NTSC-JP	2107	203		Wolkenkratzer - Shinpan no Tou	
+SLPS_009.27	NTSC-JP	0281	540		Wonder 3 - Arcade Gears	
+SCPS_100.72	NTSC-JP	1795	260		Wonder Tracker	
+SLUS_011.88	NTSC-US	2101	109		Woody Woodpecker Racing	
+SLUS_006.44	NTSC-US	1998	590		World Cup '98	
+SLPS_002.56	NTSC-JP	0770	568		World Cup Golf	
+SLUS_000.63	NTSC-US	0816	552		World Cup Golf	
+SLUS_012.47	NTSC-US	1513	430		World Destruction League - War Jetz	
+SLPS_010.37	NTSC-JP	1212	150		World Neverland - The Olerud Kingdom Stories	
+SLPS_018.84	NTSC-JP	1211	173		World Neverland 2 - The Waktic Republic of Pluto	
+SLUS_011.65	NTSC-US	0824	363		World's Scariest Police Chases	
+SLPM_862.91	NTSC-JP	0442	365		World Soccer Jikkyo Winning Eleven 4	
+SLPS_013.35	NTSC-JP	1622	549		World Stadium 2	
+SLPS_000.75	NTSC-JP	0771	608		World Stadium EX	
+SLPS_002.54	NTSC-JP	1695	409		Wolf Fang	
+SLUS_003.36	NTSC-US	1108	448		Worms	
+SLUS_008.88	NTSC-US	0811	455		Worms Armageddon	
+SLUS_014.48	NTSC-US	0576	427		Worms World Party	
+SLUS_005.87	NTSC-US	1550	285		Wreckin' Crew	
+SLUS_009.29	NTSC-US	0598	551		Wu-Tang Shaolin Style	
+SLUS_008.31	NTSC-US	0334	570		WWF Attitude	
+SLUS_002.46	NTSC-US	0389	268		WWF In Your House	
+SLUS_009.27	NTSC-US	0254	492		WWF Smackdown!	
+SLUS_012.34	NTSC-US	0255	619		WWF Smackdown!2 - Know Your Role	
+SLPS_002.23	NTSC-JP	1828	112		WWF Wrestlemania - The Arcade Game	
+SLUS_000.13	NTSC-US	0573	112		WWF Wrestlemania - The Arcade Game	
+SLUS_014.44	NTSC-US	1107	442		X-Bladz - In-Line Skating	
+SLPS_002.57	NTSC-JP	2322	563		X-Com - Michi Naru Shinryakusha	
+SLUS_001.41	NTSC-US	1043	544		X-Com - UFO Defense	
+SLPS_019.44	NTSC-JP	2225	575		X-Games Pro Boarder	
+SLUS_000.44	NTSC-US	0748	441		X-Men - Children of the Atom	
+SLUS_007.74	NTSC-US	0251	562		X-Men - Mutant Academy	
+SLUS_013.82	NTSC-US	0919	570		X-Men - Mutant Academy 2	
+SLES_036.30	PAL-EU	0318	571		X-Men - Mutant Academy 2	PAL patched NTSC
+SLPS_012.84	NTSC-JP	1071	326		X-Men vs. Street Fighter EX Edition	
+SLPS_007.66	NTSC-JP	0247	454		X2 - No Relief	
+SLES_004.55	PAL-EU	0981	439		X2 - No Relief	
+SLUS_009.77	NTSC-US	0934	268		Xena - Warrior Princess	
+SLPS_011.60	NTSC-JP	1511	596	DISC1	Xenogears	
+SLPS_011.61	NTSC-JP	1511b	606	DISC2	Xenogears	
+SLUS_006.64	NTSC-US	0481	596	DISC1	Xenogears	
+SLUS_006.69	NTSC-US	0481b	571	DISC2	Xenogears	
+SLPS_007.50	NTSC-JP	1765	539		Xevious 3D-G+	
+SLUS_004.61	NTSC-US	0352	539		Xevious 3D/G+	
+SCPS_101.23	NTSC-JP	2137	512		XI (Sai) Jumbo	modchip-protected
+SLUS_015.66	NTSC-US	2055	107		XS Airboat Racing	
+SLUS_015.54	NTSC-US	2123	184		XS Jr. League Football	
+SLUS_015.20	NTSC-US	2124	184		XS Jr. League Soccer	
+SLUS_015.06	NTSC-US	0823	405		XS Moto	
+SLPS_032.09	NTSC-JP	2208	096		Yakiniku Bugyou	
+SLPS_034.35	NTSC-JP	2209	245		Yakitori Musume - Sugo Ude Hanjouki	
+SLPS_029.80	NTSC-JP	2470	239		Yamasa Digi Guide - New Pulsar R	
+SLPS_034.28	NTSC-JP	1797	203		Yamasa Digi Selection DX	[Deluxe Version]
+SCPS_100.56	NTSC-JP	1565	562	DISC1	Yarudora Series Vol.2 - Kisetsu o Dakishimete	
+SCPS_100.57	NTSC-JP	1565b	613	DISC2	Yarudora Series Vol.2 - Kisetsu o Dakishimete	
+SCPS_100.67	NTSC-JP	1566	540	DISC1	Yarudora Series Vol.3 - Sanpaguita	
+SCPS_100.68	NTSC-JP	1566b	623	DISC2	Yarudora Series Vol.3 - Sanpaguita	
+SCPS_100.69	NTSC-JP	1567	553	DISC1	Yarudora Series Vol.4 - Yukiwari no Hana	
+SCPS_100.70	NTSC-JP	1567b	578	DISC2	Yarudora Series Vol.4 - Yukiwari no Hana	
+SLPS_014.62	NTSC-JP	2471	270		Yasoukyoku	
+SLPS_032.13	NTSC-JP	2472	439		Yasoukyoku 2	
+SLES_041.64	PAL-EU	0966	088		Yetisports Deluxe	
+SLUS_007.16	NTSC-US	0799	585	DISC1	You Don't Know Jack	
+SLUS_007.62	NTSC-US	0799b	564	DISC2	You Don't Know Jack	
+SLUS_011.94	NTSC-US	1540	535		You Don't Know Jack - Mock 2	
+SLES_017.84	PAL-EU	2460	183		YoYo's Puzzle Park	
+SLPM_863.98	NTSC-JP	2473	426		Yu-Gi-Oh! Shin Duel Monsters	modchip-protected
+SLPS_012.58	NTSC-JP	2377	513		Yukyu Gensokyoku 2nd Album	
+SLPS_018.75	NTSC-JP	2323	536		Yukyu Gensokyoku Ensemble 2	
+SLPS_029.54	NTSC-JP	2452	588		Yume no Tsubasa	
+SLPS_020.24	NTSC-JP	2341	399		Yuugen Kaisha Chikyuu Boueitai - Earth Defenders Corporation	
+SLPS_029.11	NTSC-JP	1354	458		Yuukyuu Kumikyoku - All Star Project	
+SLPS_019.28	NTSC-JP	1064	414		Yuukyuu no Eden - The Eternal Eden	
+SLPS_022.74	NTSC-JP	2319	600		Yuuyami Doori Tankentai	
+SLPS_014.60	NTSC-JP	1353	507		Yuwaku Office Ren Ai Ka	
+SCES_006.02	PAL-EU	1342	573		Z - The Bitmap Brothers	language: G
+SLPS_033.54	NTSC-JP	0248	315		Zanac X Zanac	
+SLPS_009.09	NTSC-JP	2232	461		Zap! Snowboarding Trix '98	
+SLPS_005.75	NTSC-JP	1403	560		Zeiramzone	
+SLPS_000.34	NTSC-JP	0958	311		Zeitgeist	
+SLUS_001.EP	NTSC-US	0553	540		Zelda Cartoon Collection Vol.1	Zelda videos CD created by Zorlon from EP
+SLPS_018.49	NTSC-JP	0907	414		Zen-Nihon Pro Wrestling - Ouja no Kon	
+SLPS_014.75	NTSC-JP	2450	330		Zen-Nippon Onna Pro Wrestling - Joou Densetsu	
+SLPS_007.55	NTSC-JP	1087	480		Zero 4 Champ Doozy-J	
+SLUS_001.83	NTSC-US	1690	341		Zero Divide	
+SLPS_008.91	NTSC-JP	0708	418		Zero Divide 2 - The Secret Wish	
+SCPS_100.49	NTSC-JP	2474	455		Zero Pilot - Ginyoku no Senshi	
+SLPS_023.18	NTSC-JP	2403	576		Zeus II - Carnage Heart	
+SLPM_863.11	NTSC-JP	0883	611		Zill O'll	
+SLUS_014.01	NTSC-US	1546	501		Zoboomafoo	
+SLPS_029.82	NTSC-JP	0927	379		Zoids - Zenebus vs. Heric	
+SLPS_033.89	NTSC-JP	1717	356		Zoids 2 - Heric vs. Guylos	
+SLPS_032.55	NTSC-JP	1716	319		Zoids Battle Card Game	
+SLUS_000.78	NTSC-US	0928	219		Zoop	

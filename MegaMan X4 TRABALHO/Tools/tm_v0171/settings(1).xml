@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE settings SYSTEM "settings.dtd">
+<settings>
+  <property key="locale" value="en_US"/>
+  <property key="viewStatusBar" value="true"/>
+  <property key="viewToolBar" value="true"/>
+  <property key="maxRecentFiles" value="10"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\LOAD_U\LOAD_U_0.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\CAPCOM\CAPCOM_0.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\ST02_00\ST02_00_3.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL00_U\PL00_U_2.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL02_U\PL02_U_1.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL00_U\PL00_U_15.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL00_U\PL00_U_14.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL00_U\PL00_U_13.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL00_U\PL00_U_12.BIN"/>
+  <property key="recentFile" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL00_U\PL00_U_5.BIN"/>
+  <property key="lastPath" value="C:\Users\CRECI TI\Downloads\games\MegaMan X4 [SLUS-00561]\romhack\ARC\PL00_U"/>
+</settings>

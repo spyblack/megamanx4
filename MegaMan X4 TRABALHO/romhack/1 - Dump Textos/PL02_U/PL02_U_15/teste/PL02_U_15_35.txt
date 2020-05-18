@@ -1,0 +1,8 @@
+[08]COLONEL[ENDLINE2]
+[18]Impressionante! Mas[ENDLINE2]
+o resultado não será[ENDBOX2]
+[08]COLONEL[ENDLINE2]
+[18]esse na próxima vez.[ENDLINE2]
+Até lá...[ENDBOX2]
+[58]X[ENDLINE2]
+[18]Coronel![ENDTEXT2]

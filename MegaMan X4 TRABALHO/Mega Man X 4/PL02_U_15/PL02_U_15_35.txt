@@ -1,0 +1,8 @@
+[08]COLONEL[ENDLINE2]
+[18]Impressive! But the[ENDLINE2]
+result won't be the[ENDBOX2]
+[08]COLONEL[ENDLINE2]
+[18]same next time.[ENDLINE2]
+Until then...[ENDBOX2]
+[58]X[ENDLINE2]
+[18]Colonel![ENDTEXT2]

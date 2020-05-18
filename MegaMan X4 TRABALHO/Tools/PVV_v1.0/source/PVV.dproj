@@ -1,0 +1,129 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{4AD79D8D-C5C5-4385-B394-6D2E5988A0CE}</ProjectGuid>
+			<MainSource>PVV.dpr</MainSource>
+			<Config Condition="'$(Config)'==''">Base</Config>
+			<DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+			<ProjectVersion>12.0</ProjectVersion>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_RangeChecking>true</DCC_RangeChecking>
+			<DCC_IntegerOverflowCheck>true</DCC_IntegerOverflowCheck>
+			<DCC_UnitSearchPath>inc;HexStr;ReverseBits;PasZLib-SG;PasZLib-SG\paszlib;$(DCC_UnitSearchPath)</DCC_UnitSearchPath>
+			<DCC_DcuOutput>dcu</DCC_DcuOutput>
+			<DCC_ExeOutput>..</DCC_ExeOutput>
+			<DCC_DependencyCheckOutputName>..\PVV.exe</DCC_DependencyCheckOutputName>
+			<DCC_UsePackage>vcl;rtl</DCC_UsePackage>
+			<DCC_Platform>x86</DCC_Platform>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
+		</PropertyGroup>
+		<ItemGroup>
+			<DelphiCompile Include="PVV.dpr">
+				<MainSource>MainSource</MainSource>
+			</DelphiCompile>
+			<DCCReference Include="UForm_Main.pas">
+				<Form>Form_Main</Form>
+			</DCCReference>
+			<DCCReference Include="UForm_Input.pas">
+				<Form>Form_Input</Form>
+			</DCCReference>
+			<DCCReference Include="UForm_Palette.pas">
+				<Form>Form_Palette</Form>
+			</DCCReference>
+			<DCCReference Include="ePSXe.pas"/>
+			<DCCReference Include="pSX.pas"/>
+			<DCCReference Include="PCSX15.pas"/>
+			<DCCReference Include="PCSX19.pas"/>
+			<DCCReference Include="UINI.pas"/>
+			<DCCReference Include="UShared.pas"/>
+			<DCCReference Include="UStreamTools.pas"/>
+			<DCCReference Include="UStringLists.pas"/>
+			<DCCReference Include="UZST.pas"/>
+			<DCCReference Include="PCSX15.pa"/>
+			<DCCReference Include="PCSX15.p"/>
+			<DCCReference Include="PCSX15"/>
+			<DCCReference Include="PCSX1"/>
+			<DCCReference Include="UStreamTools.pa"/>
+			<DCCReference Include="pSX.pa"/>
+			<DCCReference Include="pSX.p"/>
+			<DCCReference Include="pSX"/>
+			<DCCReference Include="pS"/>
+			<DCCReference Include="p"/>
+			<DCCReference Include="ePSXe.pa"/>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<Import Project="$(BDS)\Bin\CodeGear.Delphi.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')"/>
+		<ProjectExtensions>
+			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
+			<Borland.ProjectType>VCLApplication</Borland.ProjectType>
+			<BorlandProject>
+				<Delphi.Personality>
+					<Source>
+						<Source Name="MainSource">PVV.dpr</Source>
+					</Source>
+					<Parameters>
+						<Parameters Name="UseLauncher">False</Parameters>
+						<Parameters Name="LoadAllSymbols">True</Parameters>
+						<Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+					</Parameters>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">0</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1033</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName">blastic brains</VersionInfoKeys>
+						<VersionInfoKeys Name="FileDescription">PSX VRAM Viewer</VersionInfoKeys>
+						<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName">PVV</VersionInfoKeys>
+						<VersionInfoKeys Name="LegalCopyright">{C)opyright creaothceann 2007..2010}</VersionInfoKeys>
+						<VersionInfoKeys Name="LegalTrademarks">creaothceann@web.de</VersionInfoKeys>
+						<VersionInfoKeys Name="OriginalFilename">PVV.exe</VersionInfoKeys>
+						<VersionInfoKeys Name="ProductName">PVV</VersionInfoKeys>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments">romhacking dot net</VersionInfoKeys>
+						<VersionInfoKeys Name="SpecialBuild">pre-release</VersionInfoKeys>
+					</VersionInfoKeys>
+				</Delphi.Personality>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+	</Project>

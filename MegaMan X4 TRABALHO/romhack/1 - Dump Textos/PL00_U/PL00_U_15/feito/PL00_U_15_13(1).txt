@@ -1,0 +1,6 @@
+[00]STINGRAY[ENDLINE]
+[10]Estou impressionado[ENDLINE]
+por ter me achado...[ENDBOX]
+[00]STINGRAY[ENDLINE]
+[10]Sua busca acabou.[ENDLINE]
+Prepare-se X![ENDTEXT]

@@ -1,0 +1,6 @@
+[00]BASE DE GELO[ENDLINE]
+[10]Foi descoberta uma[ENDLINE]
+base em pleno gelo.[ENDBOX]
+[00]BASE DE GELO[ENDLINE]
+[10]Acabe com a produção[ENDLINE]
+da nova arma.[ENDTEXT]

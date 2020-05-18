@@ -1,0 +1,8 @@
+[00]PEACOCK[ENDLINE]
+[10]Estou impressionado[ENDLINE]
+que pode chegar[ENDBOX]
+[00]PEACOCK[ENDLINE]
+[10]tão longe![ENDBOX]
+[00]PEACOCK[ENDLINE]
+[10]Mas não poderá me[ENDLINE]
+vencer! Prepare-se![ENDTEXT]

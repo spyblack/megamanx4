@@ -1,0 +1,6 @@
+[00]BIO LABORATÓRIO[ENDLINE]
+[10]O laboratório antigo[ENDLINE]
+voltou a funcionar.[ENDBOX]
+[00]BIO LABORATÓRIO[ENDLINE]
+[10]Investigue e destrua[ENDLINE]
+o laboratório.[ENDTEXT]

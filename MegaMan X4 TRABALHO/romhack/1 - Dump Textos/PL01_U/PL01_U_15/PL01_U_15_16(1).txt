@@ -1,0 +1,6 @@
+[00]BEAST[ENDLINE]
+[10]You dared to attack[ENDLINE]
+my unit?![ENDBOX]
+[00]BEAST[ENDLINE]
+[10]I'm gonna enjoy[ENDLINE]
+fighting you![ENDTEXT]

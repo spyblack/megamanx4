@@ -1,0 +1,6 @@
+[08]VOLCANO[ENDLINE2]
+[18]Dragoon of the 14th[ENDLINE2]
+unit is a traitor.[ENDBOX2]
+[08]VOLCANO[ENDLINE2]
+[18]Locate and bring him[ENDLINE2]
+back to hunter H.Q.[ENDTEXT2]

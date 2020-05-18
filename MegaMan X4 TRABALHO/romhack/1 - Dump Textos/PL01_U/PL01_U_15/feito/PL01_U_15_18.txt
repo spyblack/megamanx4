@@ -1,0 +1,7 @@
+[00]HYOURETSUZAN[ENDLINE]
+[10]Baixo + botão S.M.[ENDLINE]
+durante o pulo.[ENDBOX]
+Ataque de mergulho.[ENDLINE]
+Efetivo contra[ENDLINE]
+inimigos na[ENDLINE]
+superfície.[ENDTEXT]

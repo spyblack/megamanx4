@@ -1,0 +1,6 @@
+[00]FROST TOWER[ENDLINE]
+[10]Cria um grande bloco[ENDLINE]
+de gelo que serve de[ENDBOX]
+escudo. Útil também[ENDLINE]
+para prender inimigos[ENDLINE]
+antes de derreter.[ENDTEXT]
